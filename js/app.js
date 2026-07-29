@@ -2,8 +2,8 @@ import { eventData, fixtures, seededPairs, behindScenes } from "./data.js";
 import { initialiseNavigation } from "./navigation.js";
 import { initialiseFixtureFilters } from "./filters.js";
 import { initialiseSharing } from "./share.js";
+import { loadOfficialResults } from "./official-results.js";
 
-const imagePath = "assets/images/pretoria-match-night.png";
 const escapeHTML = value => String(value).replace(/[&<>"']/g, character => ({
   "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#039;"
 }[character]));
@@ -33,7 +33,10 @@ function renderFixtures(items) {
       </span>`;
     article.innerHTML = `
       <div class="fixture-card__top">
-        <div><span class="fixture-card__time">${escapeHTML(fixture.time)}</span><br>${escapeHTML(fixture.court)}</div>
+        <div>
+          ${fixture.status === "Completed" ? "" : `<span class="fixture-card__time">${escapeHTML(fixture.time)}</span><br>`}
+          ${escapeHTML(fixture.court)}
+        </div>
         <span class="status-pill ${statusClass(fixture.status)}">${escapeHTML(fixture.status)}</span>
       </div>
       <p class="eyebrow">${escapeHTML(fixture.division)} · ${escapeHTML(fixture.round)}</p>
@@ -48,6 +51,47 @@ function renderFixtures(items) {
       </div>`;
     grid.append(article);
   });
+}
+
+function fixtureDateLabel(date, day) {
+  const [year, month, dateOfMonth] = date.split("-").map(Number);
+  const label = new Intl.DateTimeFormat("en-ZA", {
+    weekday: "long",
+    day: "numeric",
+    month: "long",
+    timeZone: "Africa/Johannesburg"
+  }).format(new Date(Date.UTC(year, month - 1, dateOfMonth, 12)));
+  return `${label}${day ? ` · Day ${day}` : ""}`;
+}
+
+async function refreshOfficialResults(filters) {
+  const status = document.querySelector("#fixture-sync-status");
+  const date = document.querySelector("#fixture-date");
+  try {
+    const snapshot = await loadOfficialResults();
+    filters.update(snapshot.fixtures);
+    if (date) date.textContent = fixtureDateLabel(snapshot.date, snapshot.day);
+    if (status) {
+      const syncedAt = new Intl.DateTimeFormat("en-ZA", {
+        timeZone: "Africa/Johannesburg",
+        day: "numeric",
+        month: "short",
+        hour: "2-digit",
+        minute: "2-digit",
+        hour12: false
+      }).format(new Date(snapshot.generatedAt));
+      status.textContent = snapshot.isBundledSnapshot
+        ? `Saved official schedule from ${syncedAt} SAST`
+        : `Official schedule synced ${syncedAt} SAST`;
+      status.dataset.state = snapshot.isBundledSnapshot ? "fallback" : "success";
+    }
+  } catch (error) {
+    console.warn("Could not refresh official results:", error);
+    if (status) {
+      status.textContent = "Showing the last saved schedule";
+      status.dataset.state = "fallback";
+    }
+  }
 }
 
 function renderSeededPlayers() {
@@ -81,22 +125,20 @@ function renderSeededPlayers() {
   });
 }
 
-function mediaImage(alt, position = "center") {
-  return `<img src="${imagePath}" width="1732" height="907" loading="lazy" decoding="async" alt="${escapeHTML(alt)}" style="object-position:${position}">`;
-}
-
 function renderStories() {
   const track = document.querySelector("#story-track");
   if (!track) return;
-  behindScenes.forEach((story, index) => {
+  behindScenes.forEach(story => {
     const article = document.createElement("article");
     article.className = "story-card";
     article.innerHTML = `
-      <div class="story-card__image">${mediaImage(`${story.category} at Pretoria P1`, `${55 + index * 5}% center`)}</div>
+      <a class="story-card__image" href="${escapeHTML(story.url)}" target="_blank" rel="noopener noreferrer" aria-label="View this post on Instagram">
+        <img src="${escapeHTML(story.image)}" width="640" height="640" loading="lazy" decoding="async" alt="${escapeHTML(story.alt)}">
+      </a>
       <div class="story-card__body">
         <div class="social-meta"><span>${escapeHTML(story.category)}</span><time>${escapeHTML(story.time)}</time></div>
         <h3>${escapeHTML(story.caption)}</h3>
-        <a class="text-link" href="${story.url}" target="_blank" rel="noopener noreferrer">Open story ↗</a>
+        <a class="text-link external-link" href="${escapeHTML(story.url)}" target="_blank" rel="noopener noreferrer">View on Instagram ↗<span class="sr-only">(opens in a new tab)</span></a>
       </div>`;
     track.append(article);
   });
@@ -119,7 +161,8 @@ function initialise() {
   renderFixtures(fixtures);
   renderSeededPlayers();
   renderStories();
-  initialiseFixtureFilters(fixtures, renderFixtures);
+  const fixtureFilters = initialiseFixtureFilters(fixtures, renderFixtures);
+  refreshOfficialResults(fixtureFilters);
   initialiseNavigation();
   initialiseSharing();
   initialiseEnvironment();
