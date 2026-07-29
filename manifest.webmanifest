@@ -1,0 +1,10 @@
+{
+  "name": "Padeuce Pretoria P1 Live Hub",
+  "short_name": "Pretoria P1",
+  "description": "Live scores, fixtures, results and highlights from Pretoria P1.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#06100c",
+  "theme_color": "#06100c",
+  "icons": [{"src":"favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
