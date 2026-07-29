@@ -2,7 +2,7 @@
 
 A production-ready, framework-free static event dashboard for Pretoria P1. It combines live court scores, official fixtures and results, seeded-player lists, and behind-the-scenes content.
 
-> Fixtures, results, and seeded-player information were sourced from the official Premier Padel tournament page on 29 July 2026. Live court cards use Padeuce’s public match feed. Behind-the-scenes content remains demonstration content.
+> Fixtures and results are synchronized from the official Premier Padel tournament feed. Seeded-player information was sourced from the official page on 29 July 2026. Live court cards use Padeuce’s public match feed. Behind-the-scenes content remains demonstration content.
 
 ## Structure
 
@@ -20,11 +20,17 @@ A production-ready, framework-free static event dashboard for Pretoria P1. It co
 ├── js/
 │   ├── data.js
 │   ├── app.js
+│   ├── official-results.js
+│   ├── official-results-snapshot.js
 │   ├── live-score.js
 │   ├── court-scores.js
 │   ├── navigation.js
 │   ├── filters.js
 │   └── share.js
+├── data/
+│   └── official-results.json
+├── scripts/
+│   └── sync-official-results.mjs
 ├── assets/
 │   └── images/
 ├── favicon.svg
@@ -49,10 +55,12 @@ Before a public launch, update the placeholder canonical URL and event dates in 
 
 ## Content updates
 
-- **Fixtures and players:** edit the official-data snapshots exported from `js/data.js`.
+- **Fixtures and results:** `.github/workflows/sync-official-results.yml` checks the official Premier Padel feed every five minutes. It updates `data/official-results.json` and the bundled JavaScript snapshot only when the schedule or a score changes. Each page load requests the JSON file with caching disabled, then falls back to the bundled official snapshot and finally the saved fixtures in `js/data.js`.
+- **Players:** edit the seeded-player snapshot exported from `js/data.js`.
 - **Live-score API:** set `API_CONFIG.useMockData` to `false`, provide `liveScoreEndpoint`, and ensure the endpoint returns `{ "matches": [...] }` in the documented mock match shape. The client uses a timeout, `AbortController`, validation, visibility-aware polling, offline handling, and a retry state.
 - **Live court cards:** `js/court-scores.js` reads the public Padeuce club and match endpoints used by the TV display. It maps live or most recently completed scores to Centre Court, Court 2, and Court 3, receives point changes through the same real-time event stream as the TV display, and uses 15-second uncached polling as a fallback. Streams pause in hidden tabs, and the cards work when `index.html` is opened directly.
-- **Editorial links:** edit the behind-the-scenes URLs in `js/data.js` and the footer URLs in `index.html`.
+- **Behind the scenes:** cards use Premier Padel’s public Instagram posts and locally stored thumbnails. Edit their captions, image paths, and post URLs in `js/data.js`.
+- **Editorial links:** edit the footer URLs in `index.html`.
 - **Images:** hero and editorial images live in `assets/images/`. Keep width and height attributes accurate when replacing them.
 - **Brand colours and fonts:** edit custom properties in `css/variables.css`.
 - **Event details:** update `eventData` in `js/data.js` and the JSON-LD block in `index.html`.

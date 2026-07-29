@@ -84,9 +84,44 @@ export const results = [
 ];
 
 export const behindScenes = [
-  {category:"Player Arrivals",caption:"Quiet focus before the doors open.",time:"08:12",url:"https://www.instagram.com/"},
-  {category:"Warm-up",caption:"Finding the glass, one ball at a time.",time:"09:35",url:"https://www.instagram.com/"},
-  {category:"Fan Village",caption:"Pretoria is ready for the quarter-finals.",time:"11:05",url:"https://www.facebook.com/"},
-  {category:"Courtside",caption:"The best seat in the house.",time:"13:42",url:"https://www.tiktok.com/"},
-  {category:"Equipment",caption:"Match rackets, taped and ready.",time:"14:10",url:"https://www.instagram.com/"}
+  {
+    category:"Premier Padel · Reel",
+    caption:"Remember his name 🧠 @pabloo.ra_96",
+    time:"29 Jul",
+    url:"https://www.instagram.com/premierpadel/reel/DbYt6-GONHk/",
+    image:"assets/images/instagram-remember-his-name.jpg",
+    alt:"Pablo Cardona points toward the camera on the Pretoria P1 court."
+  },
+  {
+    category:"Premier Padel · Reel",
+    caption:"IN-SANE 💥🤯 @manucastanoo",
+    time:"29 Jul",
+    url:"https://www.instagram.com/premierpadel/reel/DbYopjxOtHy/",
+    image:"assets/images/instagram-insane-point.jpg",
+    alt:"Manu Castaño plays an acrobatic padel shot beside the glass."
+  },
+  {
+    category:"Premier Padel · Reel",
+    caption:"🐎 If the Trojan Horse was a point.",
+    time:"29 Jul",
+    url:"https://www.instagram.com/premierpadel/reel/DbYk5yrKxUR/",
+    image:"assets/images/instagram-trojan-horse.jpg",
+    alt:"A padel player jumps across the net to reach a high ball."
+  },
+  {
+    category:"Premier Padel · Carousel",
+    caption:"Swipe to see who survived the three-set deciders ➡️🫨🇿🇦",
+    time:"29 Jul",
+    url:"https://www.instagram.com/premierpadel/p/DbYdNFUCgmF/",
+    image:"assets/images/instagram-three-set-deciders.jpg",
+    alt:"Close-up of a decorated padel racket at Pretoria P1."
+  },
+  {
+    category:"Premier Padel · Reel",
+    caption:"🏉 Who could make it in rugby? @cokinieto and @maxiarcesimo have their picks… Do you agree?",
+    time:"29 Jul",
+    url:"https://www.instagram.com/premierpadel/reel/DbYYM1SxXyN/",
+    image:"assets/images/instagram-rugby-picks.jpg",
+    alt:"A Premier Padel player answers a rugby question during an interview."
+  }
 ];

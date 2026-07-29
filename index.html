@@ -128,9 +128,10 @@
     <section class="section" id="fixtures" aria-labelledby="fixtures-title">
       <div class="container">
         <div class="section-heading">
-          <div><p class="eyebrow">Wednesday 29 July · Day 4</p><h2 id="fixtures-title">Today’s Fixtures and Results</h2></div>
+          <div><p class="eyebrow" id="fixture-date">Wednesday 29 July · Day 4</p><h2 id="fixtures-title">Today’s Fixtures and Results</h2></div>
           <a class="text-link external-link" href="https://premierpadel.com/en/tournaments-detail/pretoria-p1" target="_blank" rel="noopener noreferrer">Official schedule <span aria-hidden="true">↗</span><span class="sr-only">(opens in a new tab)</span></a>
         </div>
+        <p class="fixture-sync-status" id="fixture-sync-status" role="status" aria-live="polite">Updating from the official tournament schedule…</p>
         <div class="filter-group" aria-label="Filter fixtures">
           <div class="filter-row" data-filter-group="court" aria-label="Filter by court">
             <button type="button" aria-pressed="true" data-value="all">All Courts</button>
@@ -167,7 +168,10 @@
       <div class="container">
         <div class="section-heading">
           <div><p class="eyebrow">Beyond the glass</p><h2 id="bts-title">Behind the Scenes</h2></div>
-          <div class="carousel-controls" aria-label="Story controls"><button type="button" data-carousel-prev aria-label="Previous stories">←</button><button type="button" data-carousel-next aria-label="Next stories">→</button></div>
+          <div class="section-heading__actions">
+            <a class="text-link external-link" href="https://www.instagram.com/premierpadel/" target="_blank" rel="noopener noreferrer">Follow @premierpadel ↗<span class="sr-only">(opens in a new tab)</span></a>
+            <div class="carousel-controls" aria-label="Story controls"><button type="button" data-carousel-prev aria-label="Previous stories">←</button><button type="button" data-carousel-next aria-label="Next stories">→</button></div>
+          </div>
         </div>
         <div class="story-track" id="story-track" tabindex="0" aria-label="Behind the scenes stories"></div>
       </div>
@@ -193,7 +197,7 @@
   <a class="mobile-live-shortcut" href="#live"><span aria-hidden="true"></span> Live score</a>
   <div class="toast" role="status" aria-live="polite" aria-atomic="true"></div>
   <div class="offline-banner" role="status" hidden>You’re offline. Showing the last available event data.</div>
-  <script defer src="js/court-scores.js"></script>
+  <script defer src="js/court-scores.js?v=2"></script>
   <script type="module" src="js/app.js"></script>
 </body>
 </html>

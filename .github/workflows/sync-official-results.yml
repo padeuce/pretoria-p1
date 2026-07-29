@@ -1,0 +1,57 @@
+name: Sync official tournament results
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-official-tournament-results
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check tournament window
+        id: tournament
+        env:
+          TZ: Africa/Johannesburg
+        run: |
+          today="$(date +%F)"
+          if [[ "$today" < "2026-07-26" || "$today" > "2026-08-02" ]]; then
+            echo "active=false" >> "$GITHUB_OUTPUT"
+            echo "Tournament sync is inactive on $today."
+          else
+            echo "active=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Check out repository
+        if: steps.tournament.outputs.active == 'true'
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        if: steps.tournament.outputs.active == 'true'
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Fetch official results
+        if: steps.tournament.outputs.active == 'true'
+        run: node scripts/sync-official-results.mjs
+
+      - name: Publish changes
+        if: steps.tournament.outputs.active == 'true'
+        run: |
+          if git diff --quiet -- data/official-results.json js/official-results-snapshot.js; then
+            echo "No result changes to publish."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/official-results.json js/official-results-snapshot.js
+          git commit -m "chore: sync official tournament results"
+          git push
