@@ -1,39 +1,9 @@
 {
   "source": "https://premierpadel.com/en/tournaments-detail/pretoria-p1",
-  "generatedAt": "2026-07-30T13:32:58.294Z",
+  "generatedAt": "2026-07-30T13:37:58.558Z",
   "date": "2026-07-30",
   "day": 5,
   "fixtures": [
-    {
-      "id": "18253",
-      "time": "Followed by",
-      "court": "Centre Court",
-      "division": "Men",
-      "round": "Round of 16",
-      "a": "Alejandro Ruiz Granados / Javier Garcia",
-      "b": "Francisco Navarro / Martin Di Nenno",
-      "aPlayers": [
-        {
-          "name": "Alejandro Ruiz Granados",
-          "country": "ESP"
-        },
-        {
-          "name": "Javier Garcia",
-          "country": "ESP"
-        }
-      ],
-      "bPlayers": [
-        {
-          "name": "Francisco Navarro",
-          "country": "ESP"
-        },
-        {
-          "name": "Martin Di Nenno",
-          "country": "ARG"
-        }
-      ],
-      "status": "Starting Soon"
-    },
     {
       "id": "18256",
       "time": "Followed by",
