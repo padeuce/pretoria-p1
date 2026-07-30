@@ -3,9 +3,12 @@ import { initialiseNavigation } from "./navigation.js";
 import { initialiseFixtureFilters } from "./filters.js";
 import { initialiseSharing } from "./share.js";
 import { loadOfficialResults } from "./official-results.js";
+import { loadBehindScenes } from "./behind-scenes.js";
 
 const OFFICIAL_RESULTS_REFRESH_INTERVAL = 5 * 60 * 1000;
+const BEHIND_SCENES_REFRESH_INTERVAL = 15 * 60 * 1000;
 let officialResultsRefreshActive = false;
+let behindScenesRefreshActive = false;
 
 const escapeHTML = value => String(value).replace(/[&<>"']/g, character => ({
   "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#039;"
@@ -167,10 +170,11 @@ function renderSeededPlayers() {
   });
 }
 
-function renderStories() {
+function renderStories(items = behindScenes) {
   const track = document.querySelector("#story-track");
   if (!track) return;
-  behindScenes.forEach(story => {
+  track.replaceChildren();
+  items.forEach(story => {
     const article = document.createElement("article");
     article.className = "story-card";
     article.innerHTML = `
@@ -184,8 +188,34 @@ function renderStories() {
       </div>`;
     track.append(article);
   });
+}
+
+async function refreshBehindScenes() {
+  if (behindScenesRefreshActive) return;
+  behindScenesRefreshActive = true;
+  try {
+    const snapshot = await loadBehindScenes();
+    renderStories(snapshot.posts);
+  } catch (error) {
+    console.warn("Could not refresh behind-the-scenes feed:", error);
+  } finally {
+    behindScenesRefreshActive = false;
+  }
+}
+
+function initialiseBehindScenes() {
+  const track = document.querySelector("#story-track");
+  if (!track) return;
+  renderStories();
   document.querySelector("[data-carousel-prev]")?.addEventListener("click", () => track.scrollBy({ left: -320, behavior: "smooth" }));
   document.querySelector("[data-carousel-next]")?.addEventListener("click", () => track.scrollBy({ left: 320, behavior: "smooth" }));
+  refreshBehindScenes();
+  window.setInterval(() => {
+    if (!document.hidden) refreshBehindScenes();
+  }, BEHIND_SCENES_REFRESH_INTERVAL);
+  document.addEventListener("visibilitychange", () => {
+    if (!document.hidden) refreshBehindScenes();
+  });
 }
 
 function initialiseEnvironment() {
@@ -202,7 +232,7 @@ function initialiseEnvironment() {
 function initialise() {
   renderFixtures(fixtures);
   renderSeededPlayers();
-  renderStories();
+  initialiseBehindScenes();
   const fixtureFilters = initialiseFixtureFilters(fixtures, renderFixtures);
   initialiseOfficialResults(fixtureFilters);
   initialiseNavigation();

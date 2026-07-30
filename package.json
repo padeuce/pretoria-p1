@@ -1,0 +1,8 @@
+{
+  "name": "padeuce-pretoria-p1",
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "playwright-core": "1.62.0"
+  }
+}

@@ -93,12 +93,28 @@ export const behindScenes = [
     alt:"Pablo Cardona points toward the camera on the Pretoria P1 court."
   },
   {
+    category:"OH! Padel · Post",
+    caption:"How to watch @southafricapremierpadel: step 1. Board the plane in Cape Town to Pretoria ✈️🎾🤗🏆",
+    time:"29 Jul",
+    url:"https://www.instagram.com/ohpadel_club/p/DbaDzlUsSMf/",
+    image:"assets/images/ohpadel-pretoria-flight.jpg",
+    alt:"A FlySafair aircraft on the apron before a trip from Cape Town to Pretoria."
+  },
+  {
     category:"Premier Padel · Reel",
     caption:"IN-SANE 💥🤯 @manucastanoo",
     time:"29 Jul",
     url:"https://www.instagram.com/premierpadel/reel/DbYopjxOtHy/",
     image:"assets/images/instagram-insane-point.jpg",
     alt:"Manu Castaño plays an acrobatic padel shot beside the glass."
+  },
+  {
+    category:"OH! Padel · Post",
+    caption:"Wondering what to do in the cold, rainy weather? Indoor padel has you covered 🎾🔥",
+    time:"27 Jul",
+    url:"https://www.instagram.com/ohpadel_club/p/DbS1zUnsfJa/",
+    image:"assets/images/ohpadel-rainy-day.jpg",
+    alt:"OH! Padel promotional artwork announcing the club’s arrival in Stanford."
   },
   {
     category:"Premier Padel · Reel",
@@ -109,6 +125,14 @@ export const behindScenes = [
     alt:"A padel player jumps across the net to reach a high ball."
   },
   {
+    category:"OH! Padel · Carousel",
+    caption:"We didn’t win the tournament, but we did win a prize! 🏆🙌🏻🎾🥳",
+    time:"25 Jul",
+    url:"https://www.instagram.com/ohpadel_club/p/DbONvgyDOi0/",
+    image:"assets/images/ohpadel-land-rover-prize.jpg",
+    alt:"A blue-ribbon prize hamper received at a Land Rover padel event."
+  },
+  {
     category:"Premier Padel · Carousel",
     caption:"Swipe to see who survived the three-set deciders ➡️🫨🇿🇦",
     time:"29 Jul",
@@ -117,11 +141,27 @@ export const behindScenes = [
     alt:"Close-up of a decorated padel racket at Pretoria P1."
   },
   {
+    category:"OH! Padel · Carousel",
+    caption:"Some great games happening at @rbclub_za with @rangerover 🎾🙌🏻🔥",
+    time:"25 Jul",
+    url:"https://www.instagram.com/ohpadel_club/p/DbOB5ZkjPyj/",
+    image:"assets/images/ohpadel-racket-ball-games.jpg",
+    alt:"The entrance to a Range Rover padel tournament at the Racket and Ball Club."
+  },
+  {
     category:"Premier Padel · Reel",
     caption:"🏉 Who could make it in rugby? @cokinieto and @maxiarcesimo have their picks… Do you agree?",
     time:"29 Jul",
     url:"https://www.instagram.com/premierpadel/reel/DbYYM1SxXyN/",
     image:"assets/images/instagram-rugby-picks.jpg",
     alt:"A Premier Padel player answers a rugby question during an interview."
+  },
+  {
+    category:"OH! Padel · Post",
+    caption:"Wondering what’s happening at OH! Padel in the coming week? 🙌🏻🎾🔥",
+    time:"24 Jul",
+    url:"https://www.instagram.com/ohpadel_club/p/DbK9FlzsDxX/",
+    image:"assets/images/ohpadel-week-ahead.jpg",
+    alt:"OH! Padel’s weekly programme for 27 to 31 July 2026."
   }
 ];
