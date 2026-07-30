@@ -1,6 +1,6 @@
 {
   "source": "https://premierpadel.com/en/tournaments-detail/pretoria-p1",
-  "generatedAt": "2026-07-30T11:20:57.833Z",
+  "generatedAt": "2026-07-30T11:30:57.683Z",
   "date": "2026-07-30",
   "day": 5,
   "fixtures": [
@@ -239,36 +239,6 @@
         },
         {
           "name": "Maximiliano Arce Simo",
-          "country": "ARG"
-        }
-      ],
-      "status": "Starting Soon"
-    },
-    {
-      "id": "18265",
-      "time": "Followed by",
-      "court": "Court 3",
-      "division": "Men",
-      "round": "Round of 16",
-      "a": "Alvaro Montiel Caruso / Flavio Abbate",
-      "b": "Juanlu Esbri / Carlos Daniel Gutierrez",
-      "aPlayers": [
-        {
-          "name": "Alvaro Montiel Caruso",
-          "country": "ITA"
-        },
-        {
-          "name": "Flavio Abbate",
-          "country": "ITA"
-        }
-      ],
-      "bPlayers": [
-        {
-          "name": "Juanlu Esbri",
-          "country": "ESP"
-        },
-        {
-          "name": "Carlos Daniel Gutierrez",
           "country": "ARG"
         }
       ],
