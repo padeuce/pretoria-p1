@@ -1,6 +1,6 @@
 {
   "source": "https://premierpadel.com/en/tournaments-detail/pretoria-p1",
-  "generatedAt": "2026-07-30T12:32:58.685Z",
+  "generatedAt": "2026-07-30T12:37:58.945Z",
   "date": "2026-07-30",
   "day": 5,
   "fixtures": [
@@ -119,36 +119,6 @@
         },
         {
           "name": "Federico Chingotto",
-          "country": "ARG"
-        }
-      ],
-      "status": "Starting Soon"
-    },
-    {
-      "id": "18260",
-      "time": "Followed by",
-      "court": "Court 2",
-      "division": "Men",
-      "round": "Round of 16",
-      "a": "Jeronimo Gonzalez / Lucas Campagnolo",
-      "b": "Juan Tello / Maximiliano Arce Simo",
-      "aPlayers": [
-        {
-          "name": "Jeronimo Gonzalez",
-          "country": "ESP"
-        },
-        {
-          "name": "Lucas Campagnolo",
-          "country": "BRA"
-        }
-      ],
-      "bPlayers": [
-        {
-          "name": "Juan Tello",
-          "country": "ARG"
-        },
-        {
-          "name": "Maximiliano Arce Simo",
           "country": "ARG"
         }
       ],
