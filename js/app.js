@@ -4,10 +4,36 @@ import { initialiseFixtureFilters } from "./filters.js";
 import { initialiseSharing } from "./share.js";
 import { loadOfficialResults } from "./official-results.js";
 
+const OFFICIAL_RESULTS_REFRESH_INTERVAL = 5 * 60 * 1000;
+let officialResultsRefreshActive = false;
+
 const escapeHTML = value => String(value).replace(/[&<>"']/g, character => ({
   "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#039;"
 }[character]));
-const countryNames = { ARG: "Argentina", BRA: "Brazil", ESP: "Spain", POR: "Portugal" };
+const countryNames = {
+  ARG: "Argentina",
+  BRA: "Brazil",
+  ESP: "Spain",
+  ITA: "Italy",
+  POR: "Portugal",
+  UAE: "United Arab Emirates"
+};
+const flagUrl = country => `https://cdn.premierpadel.com/fleg/${String(country).toLowerCase()}.png`;
+
+function renderFixturePlayers(players, fallbackName) {
+  if (!Array.isArray(players) || !players.length) {
+    return `<span class="fixture-card__players">${escapeHTML(fallbackName)}</span>`;
+  }
+  return `<span class="fixture-card__players">
+    ${players.map(player => {
+      const country = String(player.country || "").toUpperCase();
+      const flag = /^[A-Z]{2,3}$/.test(country)
+        ? `<img src="${flagUrl(country)}" width="20" height="14" loading="lazy" alt="${escapeHTML(countryNames[country] || country)} flag">`
+        : "";
+      return `<span class="fixture-card__player">${flag}<span>${escapeHTML(player.name)}</span></span>`;
+    }).join("")}
+  </span>`;
+}
 
 function statusClass(status) {
   if (status === "Live") return "status-pill--live";
@@ -28,15 +54,15 @@ function renderFixtures(items) {
     article.className = "fixture-card";
     const team = (side, name, score) => `
       <span class="fixture-card__team${fixture.winner === side ? " is-winner" : ""}">
-        <span>${escapeHTML(name)}${fixture.winner === side ? ' <span class="winner">Winner</span>' : ""}</span>
+        <span>
+          ${renderFixturePlayers(fixture[`${side}Players`], name)}
+          ${fixture.winner === side ? '<span class="winner">Winner</span>' : ""}
+        </span>
         ${score ? `<strong class="fixture-card__score">${escapeHTML(score)}</strong>` : ""}
       </span>`;
     article.innerHTML = `
       <div class="fixture-card__top">
-        <div>
-          ${fixture.status === "Completed" ? "" : `<span class="fixture-card__time">${escapeHTML(fixture.time)}</span><br>`}
-          ${escapeHTML(fixture.court)}
-        </div>
+        <div>${escapeHTML(fixture.court)}</div>
         <span class="status-pill ${statusClass(fixture.status)}">${escapeHTML(fixture.status)}</span>
       </div>
       <p class="eyebrow">${escapeHTML(fixture.division)} · ${escapeHTML(fixture.round)}</p>
@@ -65,12 +91,16 @@ function fixtureDateLabel(date, day) {
 }
 
 async function refreshOfficialResults(filters) {
+  if (officialResultsRefreshActive) return;
+  officialResultsRefreshActive = true;
   const status = document.querySelector("#fixture-sync-status");
   const date = document.querySelector("#fixture-date");
+  const eventDay = document.querySelector("[data-event-day]");
   try {
     const snapshot = await loadOfficialResults();
     filters.update(snapshot.fixtures);
     if (date) date.textContent = fixtureDateLabel(snapshot.date, snapshot.day);
+    if (eventDay && snapshot.day) eventDay.textContent = `Day ${snapshot.day}`;
     if (status) {
       const syncedAt = new Intl.DateTimeFormat("en-ZA", {
         timeZone: "Africa/Johannesburg",
@@ -91,7 +121,19 @@ async function refreshOfficialResults(filters) {
       status.textContent = "Showing the last saved schedule";
       status.dataset.state = "fallback";
     }
+  } finally {
+    officialResultsRefreshActive = false;
   }
+}
+
+function initialiseOfficialResults(filters) {
+  refreshOfficialResults(filters);
+  window.setInterval(() => {
+    if (!document.hidden) refreshOfficialResults(filters);
+  }, OFFICIAL_RESULTS_REFRESH_INTERVAL);
+  document.addEventListener("visibilitychange", () => {
+    if (!document.hidden) refreshOfficialResults(filters);
+  });
 }
 
 function renderSeededPlayers() {
@@ -108,7 +150,7 @@ function renderSeededPlayers() {
         <span class="seed-list__players">
           ${pair.players.map(player => `
             <span class="seed-list__player">
-              <img src="https://cdn.premierpadel.com/fleg/${escapeHTML(player.country.toLowerCase())}.png" width="20" height="14" loading="lazy" alt="${escapeHTML(countryNames[player.country] || player.country)} flag">
+              <img src="${flagUrl(player.country)}" width="20" height="14" loading="lazy" alt="${escapeHTML(countryNames[player.country] || player.country)} flag">
               <small title="${escapeHTML(countryNames[player.country] || player.country)}">${escapeHTML(player.country)}</small>
               <strong>${escapeHTML(player.name)}</strong>
             </span>`).join("")}
@@ -162,7 +204,7 @@ function initialise() {
   renderSeededPlayers();
   renderStories();
   const fixtureFilters = initialiseFixtureFilters(fixtures, renderFixtures);
-  refreshOfficialResults(fixtureFilters);
+  initialiseOfficialResults(fixtureFilters);
   initialiseNavigation();
   initialiseSharing();
   initialiseEnvironment();

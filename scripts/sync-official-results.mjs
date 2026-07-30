@@ -46,11 +46,22 @@ function courtLabel(value = "") {
     .replace("Centre Court", "Centre Court");
 }
 
-function teamName(team) {
+function teamPlayers(team) {
   return team.players
-    .map(player => `${player.first_name || ""} ${player.last_name || ""}`.trim())
-    .filter(Boolean)
-    .join(" / ");
+    .map(player => {
+      const name = `${player.first_name || ""} ${player.last_name || ""}`.trim();
+      const country = String(player.country_code || "").trim().toUpperCase();
+      if (!name) return null;
+      return {
+        name,
+        country: /^[A-Z]{2,3}$/.test(country) ? country : ""
+      };
+    })
+    .filter(Boolean);
+}
+
+function teamName(players) {
+  return players.map(player => player.name).join(" / ");
 }
 
 const superscriptDigits = {
@@ -98,6 +109,9 @@ function timeLabel(match) {
 function normaliseMatch(match, court, division) {
   const [teamA, teamB] = match.teams || [];
   if (!teamA || !teamB) return null;
+  const aPlayers = teamPlayers(teamA);
+  const bPlayers = teamPlayers(teamB);
+  if (!aPlayers.length || !bPlayers.length) return null;
 
   const completed = match.status === "F" || match.status_title?.toUpperCase() === "COMPLETED";
   const live = ["P", "LIVE"].includes(match.status) ||
@@ -110,8 +124,10 @@ function normaliseMatch(match, court, division) {
     court: courtLabel(court),
     division,
     round: roundLabel(match.round_name || match.current_round),
-    a: teamName(teamA),
-    b: teamName(teamB),
+    a: teamName(aPlayers),
+    b: teamName(bPlayers),
+    aPlayers,
+    bPlayers,
     status: completed ? "Completed" : "Starting Soon",
     ...(completed ? {
       scoreA: teamScore(teamA, teamB),
