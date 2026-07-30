@@ -1,6 +1,6 @@
 {
   "source": "https://premierpadel.com/en/tournaments-detail/pretoria-p1",
-  "generatedAt": "2026-07-30T11:15:57.000Z",
+  "generatedAt": "2026-07-30T11:20:57.833Z",
   "date": "2026-07-30",
   "day": 5,
   "fixtures": [
@@ -239,36 +239,6 @@
         },
         {
           "name": "Maximiliano Arce Simo",
-          "country": "ARG"
-        }
-      ],
-      "status": "Starting Soon"
-    },
-    {
-      "id": "18259",
-      "time": "Followed by",
-      "court": "Court 2",
-      "division": "Women",
-      "round": "Round of 16",
-      "a": "Julia Polo Bautista / Marina Lobo",
-      "b": "Tamara Icardo Alcorisa / Claudia Jensen",
-      "aPlayers": [
-        {
-          "name": "Julia Polo Bautista",
-          "country": "ESP"
-        },
-        {
-          "name": "Marina Lobo",
-          "country": "ESP"
-        }
-      ],
-      "bPlayers": [
-        {
-          "name": "Tamara Icardo Alcorisa",
-          "country": "ESP"
-        },
-        {
-          "name": "Claudia Jensen",
           "country": "ARG"
         }
       ],
