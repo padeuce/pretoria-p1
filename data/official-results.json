@@ -1,6 +1,6 @@
 {
   "source": "https://premierpadel.com/en/tournaments-detail/pretoria-p1",
-  "generatedAt": "2026-07-30T16:16:09.439Z",
+  "generatedAt": "2026-07-30T16:56:09.025Z",
   "date": "2026-07-30",
   "day": 5,
   "fixtures": [
@@ -199,6 +199,40 @@
       "scoreB": "7  6",
       "winner": "b",
       "duration": "1h 30m"
+    },
+    {
+      "id": "18262",
+      "time": "Followed by",
+      "court": "Court 2",
+      "division": "Men",
+      "round": "Round of 16",
+      "a": "Alejandro Arroyo / Jose Jimenez Casas",
+      "b": "Enrique Goenaga / Manuel Castaño",
+      "aPlayers": [
+        {
+          "name": "Alejandro Arroyo",
+          "country": "ESP"
+        },
+        {
+          "name": "Jose Jimenez Casas",
+          "country": "ESP"
+        }
+      ],
+      "bPlayers": [
+        {
+          "name": "Enrique Goenaga",
+          "country": "ESP"
+        },
+        {
+          "name": "Manuel Castaño",
+          "country": "ESP"
+        }
+      ],
+      "status": "Completed",
+      "scoreA": "6  6",
+      "scoreB": "2  4",
+      "winner": "a",
+      "duration": "55m"
     },
     {
       "id": "18261",
