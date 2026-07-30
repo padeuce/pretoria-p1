@@ -1,6 +1,6 @@
 {
   "source": "https://premierpadel.com/en/tournaments-detail/pretoria-p1",
-  "generatedAt": "2026-07-30T08:08:12.798Z",
+  "generatedAt": "2026-07-30T09:03:38.086Z",
   "date": "2026-07-30",
   "day": 5,
   "fixtures": [
@@ -393,6 +393,40 @@
         }
       ],
       "status": "Starting Soon"
+    },
+    {
+      "id": "18257",
+      "time": "Starting at 10:00",
+      "court": "Court 2",
+      "division": "Women",
+      "round": "Round of 16",
+      "a": "Marina Guinart España / Alejandra Alonso De Villa",
+      "b": "Marta Borrero / Caterina Maria Baldi",
+      "aPlayers": [
+        {
+          "name": "Marina Guinart España",
+          "country": "ESP"
+        },
+        {
+          "name": "Alejandra Alonso De Villa",
+          "country": "ESP"
+        }
+      ],
+      "bPlayers": [
+        {
+          "name": "Marta Borrero",
+          "country": "ESP"
+        },
+        {
+          "name": "Caterina Maria Baldi",
+          "country": "ITA"
+        }
+      ],
+      "status": "Completed",
+      "scoreA": "6  6",
+      "scoreB": "1  2",
+      "winner": "a",
+      "duration": "54m"
     }
   ]
 }
