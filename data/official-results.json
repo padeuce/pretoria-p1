@@ -1,6 +1,6 @@
 {
   "source": "https://premierpadel.com/en/tournaments-detail/pretoria-p1",
-  "generatedAt": "2026-07-30T14:02:58.782Z",
+  "generatedAt": "2026-07-30T15:45:59.750Z",
   "date": "2026-07-30",
   "day": 5,
   "fixtures": [
@@ -225,6 +225,40 @@
       "scoreB": "7  6",
       "winner": "b",
       "duration": "1h 30m"
+    },
+    {
+      "id": "18261",
+      "time": "Followed by",
+      "court": "Court 2",
+      "division": "Men",
+      "round": "Round of 16",
+      "a": "Javier Leal / Francisco Guerrero",
+      "b": "Pablo Garcia Rodrigo / Leonel Daniel Aguirre",
+      "aPlayers": [
+        {
+          "name": "Javier Leal",
+          "country": "ESP"
+        },
+        {
+          "name": "Francisco Guerrero",
+          "country": "ESP"
+        }
+      ],
+      "bPlayers": [
+        {
+          "name": "Pablo Garcia Rodrigo",
+          "country": "ESP"
+        },
+        {
+          "name": "Leonel Daniel Aguirre",
+          "country": "ARG"
+        }
+      ],
+      "status": "Completed",
+      "scoreA": "4  6  6",
+      "scoreB": "6  2  4",
+      "winner": "a",
+      "duration": "1h 38m"
     },
     {
       "id": "18260",
