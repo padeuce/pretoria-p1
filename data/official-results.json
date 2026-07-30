@@ -1,6 +1,6 @@
 {
   "source": "https://premierpadel.com/en/tournaments-detail/pretoria-p1",
-  "generatedAt": "2026-07-30T09:18:37.843Z",
+  "generatedAt": "2026-07-30T09:33:37.584Z",
   "date": "2026-07-30",
   "day": 5,
   "fixtures": [
@@ -397,6 +397,40 @@
       "scoreB": "1  2",
       "winner": "a",
       "duration": "54m"
+    },
+    {
+      "id": "18263",
+      "time": "Starting at 10:00",
+      "court": "Court 3",
+      "division": "Women",
+      "round": "Round of 16",
+      "a": "Marta Barrera De La Fuente / Jana Montes Cabruja",
+      "b": "Lorena Rufo Ortiz / Victoria Iglesias Segador",
+      "aPlayers": [
+        {
+          "name": "Marta Barrera De La Fuente",
+          "country": "ESP"
+        },
+        {
+          "name": "Jana Montes Cabruja",
+          "country": "ESP"
+        }
+      ],
+      "bPlayers": [
+        {
+          "name": "Lorena Rufo Ortiz",
+          "country": "ESP"
+        },
+        {
+          "name": "Victoria Iglesias Segador",
+          "country": "ESP"
+        }
+      ],
+      "status": "Completed",
+      "scoreA": "6  6",
+      "scoreB": "4  2",
+      "winner": "a",
+      "duration": "1h 21m"
     }
   ]
 }
