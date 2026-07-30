@@ -1,6 +1,6 @@
 {
   "source": "https://premierpadel.com/en/tournaments-detail/pretoria-p1",
-  "generatedAt": "2026-07-30T11:30:57.683Z",
+  "generatedAt": "2026-07-30T11:40:57.719Z",
   "date": "2026-07-30",
   "day": 5,
   "fixtures": [
@@ -277,6 +277,40 @@
       "scoreB": "1  5",
       "winner": "a",
       "duration": "1h 40m"
+    },
+    {
+      "id": "18251",
+      "time": "Followed by",
+      "court": "Centre Court",
+      "division": "Women",
+      "round": "Round of 16",
+      "a": "Marta Talavan / Jessica Castello Lopez",
+      "b": "Paula Josemaria Martin / Beatriz Gonzalez Fernandez",
+      "aPlayers": [
+        {
+          "name": "Marta Talavan",
+          "country": "ESP"
+        },
+        {
+          "name": "Jessica Castello Lopez",
+          "country": "ESP"
+        }
+      ],
+      "bPlayers": [
+        {
+          "name": "Paula Josemaria Martin",
+          "country": "ESP"
+        },
+        {
+          "name": "Beatriz Gonzalez Fernandez",
+          "country": "ESP"
+        }
+      ],
+      "status": "Completed",
+      "scoreA": "6³  2",
+      "scoreB": "7  6",
+      "winner": "b",
+      "duration": "1h 30m"
     },
     {
       "id": "18258",
