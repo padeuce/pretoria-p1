@@ -1,6 +1,6 @@
 {
   "source": "https://premierpadel.com/en/tournaments-detail/pretoria-p1",
-  "generatedAt": "2026-07-30T13:37:58.558Z",
+  "generatedAt": "2026-07-30T13:52:58.915Z",
   "date": "2026-07-30",
   "day": 5,
   "fixtures": [
@@ -255,6 +255,40 @@
       "scoreB": "7  6",
       "winner": "b",
       "duration": "1h 30m"
+    },
+    {
+      "id": "18260",
+      "time": "Followed by",
+      "court": "Court 2",
+      "division": "Men",
+      "round": "Round of 16",
+      "a": "Jeronimo Gonzalez / Lucas Campagnolo",
+      "b": "Juan Tello / Maximiliano Arce Simo",
+      "aPlayers": [
+        {
+          "name": "Jeronimo Gonzalez",
+          "country": "ESP"
+        },
+        {
+          "name": "Lucas Campagnolo",
+          "country": "BRA"
+        }
+      ],
+      "bPlayers": [
+        {
+          "name": "Juan Tello",
+          "country": "ARG"
+        },
+        {
+          "name": "Maximiliano Arce Simo",
+          "country": "ARG"
+        }
+      ],
+      "status": "Completed",
+      "scoreA": "4  3",
+      "scoreB": "6  6",
+      "winner": "b",
+      "duration": "1h 08m"
     },
     {
       "id": "18259",
