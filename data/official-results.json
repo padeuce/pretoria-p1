@@ -1,9 +1,39 @@
 {
   "source": "https://premierpadel.com/en/tournaments-detail/pretoria-p1",
-  "generatedAt": "2026-07-30T16:00:59.831Z",
+  "generatedAt": "2026-07-30T16:10:59.397Z",
   "date": "2026-07-30",
   "day": 5,
   "fixtures": [
+    {
+      "id": "18254",
+      "time": "Followed by",
+      "court": "Centre Court",
+      "division": "Men",
+      "round": "Round of 16",
+      "a": "Javier Garrido / Lucas Bergamini",
+      "b": "Alejandro Galan / Federico Chingotto",
+      "aPlayers": [
+        {
+          "name": "Javier Garrido",
+          "country": "ESP"
+        },
+        {
+          "name": "Lucas Bergamini",
+          "country": "BRA"
+        }
+      ],
+      "bPlayers": [
+        {
+          "name": "Alejandro Galan",
+          "country": "ESP"
+        },
+        {
+          "name": "Federico Chingotto",
+          "country": "ARG"
+        }
+      ],
+      "status": "Starting Soon"
+    },
     {
       "id": "18256",
       "time": "Followed by",
@@ -59,36 +89,6 @@
         },
         {
           "name": "Leandro Roman Augsburger",
-          "country": "ARG"
-        }
-      ],
-      "status": "Starting Soon"
-    },
-    {
-      "id": "18254",
-      "time": "Followed by",
-      "court": "Centre Court",
-      "division": "Men",
-      "round": "Round of 16",
-      "a": "Javier Garrido / Lucas Bergamini",
-      "b": "Alejandro Galan / Federico Chingotto",
-      "aPlayers": [
-        {
-          "name": "Javier Garrido",
-          "country": "ESP"
-        },
-        {
-          "name": "Lucas Bergamini",
-          "country": "BRA"
-        }
-      ],
-      "bPlayers": [
-        {
-          "name": "Alejandro Galan",
-          "country": "ESP"
-        },
-        {
-          "name": "Federico Chingotto",
           "country": "ARG"
         }
       ],
