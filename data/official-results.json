@@ -1,6 +1,6 @@
 {
   "source": "https://premierpadel.com/en/tournaments-detail/pretoria-p1",
-  "generatedAt": "2026-07-30T09:48:37.463Z",
+  "generatedAt": "2026-07-30T09:53:37.831Z",
   "date": "2026-07-30",
   "day": 5,
   "fixtures": [
@@ -333,6 +333,40 @@
         }
       ],
       "status": "Starting Soon"
+    },
+    {
+      "id": "18250",
+      "time": "Starting at 10:00",
+      "court": "Centre Court",
+      "division": "Women",
+      "round": "Round of 16",
+      "a": "Claudia Fernandez Sanchez / Martina Calvo",
+      "b": "Julieta Evangelina Bidahorria / Marta Caparros Maldonado",
+      "aPlayers": [
+        {
+          "name": "Claudia Fernandez Sanchez",
+          "country": "ESP"
+        },
+        {
+          "name": "Martina Calvo",
+          "country": "ESP"
+        }
+      ],
+      "bPlayers": [
+        {
+          "name": "Julieta Evangelina Bidahorria",
+          "country": "ARG"
+        },
+        {
+          "name": "Marta Caparros Maldonado",
+          "country": "ESP"
+        }
+      ],
+      "status": "Completed",
+      "scoreA": "6  7",
+      "scoreB": "1  5",
+      "winner": "a",
+      "duration": "1h 40m"
     },
     {
       "id": "18257",
