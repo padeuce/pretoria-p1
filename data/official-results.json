@@ -1,6 +1,6 @@
 {
   "source": "https://premierpadel.com/en/tournaments-detail/pretoria-p1",
-  "generatedAt": "2026-07-30T12:37:58.945Z",
+  "generatedAt": "2026-07-30T13:22:58.369Z",
   "date": "2026-07-30",
   "day": 5,
   "fixtures": [
@@ -183,6 +183,40 @@
         }
       ],
       "status": "Starting Soon"
+    },
+    {
+      "id": "18252",
+      "time": "Followed by",
+      "court": "Centre Court",
+      "division": "Women",
+      "round": "Round of 16",
+      "a": "Gemma Triay Pons / Delfina Brea Senesi",
+      "b": "Nuria Rodriguez Camacho / Giulia Dal Pozzo",
+      "aPlayers": [
+        {
+          "name": "Gemma Triay Pons",
+          "country": "ESP"
+        },
+        {
+          "name": "Delfina Brea Senesi",
+          "country": "ARG"
+        }
+      ],
+      "bPlayers": [
+        {
+          "name": "Nuria Rodriguez Camacho",
+          "country": "ESP"
+        },
+        {
+          "name": "Giulia Dal Pozzo",
+          "country": "ITA"
+        }
+      ],
+      "status": "Completed",
+      "scoreA": "6  6",
+      "scoreB": "3  3",
+      "winner": "a",
+      "duration": "1h 24m"
     },
     {
       "id": "18250",
