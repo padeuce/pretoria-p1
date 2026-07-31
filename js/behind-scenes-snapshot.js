@@ -4,10 +4,10 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-07-31T04:58:34.919Z",
+  "generatedAt": "2026-07-31T05:09:01.626Z",
   "posts": [
     {
-      "category": "Premier Padel · Post",
+      "category": "Premier Padel · Carousel",
       "caption": "The herd gets smaller 🦒🇿🇦 Quarter-finals ready in Pretoria! ⏰ Swipe for timezones 📺 Watch via @redbull TV for free and broadcast partners 📊 Livescores & results on the official…",
       "time": "30 Jul",
       "url": "https://www.instagram.com/premierpadel/p/DbbncZ-jidu/",
@@ -15,7 +15,7 @@ export default {
       "alt": "Cover image from @premierpadel, published 30 Jul."
     },
     {
-      "category": "OH! Padel · Post",
+      "category": "OH! Padel · Carousel",
       "caption": "Step3. Check your tickets, and your view! We’re coming for you 🙌🏻🎾🔥 @southafricapremierpadel #premierpadel #playlilealocal #primediaoutofhome",
       "time": "30 Jul",
       "url": "https://www.instagram.com/ohpadel_club/p/DbbY59yjNyl/",
@@ -23,7 +23,7 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 30 Jul."
     },
     {
-      "category": "Premier Padel · Post",
+      "category": "Premier Padel · Carousel",
       "caption": "The official men’s and women’s main draws of the @southafricapremierpadel are here! 🇿🇦 ❤️‍🩹 The women’s draw has been updated from a previously published version following the w…",
       "time": "25 Jul",
       "url": "https://www.instagram.com/premierpadel/p/DbOc7UVDgt9/",
@@ -39,7 +39,7 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 30 Jul."
     },
     {
-      "category": "Premier Padel · Post",
+      "category": "Premier Padel · Carousel",
       "caption": "𝗣𝗿𝗲𝘁𝗼𝗿𝗶𝗮, 𝗮𝗿𝗲 𝘆𝗼𝘂 𝗿𝗲𝗮𝗱𝘆? 🇿🇦 📆 Main Draw: 27 July - 2 August 🏟️ SunBet Arena Time Square, Pretoria 📊 Livescores & results on the official Premier Padel app on iOS and Android ➡️…",
       "time": "25 Jul",
       "url": "https://www.instagram.com/premierpadel/p/DbN-_pyiurt/",
@@ -55,7 +55,7 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 30 Jul."
     },
     {
-      "category": "Premier Padel · Post",
+      "category": "Premier Padel · Carousel",
       "caption": "The herd gets smaller 🦒🇿🇦 Quarter-finals ready in Pretoria! ⏰ Swipe for timezones 📺 Watch via @redbull TV for free and broadcast partners 📊 Livescores & results on the official…",
       "time": "30 Jul",
       "url": "https://www.instagram.com/premierpadel/p/Dbbpe1LDtih/",
@@ -65,13 +65,13 @@ export default {
     {
       "category": "OH! Padel · Post",
       "caption": "How to watch @southafricapremierpadel: step 1. Board the plan in Cape Town to Pretoria #flylikealocal #flysafair #stanfordpadel #stanfordvillagelife #premierpadeltour ✈️🎾🤗🏆",
-      "time": "29 Jul",
+      "time": "30 Jul",
       "url": "https://www.instagram.com/ohpadel_club/p/DbaDzlUsSMf/",
       "image": "assets/images/instagram-ohpadel-club-4.jpg",
-      "alt": "Cover image from @ohpadel_club, published 29 Jul."
+      "alt": "Cover image from @ohpadel_club, published 30 Jul."
     },
     {
-      "category": "Premier Padel · Post",
+      "category": "Premier Padel · Carousel",
       "caption": "From missing the save to winning the set with it 👏 @aimargoni__ #PremierPadel #PretoriaPremierPadelP1",
       "time": "30 Jul",
       "url": "https://www.instagram.com/premierpadel/p/DbbjTrhDjZU/",

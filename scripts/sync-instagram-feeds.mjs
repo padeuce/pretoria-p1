@@ -3,8 +3,8 @@ import { dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const ACCOUNTS = [
-  { username: "premierpadel", label: "Premier Padel" },
-  { username: "ohpadel_club", label: "OH! Padel" }
+  { username: "premierpadel", profileId: "52098813400", label: "Premier Padel" },
+  { username: "ohpadel_club", profileId: "70090375776", label: "OH! Padel" }
 ];
 const POSTS_PER_ACCOUNT = 5;
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), "..");
@@ -12,6 +12,8 @@ const OUTPUT_PATH = resolve(ROOT, "data/behind-scenes.json");
 const MODULE_PATH = resolve(ROOT, "js/behind-scenes-snapshot.js");
 const IMAGE_DIRECTORY = resolve(ROOT, "assets/images");
 const RETRY_DELAYS_MS = [0, 2000];
+const INSTAGRAM_APP_ID = "936619743392459";
+const TIMELINE_DOC_ID = "7950326061742207";
 const USER_AGENT =
   "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) " +
   "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0 Safari/537.36";
@@ -21,7 +23,9 @@ function wait(milliseconds) {
 }
 
 function errorMessage(error) {
-  return error instanceof Error ? error.message : String(error);
+  return (error instanceof Error ? error.message : String(error))
+    .replace(/\s+/g, " ")
+    .trim();
 }
 
 async function retry(label, operation) {
@@ -153,6 +157,79 @@ async function fetchInstagramHtml(url, userAgent = USER_AGENT) {
   return response.text();
 }
 
+async function fetchProfileMedia(account) {
+  const response = await fetch(
+    `https://www.instagram.com/api/v1/users/web_profile_info/?username=${account.username}`,
+    {
+      headers: {
+        Accept: "application/json",
+        Referer: `https://www.instagram.com/${account.username}/`,
+        "User-Agent": USER_AGENT,
+        "X-IG-App-ID": INSTAGRAM_APP_ID
+      },
+      signal: AbortSignal.timeout(20000)
+    }
+  );
+  if (!response.ok) {
+    throw new Error(
+      `Instagram profile API returned ${response.status} for @${account.username}`
+    );
+  }
+  const payload = await response.json();
+  const user = payload?.data?.user;
+  if (user?.username !== account.username) {
+    throw new Error(`Instagram profile API returned invalid data for @${account.username}`);
+  }
+  const mediaItems = user.edge_owner_to_timeline_media?.edges
+    ?.map(edge => edge?.node)
+    .map(media => media ? { ...media, display_url: coverImage(media) } : null)
+    .filter(media => media?.shortcode && media.display_url)
+    .slice(0, POSTS_PER_ACCOUNT);
+  if (mediaItems?.length !== POSTS_PER_ACCOUNT) {
+    throw new Error(
+      `Instagram profile API exposed only ${mediaItems?.length || 0} posts for @${account.username}`
+    );
+  }
+  return mediaItems;
+}
+
+async function fetchTimelineMedia(account) {
+  const query = new URLSearchParams({
+    doc_id: TIMELINE_DOC_ID,
+    variables: JSON.stringify({
+      id: account.profileId,
+      include_clips_attribution_info: false,
+      first: 12
+    })
+  });
+  const response = await fetch(`https://www.instagram.com/graphql/query/?${query}`, {
+    headers: {
+      Accept: "application/json",
+      Referer: `https://www.instagram.com/${account.username}/`,
+      "User-Agent": USER_AGENT,
+      "X-IG-App-ID": INSTAGRAM_APP_ID
+    },
+    signal: AbortSignal.timeout(20000)
+  });
+  if (!response.ok) {
+    throw new Error(
+      `Instagram timeline API returned ${response.status} for @${account.username}`
+    );
+  }
+  const payload = await response.json();
+  const mediaItems = payload?.data?.user?.edge_owner_to_timeline_media?.edges
+    ?.map(edge => edge?.node)
+    .map(media => media ? { ...media, display_url: coverImage(media) } : null)
+    .filter(media => media?.shortcode && media.display_url)
+    .slice(0, POSTS_PER_ACCOUNT);
+  if (mediaItems?.length !== POSTS_PER_ACCOUNT) {
+    throw new Error(
+      `Instagram timeline API exposed only ${mediaItems?.length || 0} posts for @${account.username}`
+    );
+  }
+  return mediaItems;
+}
+
 async function chromeExecutable() {
   const candidates = [
     process.env.CHROME_PATH,
@@ -244,19 +321,37 @@ async function fetchPost(account, shortcode) {
 }
 
 async function fetchAccount(account) {
-  const html = await fetchInstagramHtml(`https://www.instagram.com/${account.username}/embed/`);
-
-  const context = serverPayloads(html)
-    .map(payload => profileContext(payload, account.username))
-    .find(Boolean);
-  const embeddedMedia = context?.graphql_media
-    ?.map(item => item.shortcode_media)
-    .map(media => media ? { ...media, display_url: coverImage(media) } : null)
-    .filter(media => media?.shortcode && media.display_url)
-    .slice(0, POSTS_PER_ACCOUNT);
-  const mediaItems = embeddedMedia?.length === POSTS_PER_ACCOUNT
-    ? embeddedMedia
-    : await Promise.all((await discoverShortcodes(account)).map(shortcode => fetchPost(account, shortcode)));
+  let mediaItems;
+  try {
+    mediaItems = await fetchTimelineMedia(account);
+  } catch (timelineError) {
+    console.warn(
+      `Public timeline API unavailable for @${account.username}: ${errorMessage(timelineError)}`
+    );
+    try {
+      mediaItems = await fetchProfileMedia(account);
+    } catch (profileError) {
+      console.warn(
+        `Public profile API unavailable for @${account.username}: ${errorMessage(profileError)}`
+      );
+      const html = await fetchInstagramHtml(
+        `https://www.instagram.com/${account.username}/embed/`
+      );
+      const context = serverPayloads(html)
+        .map(payload => profileContext(payload, account.username))
+        .find(Boolean);
+      const embeddedMedia = context?.graphql_media
+        ?.map(item => item.shortcode_media)
+        .map(media => media ? { ...media, display_url: coverImage(media) } : null)
+        .filter(media => media?.shortcode && media.display_url)
+        .slice(0, POSTS_PER_ACCOUNT);
+      mediaItems = embeddedMedia?.length === POSTS_PER_ACCOUNT
+        ? embeddedMedia
+        : await Promise.all(
+          (await discoverShortcodes(account)).map(shortcode => fetchPost(account, shortcode))
+        );
+    }
+  }
   if (mediaItems.length < POSTS_PER_ACCOUNT) {
     throw new Error(`Instagram returned only ${mediaItems.length} posts for @${account.username}`);
   }
