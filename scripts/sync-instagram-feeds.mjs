@@ -11,9 +11,34 @@ const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const OUTPUT_PATH = resolve(ROOT, "data/behind-scenes.json");
 const MODULE_PATH = resolve(ROOT, "js/behind-scenes-snapshot.js");
 const IMAGE_DIRECTORY = resolve(ROOT, "assets/images");
+const RETRY_DELAYS_MS = [0, 2000];
 const USER_AGENT =
   "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) " +
   "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0 Safari/537.36";
+
+function wait(milliseconds) {
+  return new Promise(resolveWait => setTimeout(resolveWait, milliseconds));
+}
+
+function errorMessage(error) {
+  return error instanceof Error ? error.message : String(error);
+}
+
+async function retry(label, operation) {
+  let lastError;
+  for (const [index, delay] of RETRY_DELAYS_MS.entries()) {
+    if (delay) await wait(delay);
+    try {
+      return await operation();
+    } catch (error) {
+      lastError = error;
+      console.warn(
+        `${label} attempt ${index + 1}/${RETRY_DELAYS_MS.length} failed: ${errorMessage(error)}`
+      );
+    }
+  }
+  throw lastError;
+}
 
 function serverPayloads(html) {
   return [...html.matchAll(/s\.handle\((\{[\s\S]*?\})\);/g)]
@@ -261,6 +286,13 @@ async function existingSnapshot() {
   }
 }
 
+function savedPostsForAccount(snapshot, username) {
+  const accountPath = `instagram.com/${username}/`;
+  return (snapshot?.posts || [])
+    .filter(post => post.url?.includes(accountPath))
+    .slice(0, POSTS_PER_ACCOUNT);
+}
+
 async function fileExists(path) {
   try {
     await readFile(path);
@@ -270,24 +302,54 @@ async function fileExists(path) {
   }
 }
 
+async function validSavedPosts(snapshot, account) {
+  const posts = savedPostsForAccount(snapshot, account.username);
+  if (posts.length !== POSTS_PER_ACCOUNT) return [];
+  const imagesExist = await Promise.all(
+    posts.map(post => fileExists(resolve(ROOT, post.image)))
+  );
+  return imagesExist.every(Boolean) ? posts : [];
+}
+
+async function fetchAccountWithFallback(account, previous) {
+  try {
+    return {
+      fresh: true,
+      posts: await retry(`@${account.username}`, () => fetchAccount(account))
+    };
+  } catch (error) {
+    const savedPosts = await validSavedPosts(previous, account);
+    if (savedPosts.length !== POSTS_PER_ACCOUNT) throw error;
+    console.warn(
+      `::warning title=Instagram temporarily unavailable::` +
+      `Could not refresh @${account.username} (${errorMessage(error)}). ` +
+      "The last valid posts and images remain published."
+    );
+    return { fresh: false, posts: savedPosts };
+  }
+}
+
 async function downloadImages(posts) {
   const temporaryFiles = [];
   try {
-    await Promise.all(posts.map(async (post, index) => {
-      const response = await fetch(post.imageSource, {
-        headers: { "User-Agent": USER_AGENT },
-        signal: AbortSignal.timeout(20000)
+    const downloadablePosts = posts.filter(post => post.imageSource);
+    await Promise.all(downloadablePosts.map(async (post, index) => {
+      await retry(`Image for ${post.url}`, async () => {
+        const response = await fetch(post.imageSource, {
+          headers: { "User-Agent": USER_AGENT },
+          signal: AbortSignal.timeout(20000)
+        });
+        if (!response.ok) throw new Error(`Instagram image returned ${response.status}`);
+        if (!response.headers.get("content-type")?.startsWith("image/")) {
+          throw new Error("Instagram returned a non-image asset");
+        }
+        const bytes = new Uint8Array(await response.arrayBuffer());
+        if (bytes.length < 1000) throw new Error("Instagram returned an incomplete image");
+        const destination = resolve(ROOT, post.image);
+        const temporary = `${destination}.tmp-${Date.now()}-${index}`;
+        temporaryFiles.push({ temporary, destination });
+        await writeFile(temporary, bytes);
       });
-      if (!response.ok) throw new Error(`Instagram image returned ${response.status}`);
-      if (!response.headers.get("content-type")?.startsWith("image/")) {
-        throw new Error("Instagram returned a non-image asset");
-      }
-      const bytes = new Uint8Array(await response.arrayBuffer());
-      if (bytes.length < 1000) throw new Error("Instagram returned an incomplete image");
-      const destination = resolve(ROOT, post.image);
-      const temporary = `${destination}.tmp-${Date.now()}-${index}`;
-      temporaryFiles.push({ temporary, destination });
-      await writeFile(temporary, bytes);
     }));
     await Promise.all(temporaryFiles.map(file => rename(file.temporary, file.destination)));
   } catch (error) {
@@ -297,10 +359,12 @@ async function downloadImages(posts) {
 }
 
 async function main() {
-  const groups = await Promise.all(ACCOUNTS.map(fetchAccount));
-  const postsWithSources = interleave(groups);
-  const posts = postsWithSources.map(({ imageSource, ...post }) => post);
   const previous = await existingSnapshot();
+  const results = await Promise.all(
+    ACCOUNTS.map(account => fetchAccountWithFallback(account, previous))
+  );
+  const postsWithSources = interleave(results.map(result => result.posts));
+  const posts = postsWithSources.map(({ imageSource, ...post }) => post);
   const imagesExist = await Promise.all(posts.map(post => fileExists(resolve(ROOT, post.image))));
 
   if (
@@ -308,7 +372,11 @@ async function main() {
     imagesExist.every(Boolean) &&
     await fileExists(MODULE_PATH)
   ) {
-    console.log("Instagram feeds are already current.");
+    console.log(
+      results.every(result => result.fresh)
+        ? "Instagram feeds are already current."
+        : "Instagram was temporarily unavailable; the last valid feeds remain published."
+    );
     return;
   }
 
@@ -329,7 +397,21 @@ async function main() {
   console.log(`Updated ${posts.length} alternating Instagram posts.`);
 }
 
-main().catch(error => {
-  console.error(error.message);
+main().catch(async error => {
+  const previous = await existingSnapshot();
+  const savedGroups = await Promise.all(
+    ACCOUNTS.map(account => validSavedPosts(previous, account))
+  );
+  if (
+    savedGroups.every(posts => posts.length === POSTS_PER_ACCOUNT) &&
+    await fileExists(MODULE_PATH)
+  ) {
+    console.warn(
+      `::warning title=Instagram sync deferred::${errorMessage(error)} ` +
+      "The last valid feed snapshot remains published and the next scheduled run will retry."
+    );
+    return;
+  }
+  console.error(errorMessage(error));
   process.exitCode = 1;
 });
