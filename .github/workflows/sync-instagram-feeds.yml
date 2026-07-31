@@ -1,6 +1,14 @@
 name: Sync Instagram feeds
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/sync-instagram-feeds.yml"
+      - "scripts/sync-instagram-feeds.mjs"
+      - "package.json"
+      - "package-lock.json"
   schedule:
     - cron: "17 * * * *"
   workflow_dispatch:
