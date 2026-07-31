@@ -4,7 +4,7 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-07-31T17:51:43.147Z",
+  "generatedAt": "2026-07-31T19:51:36.249Z",
   "posts": [
     {
       "category": "Premier Padel · Carousel",
@@ -15,10 +15,10 @@ export default {
       "alt": "Cover image from @premierpadel, published 30 Jul."
     },
     {
-      "category": "OH! Padel · Post",
-      "caption": "Want to keep up with the score wherever you are? 🤫some exciting new tech coming soon! #scorelikealocal #playlikealocal #stanfordpadel",
+      "category": "OH! Padel · Carousel",
+      "caption": "Serious business with @coach_rish_padel 🎾👋🏻💪🙌🏻🏆 #playlikerish #yougotthis #playlikealocal #stanfordpadel",
       "time": "31 Jul",
-      "url": "https://www.instagram.com/ohpadel_club/p/Dbdn5RXs1tj/",
+      "url": "https://www.instagram.com/ohpadel_club/p/Dbd51SxDFeG/",
       "image": "assets/images/instagram-ohpadel-club-1.jpg",
       "alt": "Cover image from @ohpadel_club, published 31 Jul."
     },
@@ -32,9 +32,9 @@ export default {
     },
     {
       "category": "OH! Padel · Post",
-      "caption": "@beagonzalez_padel we are stoked!!! #fangirllikealocal #stanfordpadel 🥰🔥🙌🏻🎾🏆🥳",
+      "caption": "Want to keep up with the score wherever you are? 🤫some exciting new tech coming soon! #scorelikealocal #playlikealocal #stanfordpadel",
       "time": "31 Jul",
-      "url": "https://www.instagram.com/ohpadel_club/p/DbdFaL4Myk4/",
+      "url": "https://www.instagram.com/ohpadel_club/p/Dbdn5RXs1tj/",
       "image": "assets/images/instagram-ohpadel-club-2.jpg",
       "alt": "Cover image from @ohpadel_club, published 31 Jul."
     },
@@ -47,19 +47,35 @@ export default {
       "alt": "Cover image from @premierpadel, published 25 Jul."
     },
     {
-      "category": "OH! Padel · Reel",
-      "caption": "@beagonzalez_padel and @paula.josemar star struck!!! Please can we have a selfie 🤗🙌🏻🏆 #playlikealocal #stanfordpadel #premierpadel",
+      "category": "OH! Padel · Post",
+      "caption": "@beagonzalez_padel we are stoked!!! #fangirllikealocal #stanfordpadel 🥰🔥🙌🏻🎾🏆🥳",
       "time": "31 Jul",
-      "url": "https://www.instagram.com/ohpadel_club/reel/Dbc_EMfsBr6/",
+      "url": "https://www.instagram.com/ohpadel_club/p/DbdFaL4Myk4/",
       "image": "assets/images/instagram-ohpadel-club-3.jpg",
       "alt": "Cover image from @ohpadel_club, published 31 Jul."
     },
     {
-      "category": "Premier Padel · Carousel",
-      "caption": "Caps 𝙊𝙉 🫳🧢, GAME 𝙊𝙉 🔥 🔴 LIVE NOW 📺 Watch via @redbull TV for free and broadcast partners 📊 Livescore & results on the official Premier Padel app on iOS and Android #PremierPadel…",
+      "category": "Premier Padel · Reel",
+      "caption": "𝐖𝐇𝐀𝐓. 𝐀. 𝐌𝐀𝐓𝐂𝐇. #PremierPadel #PretoriaPremierPadelP1",
       "time": "31 Jul",
-      "url": "https://www.instagram.com/premierpadel/p/DbdvGbuCg0x/",
+      "url": "https://www.instagram.com/premierpadel/reel/DbeBNelu5wk/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
+      "alt": "Cover image from @premierpadel, published 31 Jul."
+    },
+    {
+      "category": "OH! Padel · Reel",
+      "caption": "@beagonzalez_padel and @paula.josemar star struck!!! Please can we have a selfie 🤗🙌🏻🏆 #playlikealocal #stanfordpadel #premierpadel",
+      "time": "31 Jul",
+      "url": "https://www.instagram.com/ohpadel_club/reel/Dbc_EMfsBr6/",
+      "image": "assets/images/instagram-ohpadel-club-4.jpg",
+      "alt": "Cover image from @ohpadel_club, published 31 Jul."
+    },
+    {
+      "category": "Premier Padel · Carousel",
+      "caption": "Last quarter-final of the day is 🔛🇿🇦 🔴 LIVE NOW 📺 Watch via @redbull TV for free and broadcast partners 📊 Livescores & results on the official Premier Padel app on iOS and Andro…",
+      "time": "31 Jul",
+      "url": "https://www.instagram.com/premierpadel/p/DbeAxWkDnyL/",
+      "image": "assets/images/instagram-premierpadel-5.jpg",
       "alt": "Cover image from @premierpadel, published 31 Jul."
     },
     {
@@ -67,24 +83,8 @@ export default {
       "caption": "Step4. Be blown away by the most incredible food, and young, incredibly talented Chef - Dikeledi at @sosubtlerestaurant #eatlikeatourist #playlikealocal #stanfordpadel",
       "time": "31 Jul",
       "url": "https://www.instagram.com/ohpadel_club/p/DbczxWvDL1E/",
-      "image": "assets/images/instagram-ohpadel-club-4.jpg",
-      "alt": "Cover image from @ohpadel_club, published 31 Jul."
-    },
-    {
-      "category": "Premier Padel · Carousel",
-      "caption": "After 3 tough sets... CHINGALAN 🤝 SEMI-FINALS ➡️ Swipe to see the result 📊All match stats on the official Premier Padel app on iOS and Android #PremierPadel #PretoriaPremierPadelP1",
-      "time": "31 Jul",
-      "url": "https://www.instagram.com/premierpadel/p/Dbds0R5ihct/",
-      "image": "assets/images/instagram-premierpadel-5.jpg",
-      "alt": "Cover image from @premierpadel, published 31 Jul."
-    },
-    {
-      "category": "OH! Padel · Carousel",
-      "caption": "Step3. Check your tickets, and your view! We’re coming for you 🙌🏻🎾🔥 @southafricapremierpadel #premierpadel #playlilealocal #primediaoutofhome",
-      "time": "30 Jul",
-      "url": "https://www.instagram.com/ohpadel_club/p/DbbY59yjNyl/",
       "image": "assets/images/instagram-ohpadel-club-5.jpg",
-      "alt": "Cover image from @ohpadel_club, published 30 Jul."
+      "alt": "Cover image from @ohpadel_club, published 31 Jul."
     }
   ]
 };
