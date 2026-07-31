@@ -1,39 +1,9 @@
 {
   "source": "https://premierpadel.com/en/tournaments-detail/pretoria-p1",
-  "generatedAt": "2026-07-31T16:22:40.214Z",
+  "generatedAt": "2026-07-31T16:32:40.734Z",
   "date": "2026-07-31",
   "day": 6,
   "fixtures": [
-    {
-      "id": "18271",
-      "time": "Not before 17:00",
-      "court": "Centre Court",
-      "division": "Men",
-      "round": "Quarter-final",
-      "a": "Javier Leal / Francisco Guerrero",
-      "b": "Juan Lebron / Leandro Roman Augsburger",
-      "aPlayers": [
-        {
-          "name": "Javier Leal",
-          "country": "ESP"
-        },
-        {
-          "name": "Francisco Guerrero",
-          "country": "ESP"
-        }
-      ],
-      "bPlayers": [
-        {
-          "name": "Juan Lebron",
-          "country": "ESP"
-        },
-        {
-          "name": "Leandro Roman Augsburger",
-          "country": "ARG"
-        }
-      ],
-      "status": "Starting Soon"
-    },
     {
       "id": "18272",
       "time": "Followed by",
