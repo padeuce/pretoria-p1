@@ -1,39 +1,9 @@
 {
   "source": "https://premierpadel.com/en/tournaments-detail/pretoria-p1",
-  "generatedAt": "2026-07-31T14:29:15.213Z",
+  "generatedAt": "2026-07-31T14:31:34.662Z",
   "date": "2026-07-31",
   "day": 6,
   "fixtures": [
-    {
-      "id": "18270",
-      "time": "Followed by",
-      "court": "Centre Court",
-      "division": "Men",
-      "round": "Quarter-final",
-      "a": "Juan Tello / Maximiliano Arce Simo",
-      "b": "Alejandro Galan / Federico Chingotto",
-      "aPlayers": [
-        {
-          "name": "Juan Tello",
-          "country": "ARG"
-        },
-        {
-          "name": "Maximiliano Arce Simo",
-          "country": "ARG"
-        }
-      ],
-      "bPlayers": [
-        {
-          "name": "Alejandro Galan",
-          "country": "ESP"
-        },
-        {
-          "name": "Federico Chingotto",
-          "country": "ARG"
-        }
-      ],
-      "status": "Starting Soon"
-    },
     {
       "id": "18272",
       "time": "Followed by",
