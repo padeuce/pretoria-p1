@@ -4,7 +4,7 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-07-31T05:09:01.626Z",
+  "generatedAt": "2026-07-31T08:09:34.531Z",
   "posts": [
     {
       "category": "Premier Padel · Carousel",
@@ -55,12 +55,12 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 30 Jul."
     },
     {
-      "category": "Premier Padel · Carousel",
-      "caption": "The herd gets smaller 🦒🇿🇦 Quarter-finals ready in Pretoria! ⏰ Swipe for timezones 📺 Watch via @redbull TV for free and broadcast partners 📊 Livescores & results on the official…",
-      "time": "30 Jul",
-      "url": "https://www.instagram.com/premierpadel/p/Dbbpe1LDtih/",
+      "category": "Premier Padel · Reel",
+      "caption": "When @tapia hits you with this finisher 😳🎻 #PremierPadel #PretoriaPremierPadelP1",
+      "time": "31 Jul",
+      "url": "https://www.instagram.com/premierpadel/reel/DbcyaQdO2bN/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
-      "alt": "Cover image from @premierpadel, published 30 Jul."
+      "alt": "Cover image from @premierpadel, published 31 Jul."
     },
     {
       "category": "OH! Padel · Post",
@@ -71,12 +71,12 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 30 Jul."
     },
     {
-      "category": "Premier Padel · Carousel",
-      "caption": "From missing the save to winning the set with it 👏 @aimargoni__ #PremierPadel #PretoriaPremierPadelP1",
-      "time": "30 Jul",
-      "url": "https://www.instagram.com/premierpadel/p/DbbjTrhDjZU/",
+      "category": "Premier Padel · Reel",
+      "caption": "Pure quality in Pretoria…😮‍💨 #PremierPadel #PretoriaPremierPadelP1 #QatarAirwaysPointoftheDay",
+      "time": "31 Jul",
+      "url": "https://www.instagram.com/premierpadel/reel/Dbcu_P3OUcI/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
-      "alt": "Cover image from @premierpadel, published 30 Jul."
+      "alt": "Cover image from @premierpadel, published 31 Jul."
     },
     {
       "category": "OH! Padel · Post",
