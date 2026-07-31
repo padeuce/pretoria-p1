@@ -1,6 +1,6 @@
 {
   "source": "https://premierpadel.com/en/tournaments-detail/pretoria-p1",
-  "generatedAt": "2026-07-31T12:00:43.992Z",
+  "generatedAt": "2026-07-31T13:04:13.868Z",
   "date": "2026-07-31",
   "day": 6,
   "fixtures": [
@@ -123,6 +123,40 @@
         }
       ],
       "status": "Starting Soon"
+    },
+    {
+      "id": "18268",
+      "time": "Followed by",
+      "court": "Centre Court",
+      "division": "Women",
+      "round": "Quarter-final",
+      "a": "Gemma Triay Pons / Delfina Brea Senesi",
+      "b": "Tamara Icardo Alcorisa / Claudia Jensen",
+      "aPlayers": [
+        {
+          "name": "Gemma Triay Pons",
+          "country": "ESP"
+        },
+        {
+          "name": "Delfina Brea Senesi",
+          "country": "ARG"
+        }
+      ],
+      "bPlayers": [
+        {
+          "name": "Tamara Icardo Alcorisa",
+          "country": "ESP"
+        },
+        {
+          "name": "Claudia Jensen",
+          "country": "ARG"
+        }
+      ],
+      "status": "Completed",
+      "scoreA": "7  6",
+      "scoreB": "6⁵  4",
+      "winner": "a",
+      "duration": "2h 01m"
     },
     {
       "id": "18266",
