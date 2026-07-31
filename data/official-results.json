@@ -1,39 +1,9 @@
 {
   "source": "https://premierpadel.com/en/tournaments-detail/pretoria-p1",
-  "generatedAt": "2026-07-31T16:11:34.958Z",
+  "generatedAt": "2026-07-31T16:22:40.214Z",
   "date": "2026-07-31",
   "day": 6,
   "fixtures": [
-    {
-      "id": "18272",
-      "time": "Followed by",
-      "court": "Centre Court",
-      "division": "Men",
-      "round": "Quarter-final",
-      "a": "Arturo Coello / Agustin Tapia",
-      "b": "Alejandro Arroyo / Jose Jimenez Casas",
-      "aPlayers": [
-        {
-          "name": "Arturo Coello",
-          "country": "ESP"
-        },
-        {
-          "name": "Agustin Tapia",
-          "country": "ARG"
-        }
-      ],
-      "bPlayers": [
-        {
-          "name": "Alejandro Arroyo",
-          "country": "ESP"
-        },
-        {
-          "name": "Jose Jimenez Casas",
-          "country": "ESP"
-        }
-      ],
-      "status": "Starting Soon"
-    },
     {
       "id": "18271",
       "time": "Not before 17:00",
@@ -60,6 +30,36 @@
         {
           "name": "Leandro Roman Augsburger",
           "country": "ARG"
+        }
+      ],
+      "status": "Starting Soon"
+    },
+    {
+      "id": "18272",
+      "time": "Followed by",
+      "court": "Centre Court",
+      "division": "Men",
+      "round": "Quarter-final",
+      "a": "Arturo Coello / Agustin Tapia",
+      "b": "Alejandro Arroyo / Jose Jimenez Casas",
+      "aPlayers": [
+        {
+          "name": "Arturo Coello",
+          "country": "ESP"
+        },
+        {
+          "name": "Agustin Tapia",
+          "country": "ARG"
+        }
+      ],
+      "bPlayers": [
+        {
+          "name": "Alejandro Arroyo",
+          "country": "ESP"
+        },
+        {
+          "name": "Jose Jimenez Casas",
+          "country": "ESP"
         }
       ],
       "status": "Starting Soon"
