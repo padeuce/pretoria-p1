@@ -1,6 +1,6 @@
 {
   "source": "https://premierpadel.com/en/tournaments-detail/pretoria-p1",
-  "generatedAt": "2026-08-01T11:09:00.847Z",
+  "generatedAt": "2026-08-01T12:29:58.550Z",
   "date": "2026-08-01",
   "day": 7,
   "fixtures": [
@@ -93,6 +93,40 @@
         }
       ],
       "status": "Starting Soon"
+    },
+    {
+      "id": "18274",
+      "time": "Starting at 13:00",
+      "court": "Centre Court",
+      "division": "Women",
+      "round": "Semi-final",
+      "a": "Claudia Fernandez Sanchez / Martina Calvo",
+      "b": "Paula Josemaria Martin / Beatriz Gonzalez Fernandez",
+      "aPlayers": [
+        {
+          "name": "Claudia Fernandez Sanchez",
+          "country": "ESP"
+        },
+        {
+          "name": "Martina Calvo",
+          "country": "ESP"
+        }
+      ],
+      "bPlayers": [
+        {
+          "name": "Paula Josemaria Martin",
+          "country": "ESP"
+        },
+        {
+          "name": "Beatriz Gonzalez Fernandez",
+          "country": "ESP"
+        }
+      ],
+      "status": "Completed",
+      "scoreA": "6  6",
+      "scoreB": "1  4",
+      "winner": "a",
+      "duration": "1h 19m"
     }
   ]
 }
