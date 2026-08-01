@@ -1,28 +1,18 @@
 {
   "source": "https://premierpadel.com/en/tournaments-detail/pretoria-p1",
-  "generatedAt": "2026-08-01T18:06:04.205Z",
-  "date": "2026-08-01",
-  "day": 7,
+  "generatedAt": "2026-08-01T22:04:57.433Z",
+  "date": "2026-08-02",
+  "day": 8,
   "fixtures": [
     {
-      "id": "18277",
-      "time": "Followed by",
+      "id": "18295",
+      "time": "Not before 15:00",
       "court": "Centre Court",
       "division": "Men",
-      "round": "Semi-final",
-      "a": "Arturo Coello / Agustin Tapia",
-      "b": "Javier Leal / Francisco Guerrero",
+      "round": "Final",
+      "a": "Javier Leal / Francisco Guerrero",
+      "b": "Alejandro Galan / Federico Chingotto",
       "aPlayers": [
-        {
-          "name": "Arturo Coello",
-          "country": "ESP"
-        },
-        {
-          "name": "Agustin Tapia",
-          "country": "ARG"
-        }
-      ],
-      "bPlayers": [
         {
           "name": "Javier Leal",
           "country": "ESP"
@@ -30,30 +20,6 @@
         {
           "name": "Francisco Guerrero",
           "country": "ESP"
-        }
-      ],
-      "status": "Completed",
-      "scoreA": "5  5",
-      "scoreB": "7  7",
-      "winner": "b",
-      "duration": "1h 20m"
-    },
-    {
-      "id": "18276",
-      "time": "Not before 17:00",
-      "court": "Centre Court",
-      "division": "Men",
-      "round": "Semi-final",
-      "a": "Juanlu Esbri / Carlos Daniel Gutierrez",
-      "b": "Alejandro Galan / Federico Chingotto",
-      "aPlayers": [
-        {
-          "name": "Juanlu Esbri",
-          "country": "ESP"
-        },
-        {
-          "name": "Carlos Daniel Gutierrez",
-          "country": "ARG"
         }
       ],
       "bPlayers": [
@@ -66,20 +32,16 @@
           "country": "ARG"
         }
       ],
-      "status": "Completed",
-      "scoreA": "5  4",
-      "scoreB": "7  6",
-      "winner": "b",
-      "duration": "1h 10m"
+      "status": "Starting Soon"
     },
     {
-      "id": "18275",
-      "time": "Followed by",
+      "id": "18294",
+      "time": "Starting at 13:00",
       "court": "Centre Court",
       "division": "Women",
-      "round": "Semi-final",
+      "round": "Final",
       "a": "Gemma Triay Pons / Delfina Brea Senesi",
-      "b": "Alejandra Salazar Bengoechea / Aranzazu Osoro Ulrich",
+      "b": "Claudia Fernandez Sanchez / Martina Calvo",
       "aPlayers": [
         {
           "name": "Gemma Triay Pons",
@@ -92,30 +54,6 @@
       ],
       "bPlayers": [
         {
-          "name": "Alejandra Salazar Bengoechea",
-          "country": "ESP"
-        },
-        {
-          "name": "Aranzazu Osoro Ulrich",
-          "country": "ARG"
-        }
-      ],
-      "status": "Completed",
-      "scoreA": "6  6",
-      "scoreB": "2  1",
-      "winner": "a",
-      "duration": "1h 15m"
-    },
-    {
-      "id": "18274",
-      "time": "Starting at 13:00",
-      "court": "Centre Court",
-      "division": "Women",
-      "round": "Semi-final",
-      "a": "Claudia Fernandez Sanchez / Martina Calvo",
-      "b": "Paula Josemaria Martin / Beatriz Gonzalez Fernandez",
-      "aPlayers": [
-        {
           "name": "Claudia Fernandez Sanchez",
           "country": "ESP"
         },
@@ -124,21 +62,7 @@
           "country": "ESP"
         }
       ],
-      "bPlayers": [
-        {
-          "name": "Paula Josemaria Martin",
-          "country": "ESP"
-        },
-        {
-          "name": "Beatriz Gonzalez Fernandez",
-          "country": "ESP"
-        }
-      ],
-      "status": "Completed",
-      "scoreA": "6  6",
-      "scoreB": "1  4",
-      "winner": "a",
-      "duration": "1h 19m"
+      "status": "Starting Soon"
     }
   ]
 }
