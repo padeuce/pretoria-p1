@@ -4,7 +4,7 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-01T17:13:23.596Z",
+  "generatedAt": "2026-08-01T18:10:54.025Z",
   "posts": [
     {
       "category": "Premier Padel · Carousel",
@@ -55,10 +55,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 31 Jul."
     },
     {
-      "category": "Premier Padel · Carousel",
-      "caption": "One more upset or business as usual? 👀🇿🇦 🔴 LIVE NOW 📺 Watch via @redbull TV for free and broadcast partners 📊 Livescores & results on the official Premier Padel app on iOS and A…",
+      "category": "Premier Padel · Reel",
+      "caption": "The VAR at the end says it all 🫨 @javileal03 #PremierPadel #PretoriaPremierPadelP1",
       "time": "01 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/DbgTdxDCiY0/",
+      "url": "https://www.instagram.com/premierpadel/reel/Dbgb29Zusuy/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
       "alt": "Cover image from @premierpadel, published 01 Aug."
     },
@@ -72,9 +72,9 @@ export default {
     },
     {
       "category": "Premier Padel · Reel",
-      "caption": "The Alien classic 👽🌪️ @alegalan96 #PremierPadel #PretoriaPremierPadelP1",
+      "caption": "The energy is 𝐮𝐧𝐦𝐚𝐭𝐜𝐡𝐞𝐝 in Pretoria 🇿🇦 #PremierPadel #PretoriaPremierPadelP1",
       "time": "01 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/DbgST_XK2uK/",
+      "url": "https://www.instagram.com/premierpadel/reel/DbgYT2AK6Rn/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
       "alt": "Cover image from @premierpadel, published 01 Aug."
     },
