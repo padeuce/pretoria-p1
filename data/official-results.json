@@ -1,39 +1,9 @@
 {
   "source": "https://premierpadel.com/en/tournaments-detail/pretoria-p1",
-  "generatedAt": "2026-08-01T16:25:38.054Z",
+  "generatedAt": "2026-08-01T16:45:38.352Z",
   "date": "2026-08-01",
   "day": 7,
   "fixtures": [
-    {
-      "id": "18277",
-      "time": "Followed by",
-      "court": "Centre Court",
-      "division": "Men",
-      "round": "Semi-final",
-      "a": "Arturo Coello / Agustin Tapia",
-      "b": "Javier Leal / Francisco Guerrero",
-      "aPlayers": [
-        {
-          "name": "Arturo Coello",
-          "country": "ESP"
-        },
-        {
-          "name": "Agustin Tapia",
-          "country": "ARG"
-        }
-      ],
-      "bPlayers": [
-        {
-          "name": "Javier Leal",
-          "country": "ESP"
-        },
-        {
-          "name": "Francisco Guerrero",
-          "country": "ESP"
-        }
-      ],
-      "status": "Starting Soon"
-    },
     {
       "id": "18276",
       "time": "Not before 17:00",
