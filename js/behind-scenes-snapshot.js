@@ -4,7 +4,7 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-07-31T21:21:04.681Z",
+  "generatedAt": "2026-08-01T09:20:16.365Z",
   "posts": [
     {
       "category": "Premier Padel · Carousel",
@@ -55,12 +55,12 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 31 Jul."
     },
     {
-      "category": "Premier Padel · Carousel",
-      "caption": "The No.1s finish the day on a high 🎻🇿🇦👑 ➡️ Swipe to see the result 📊All match stats on the official Premier Padel app on iOS and Android #PremierPadel #PretoriaPremierPadelP1",
-      "time": "31 Jul",
-      "url": "https://www.instagram.com/premierpadel/p/DbeJVlGjhp2/",
+      "category": "Premier Padel · Reel",
+      "caption": "Auuuuu🐺 #PremierPadel #PretoriaPremierPadelP1 #QatarAirwaysPointoftheDay",
+      "time": "01 Aug",
+      "url": "https://www.instagram.com/premierpadel/reel/Dbfaji8uvpY/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
-      "alt": "Cover image from @premierpadel, published 31 Jul."
+      "alt": "Cover image from @premierpadel, published 01 Aug."
     },
     {
       "category": "OH! Padel · Reel",
@@ -71,10 +71,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 31 Jul."
     },
     {
-      "category": "Premier Padel · Reel",
-      "caption": "The King was ready 👑 🚪 #PremierPadel #PretoriaPremierPadelP1 #RedBullOutTheCourt",
+      "category": "Premier Padel · Carousel",
+      "caption": "The No.1s finish the day on a high 🎻🇿🇦👑 ➡️ Swipe to see the result 📊All match stats on the official Premier Padel app on iOS and Android #PremierPadel #PretoriaPremierPadelP1",
       "time": "31 Jul",
-      "url": "https://www.instagram.com/premierpadel/reel/DbeE3HrOC0W/",
+      "url": "https://www.instagram.com/premierpadel/p/DbeJVlGjhp2/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
       "alt": "Cover image from @premierpadel, published 31 Jul."
     },
