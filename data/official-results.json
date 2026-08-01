@@ -1,39 +1,9 @@
 {
   "source": "https://premierpadel.com/en/tournaments-detail/pretoria-p1",
-  "generatedAt": "2026-08-01T15:02:37.296Z",
+  "generatedAt": "2026-08-01T15:12:37.721Z",
   "date": "2026-08-01",
   "day": 7,
   "fixtures": [
-    {
-      "id": "18276",
-      "time": "Not before 17:00",
-      "court": "Centre Court",
-      "division": "Men",
-      "round": "Semi-final",
-      "a": "Juanlu Esbri / Carlos Daniel Gutierrez",
-      "b": "Alejandro Galan / Federico Chingotto",
-      "aPlayers": [
-        {
-          "name": "Juanlu Esbri",
-          "country": "ESP"
-        },
-        {
-          "name": "Carlos Daniel Gutierrez",
-          "country": "ARG"
-        }
-      ],
-      "bPlayers": [
-        {
-          "name": "Alejandro Galan",
-          "country": "ESP"
-        },
-        {
-          "name": "Federico Chingotto",
-          "country": "ARG"
-        }
-      ],
-      "status": "Starting Soon"
-    },
     {
       "id": "18277",
       "time": "Followed by",
