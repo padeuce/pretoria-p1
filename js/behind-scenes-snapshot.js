@@ -4,15 +4,15 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-01T18:10:54.025Z",
+  "generatedAt": "2026-08-01T19:32:25.718Z",
   "posts": [
     {
       "category": "Premier Padel · Carousel",
-      "caption": "Mzansi, we’re down to four 🔥🇿🇦 ⏰ Swipe for timezones 📺 Watch via @redbull TV for free and broadcast partners 📊 Livescores & results on the official Premier Padel app on iOS and…",
-      "time": "31 Jul",
-      "url": "https://www.instagram.com/premierpadel/p/DbeI5Qujonx/",
+      "caption": "𝐏𝐫𝐞𝐭𝐨𝐫𝐢𝐚 𝐦𝐚𝐤𝐞𝐬 𝐡𝐢𝐬𝐭𝐨𝐫𝐲 🇿🇦 Two first-timers in both finals competing for the trophy. 🏆 ⏰ Swipe for timezones 📺 Watch via @redbull TV for free and broadcast partners 📊 Livescores…",
+      "time": "01 Aug",
+      "url": "https://www.instagram.com/premierpadel/p/Dbgh5EVjkzc/",
       "image": "assets/images/instagram-premierpadel-1.jpg",
-      "alt": "Cover image from @premierpadel, published 31 Jul."
+      "alt": "Cover image from @premierpadel, published 01 Aug."
     },
     {
       "category": "OH! Padel · Carousel",
@@ -56,9 +56,9 @@ export default {
     },
     {
       "category": "Premier Padel · Reel",
-      "caption": "The VAR at the end says it all 🫨 @javileal03 #PremierPadel #PretoriaPremierPadelP1",
+      "caption": "𝐅𝐈𝐑𝐒𝐓 𝐄𝐕𝐄𝐑 🌟 @javileal03 & @franguerreroo_ #PremierPadel #PretoriaPremierPadelP1",
       "time": "01 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/Dbgb29Zusuy/",
+      "url": "https://www.instagram.com/premierpadel/reel/DbgkSTmxZJ8/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
       "alt": "Cover image from @premierpadel, published 01 Aug."
     },
@@ -71,10 +71,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 31 Jul."
     },
     {
-      "category": "Premier Padel · Reel",
-      "caption": "The energy is 𝐮𝐧𝐦𝐚𝐭𝐜𝐡𝐞𝐝 in Pretoria 🇿🇦 #PremierPadel #PretoriaPremierPadelP1",
+      "category": "Premier Padel · Carousel",
+      "caption": "Lekker, Pretoria 🇿🇦🌟 #PremierPadel #PretoriaPremierPadelP1",
       "time": "01 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/DbgYT2AK6Rn/",
+      "url": "https://www.instagram.com/premierpadel/p/DbgjpOMjl3T/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
       "alt": "Cover image from @premierpadel, published 01 Aug."
     },
