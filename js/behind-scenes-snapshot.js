@@ -4,7 +4,7 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-01T13:53:26.976Z",
+  "generatedAt": "2026-08-01T15:17:40.952Z",
   "posts": [
     {
       "category": "Premier Padel · Carousel",
@@ -55,10 +55,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 31 Jul."
     },
     {
-      "category": "Premier Padel · Carousel",
-      "caption": "One set from the final 🔥🇿🇦 🔴 LIVE NOW 📺 Watch via @redbull TV for free and broadcast partners 📊 Livescores & results on the official Premier Padel app on iOS and Android #Premie…",
+      "category": "Premier Padel · Reel",
+      "caption": "Mission complete ✅ #PremierPadel #PretoriaPremierPadelP1",
       "time": "01 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/Dbf9XluijVe/",
+      "url": "https://www.instagram.com/premierpadel/reel/DbgIgKTqtoG/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
       "alt": "Cover image from @premierpadel, published 01 Aug."
     },
@@ -71,10 +71,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 31 Jul."
     },
     {
-      "category": "Premier Padel · Reel",
-      "caption": "A textbook dormilona 🤌🎾💤 @alejandrasalazar10 #PremierPadel #PretoriaPremierPadelP1",
+      "category": "Premier Padel · Carousel",
+      "caption": "Just minutes before 💪🏋️ #PremierPadel #PretoriaPremierPadelP1",
       "time": "01 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/Dbf78d6K2_9/",
+      "url": "https://www.instagram.com/premierpadel/p/DbgFuh5CnkZ/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
       "alt": "Cover image from @premierpadel, published 01 Aug."
     },
