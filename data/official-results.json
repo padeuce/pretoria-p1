@@ -1,6 +1,6 @@
 {
   "source": "https://premierpadel.com/en/tournaments-detail/pretoria-p1",
-  "generatedAt": "2026-08-01T12:29:58.550Z",
+  "generatedAt": "2026-08-01T12:48:03.815Z",
   "date": "2026-08-01",
   "day": 7,
   "fixtures": [
@@ -59,36 +59,6 @@
         },
         {
           "name": "Federico Chingotto",
-          "country": "ARG"
-        }
-      ],
-      "status": "Starting Soon"
-    },
-    {
-      "id": "18275",
-      "time": "Followed by",
-      "court": "Centre Court",
-      "division": "Women",
-      "round": "Semi-final",
-      "a": "Gemma Triay Pons / Delfina Brea Senesi",
-      "b": "Alejandra Salazar Bengoechea / Aranzazu Osoro Ulrich",
-      "aPlayers": [
-        {
-          "name": "Gemma Triay Pons",
-          "country": "ESP"
-        },
-        {
-          "name": "Delfina Brea Senesi",
-          "country": "ARG"
-        }
-      ],
-      "bPlayers": [
-        {
-          "name": "Alejandra Salazar Bengoechea",
-          "country": "ESP"
-        },
-        {
-          "name": "Aranzazu Osoro Ulrich",
           "country": "ARG"
         }
       ],
