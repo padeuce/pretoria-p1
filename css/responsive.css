@@ -5,7 +5,7 @@
   .court-embeds{grid-template-columns:repeat(2,minmax(0,1fr))}
   .media-grid{grid-template-columns:repeat(3,1fr)}.media-card--featured{grid-column:1/-1;display:grid;grid-template-columns:1.4fr 1fr}.media-card--featured .media-card__image{aspect-ratio:auto}
   .story-card{flex-basis:18rem}
-  .site-footer__top{grid-template-columns:2fr repeat(3,1fr)}.site-footer__bottom{grid-template-columns:1fr auto auto;align-items:center}
+  .site-footer__bottom{grid-template-columns:1fr auto auto;align-items:center}
 }
 @media(min-width:64rem){
   .site-header{height:5rem}.site-header.is-scrolled{height:4rem}

@@ -30,4 +30,4 @@
 .media-grid{display:grid;gap:1rem}
 .story-track{display:flex;gap:1rem;overflow-x:auto;scroll-snap-type:x mandatory;padding-bottom:.8rem;scrollbar-color:var(--colour-faded-green) transparent}
 .story-card{flex:0 0 min(78vw,20rem);scroll-snap-align:start}
-.site-footer__top{display:grid;grid-template-columns:1fr 1fr;gap:2.5rem}.site-footer__bottom{display:grid;gap:1rem}
+.site-footer__bottom{display:grid;gap:1rem}
