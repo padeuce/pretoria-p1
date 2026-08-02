@@ -1,6 +1,6 @@
 {
   "source": "https://premierpadel.com/en/tournaments-detail/pretoria-p1",
-  "generatedAt": "2026-08-01T22:04:57.433Z",
+  "generatedAt": "2026-08-02T11:09:55.816Z",
   "date": "2026-08-02",
   "day": 8,
   "fixtures": [
@@ -30,36 +30,6 @@
         {
           "name": "Federico Chingotto",
           "country": "ARG"
-        }
-      ],
-      "status": "Starting Soon"
-    },
-    {
-      "id": "18294",
-      "time": "Starting at 13:00",
-      "court": "Centre Court",
-      "division": "Women",
-      "round": "Final",
-      "a": "Gemma Triay Pons / Delfina Brea Senesi",
-      "b": "Claudia Fernandez Sanchez / Martina Calvo",
-      "aPlayers": [
-        {
-          "name": "Gemma Triay Pons",
-          "country": "ESP"
-        },
-        {
-          "name": "Delfina Brea Senesi",
-          "country": "ARG"
-        }
-      ],
-      "bPlayers": [
-        {
-          "name": "Claudia Fernandez Sanchez",
-          "country": "ESP"
-        },
-        {
-          "name": "Martina Calvo",
-          "country": "ESP"
         }
       ],
       "status": "Starting Soon"
