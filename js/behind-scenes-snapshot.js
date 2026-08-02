@@ -4,7 +4,7 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-02T13:52:49.120Z",
+  "generatedAt": "2026-08-02T15:18:38.179Z",
   "posts": [
     {
       "category": "Premier Padel · Carousel",
@@ -56,9 +56,9 @@ export default {
     },
     {
       "category": "Premier Padel · Reel",
-      "caption": "BEAST MODE 🌟🇿🇦 @martinacaalvo #PremierPadel #PretoriaPremierPadelP1",
+      "caption": "A matter of details 👽🇿🇦 @alegalan96 #PremierPadel #PretoriaPremierPadelP1",
       "time": "02 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/Dbij8qyKJ7K/",
+      "url": "https://www.instagram.com/premierpadel/reel/DbitYbQqPQd/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
       "alt": "Cover image from @premierpadel, published 02 Aug."
     },
@@ -71,10 +71,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 31 Jul."
     },
     {
-      "category": "Premier Padel · Carousel",
-      "caption": "The calm before Centre Court 🎾🏋️ #PremierPadel #PretoriaPremierPadelP1",
+      "category": "Premier Padel · Reel",
+      "caption": "Saved from another postcode 🐭🚪 #PremierPadel #PretoriaPremierPadelP1 #RedBullOutTheCourt",
       "time": "02 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/DbihmH8CuTe/",
+      "url": "https://www.instagram.com/premierpadel/reel/Dbisd0eqxoz/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
       "alt": "Cover image from @premierpadel, published 02 Aug."
     },
