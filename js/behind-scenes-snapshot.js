@@ -4,13 +4,13 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-02T17:14:15.710Z",
+  "generatedAt": "2026-08-02T18:11:18.434Z",
   "posts": [
     {
       "category": "Premier Padel · Post",
-      "caption": "💎🏆 𝐂𝐇𝐀𝐌𝐏𝐈𝐎𝐍𝐒 𝐈𝐍 𝐏𝐑𝐄𝐓𝐎𝐑𝐈𝐀 🇿🇦🐬 Title number 5️⃣ this season for @gemmatriay & @delfibrea who lift the first-ever trophy of the Pretoria P1. #PremierPadel #PretoriaPremierPadelP1",
+      "caption": "🐭🏆 𝐂𝐇𝐀𝐌𝐏𝐈𝐎𝐍𝐒 𝐈𝐍 𝐏𝐑𝐄𝐓𝐎𝐑𝐈𝐀 🇿🇦👽 @chingotto & @alegalan96 lift the inaugural Pretoria P1 trophy and celebrate title No. 6 of the season. #PremierPadel #PretoriaPremierPadelP1",
       "time": "02 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/DbimssjK1yk/",
+      "url": "https://www.instagram.com/premierpadel/p/Dbi3n5aqd2m/",
       "image": "assets/images/instagram-premierpadel-1.jpg",
       "alt": "Cover image from @premierpadel, published 02 Aug."
     },
@@ -24,9 +24,9 @@ export default {
     },
     {
       "category": "Premier Padel · Reel",
-      "caption": "The moment they’ve been fighting for…🏆 A week of unforgettable padel. 🇿🇦 #premierpadel #malagapremierpadelp1",
+      "caption": "🏆 𝗧𝗛𝗘 𝗣𝗥𝗘𝗧𝗢𝗥𝗜𝗔 𝗣𝟭 𝗖𝗛𝗔𝗠𝗣𝗜𝗢𝗡𝗦 🇿🇦 💎🐬 @gemmatriay @delfibrea 🐭👽 @chingotto @alegalan96 #PremierPadel #PretoriaPremierPadelP1",
       "time": "02 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/Dbi6RSIKKJp/",
+      "url": "https://www.instagram.com/premierpadel/reel/Dbi8pIGOYSt/",
       "image": "assets/images/instagram-premierpadel-2.jpg",
       "alt": "Cover image from @premierpadel, published 02 Aug."
     },
@@ -39,10 +39,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 02 Aug."
     },
     {
-      "category": "Premier Padel · Reel",
-      "caption": "Not every story ends with a trophy. But every finalist leaves their mark… 🌟 ¡Qué torneo habéis hecho! 😮‍💨 #PremierPadel #PretoriaPremierPadelP1",
+      "category": "Premier Padel · Post",
+      "caption": "💎🏆 𝐂𝐇𝐀𝐌𝐏𝐈𝐎𝐍𝐒 𝐈𝐍 𝐏𝐑𝐄𝐓𝐎𝐑𝐈𝐀 🇿🇦🐬 Title number 5️⃣ this season for @gemmatriay & @delfibrea who lift the first-ever trophy of the Pretoria P1. #PremierPadel #PretoriaPremierPadelP1",
       "time": "02 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/Dbi5ZH-KxVu/",
+      "url": "https://www.instagram.com/premierpadel/p/DbimssjK1yk/",
       "image": "assets/images/instagram-premierpadel-3.jpg",
       "alt": "Cover image from @premierpadel, published 02 Aug."
     },
@@ -56,9 +56,9 @@ export default {
     },
     {
       "category": "Premier Padel · Reel",
-      "caption": "🐭🏆 𝐈𝐍𝐀𝐔𝐆𝐔𝐑𝐀𝐋 𝐂𝐇𝐀𝐌𝐏𝐈𝐎𝐍𝐒 🇿🇦👽 @chingotto & @alegalan96 add another trophy to their cabinet, with the first edition of the Pretoria P1 vanquished. #PremierPadel #PretoriaPremierPadelP1",
+      "caption": "You gave it your all. 🌟🥺🔥 @javileal03 @franguerreroo_ #PremierPadel #PretoriaPremierPadelP1",
       "time": "02 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/Dbi4pOqqxCh/",
+      "url": "https://www.instagram.com/premierpadel/reel/DbjAzlQO50O/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
       "alt": "Cover image from @premierpadel, published 02 Aug."
     },
@@ -72,9 +72,9 @@ export default {
     },
     {
       "category": "Premier Padel · Carousel",
-      "caption": "Meanwhile in London... the official men and women's main draws are OUT 🇬🇧 #PremierPadel #LondonPremierPadelP1",
+      "caption": "🥈 𝗧𝗛𝗘 𝗣𝗥𝗘𝗧𝗢𝗥𝗜𝗔 𝗣𝟭 𝗙𝗜𝗡𝗔𝗟𝗜𝗦𝗧𝗦 🇿🇦 A historic day for these two pairs. Congratulations on your incredible week in Pretoria! #PremierPadel #PretoriaPremierPadelP1",
       "time": "02 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/Dbi4sKiinyW/",
+      "url": "https://www.instagram.com/premierpadel/p/DbjAXVVjv5S/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
       "alt": "Cover image from @premierpadel, published 02 Aug."
     },
