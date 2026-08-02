@@ -4,15 +4,15 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-02T15:18:38.179Z",
+  "generatedAt": "2026-08-02T17:14:15.710Z",
   "posts": [
     {
-      "category": "Premier Padel · Carousel",
-      "caption": "𝐏𝐫𝐞𝐭𝐨𝐫𝐢𝐚 𝐦𝐚𝐤𝐞𝐬 𝐡𝐢𝐬𝐭𝐨𝐫𝐲 🇿🇦 Two first-timers in both finals competing for the trophy. 🏆 ⏰ Swipe for timezones 📺 Watch via @redbull TV for free and broadcast partners 📊 Livescores…",
-      "time": "01 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/Dbgh5EVjkzc/",
+      "category": "Premier Padel · Post",
+      "caption": "💎🏆 𝐂𝐇𝐀𝐌𝐏𝐈𝐎𝐍𝐒 𝐈𝐍 𝐏𝐑𝐄𝐓𝐎𝐑𝐈𝐀 🇿🇦🐬 Title number 5️⃣ this season for @gemmatriay & @delfibrea who lift the first-ever trophy of the Pretoria P1. #PremierPadel #PretoriaPremierPadelP1",
+      "time": "02 Aug",
+      "url": "https://www.instagram.com/premierpadel/p/DbimssjK1yk/",
       "image": "assets/images/instagram-premierpadel-1.jpg",
-      "alt": "Cover image from @premierpadel, published 01 Aug."
+      "alt": "Cover image from @premierpadel, published 02 Aug."
     },
     {
       "category": "OH! Padel · Carousel",
@@ -23,12 +23,12 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 02 Aug."
     },
     {
-      "category": "Premier Padel · Carousel",
-      "caption": "The official men’s and women’s main draws of the @southafricapremierpadel are here! 🇿🇦 ❤️‍🩹 The women’s draw has been updated from a previously published version following the w…",
-      "time": "25 Jul",
-      "url": "https://www.instagram.com/premierpadel/p/DbOc7UVDgt9/",
+      "category": "Premier Padel · Reel",
+      "caption": "The moment they’ve been fighting for…🏆 A week of unforgettable padel. 🇿🇦 #premierpadel #malagapremierpadelp1",
+      "time": "02 Aug",
+      "url": "https://www.instagram.com/premierpadel/reel/Dbi6RSIKKJp/",
       "image": "assets/images/instagram-premierpadel-2.jpg",
-      "alt": "Cover image from @premierpadel, published 25 Jul."
+      "alt": "Cover image from @premierpadel, published 02 Aug."
     },
     {
       "category": "OH! Padel · Carousel",
@@ -39,12 +39,12 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 02 Aug."
     },
     {
-      "category": "Premier Padel · Carousel",
-      "caption": "𝗣𝗿𝗲𝘁𝗼𝗿𝗶𝗮, 𝗮𝗿𝗲 𝘆𝗼𝘂 𝗿𝗲𝗮𝗱𝘆? 🇿🇦 📆 Main Draw: 27 July - 2 August 🏟️ SunBet Arena Time Square, Pretoria 📊 Livescores & results on the official Premier Padel app on iOS and Android ➡️…",
-      "time": "25 Jul",
-      "url": "https://www.instagram.com/premierpadel/p/DbN-_pyiurt/",
+      "category": "Premier Padel · Reel",
+      "caption": "Not every story ends with a trophy. But every finalist leaves their mark… 🌟 ¡Qué torneo habéis hecho! 😮‍💨 #PremierPadel #PretoriaPremierPadelP1",
+      "time": "02 Aug",
+      "url": "https://www.instagram.com/premierpadel/reel/Dbi5ZH-KxVu/",
       "image": "assets/images/instagram-premierpadel-3.jpg",
-      "alt": "Cover image from @premierpadel, published 25 Jul."
+      "alt": "Cover image from @premierpadel, published 02 Aug."
     },
     {
       "category": "OH! Padel · Carousel",
@@ -56,9 +56,9 @@ export default {
     },
     {
       "category": "Premier Padel · Reel",
-      "caption": "A matter of details 👽🇿🇦 @alegalan96 #PremierPadel #PretoriaPremierPadelP1",
+      "caption": "🐭🏆 𝐈𝐍𝐀𝐔𝐆𝐔𝐑𝐀𝐋 𝐂𝐇𝐀𝐌𝐏𝐈𝐎𝐍𝐒 🇿🇦👽 @chingotto & @alegalan96 add another trophy to their cabinet, with the first edition of the Pretoria P1 vanquished. #PremierPadel #PretoriaPremierPadelP1",
       "time": "02 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/DbitYbQqPQd/",
+      "url": "https://www.instagram.com/premierpadel/reel/Dbi4pOqqxCh/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
       "alt": "Cover image from @premierpadel, published 02 Aug."
     },
@@ -71,10 +71,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 31 Jul."
     },
     {
-      "category": "Premier Padel · Reel",
-      "caption": "Saved from another postcode 🐭🚪 #PremierPadel #PretoriaPremierPadelP1 #RedBullOutTheCourt",
+      "category": "Premier Padel · Carousel",
+      "caption": "Meanwhile in London... the official men and women's main draws are OUT 🇬🇧 #PremierPadel #LondonPremierPadelP1",
       "time": "02 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/Dbisd0eqxoz/",
+      "url": "https://www.instagram.com/premierpadel/p/Dbi4sKiinyW/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
       "alt": "Cover image from @premierpadel, published 02 Aug."
     },
