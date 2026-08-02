@@ -4,7 +4,7 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-02T11:33:45.125Z",
+  "generatedAt": "2026-08-02T13:52:49.120Z",
   "posts": [
     {
       "category": "Premier Padel · Carousel",
@@ -55,10 +55,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 01 Aug."
     },
     {
-      "category": "Premier Padel · Carousel",
-      "caption": "One pair chasing another trophy 🇿🇦↔️🏆 One pair chasing history @gemmatriay & @delfibrea go for title No.5 together this season, while @claudiafersan81 & @martinacaalvo look to c…",
+      "category": "Premier Padel · Reel",
+      "caption": "BEAST MODE 🌟🇿🇦 @martinacaalvo #PremierPadel #PretoriaPremierPadelP1",
       "time": "02 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/DbiSrN5DqME/",
+      "url": "https://www.instagram.com/premierpadel/reel/Dbij8qyKJ7K/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
       "alt": "Cover image from @premierpadel, published 02 Aug."
     },
@@ -71,10 +71,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 31 Jul."
     },
     {
-      "category": "Premier Padel · Post",
-      "caption": "From the very first serve to the semi-final match point ⏱️ 🇿🇦 How much time will they clock in in the final today? #PremierPadel #PretoriaPremierPadelP1",
+      "category": "Premier Padel · Carousel",
+      "caption": "The calm before Centre Court 🎾🏋️ #PremierPadel #PretoriaPremierPadelP1",
       "time": "02 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/DbiOhsqOKhH/",
+      "url": "https://www.instagram.com/premierpadel/p/DbihmH8CuTe/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
       "alt": "Cover image from @premierpadel, published 02 Aug."
     },
