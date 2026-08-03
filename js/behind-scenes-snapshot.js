@@ -4,7 +4,7 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-03T15:14:47.621Z",
+  "generatedAt": "2026-08-03T17:19:25.517Z",
   "posts": [
     {
       "category": "Premier Padel · Carousel",
@@ -55,10 +55,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 01 Aug."
     },
     {
-      "category": "Premier Padel · Reel",
-      "caption": "The @delfibrea dropshot 🫳🐬 #PremierPadel #PretoriaPremierPadelP1 #QatarAirwaysPointoftheDay",
+      "category": "Premier Padel · Carousel",
+      "caption": "Swipe to find out who made it to the main draw ✅🇬🇧 📊 Livescores & results on the official Premier Padel app on iOS and Android #PremierPadel #LondonPremierPadelP1",
       "time": "03 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/Dbk9aO2O1gr/",
+      "url": "https://www.instagram.com/premierpadel/p/DblYi2XijZ7/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
       "alt": "Cover image from @premierpadel, published 03 Aug."
     },
@@ -72,9 +72,9 @@ export default {
     },
     {
       "category": "Premier Padel · Reel",
-      "caption": "Can you hear this? 👂🗣️ #PremierPadel #PretoriaPremierPadelP1 #QatarAirwaysPointoftheDay",
+      "caption": "The @delfibrea dropshot 🫳🐬 #PremierPadel #PretoriaPremierPadelP1 #QatarAirwaysPointoftheDay",
       "time": "03 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/Dbk8IUBuplK/",
+      "url": "https://www.instagram.com/premierpadel/reel/Dbk9aO2O1gr/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
       "alt": "Cover image from @premierpadel, published 03 Aug."
     },
