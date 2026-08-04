@@ -4,7 +4,7 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-04T18:02:42.619Z",
+  "generatedAt": "2026-08-04T19:55:17.999Z",
   "posts": [
     {
       "category": "Premier Padel · Carousel",
@@ -55,10 +55,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 01 Aug."
     },
     {
-      "category": "Premier Padel · Reel",
-      "caption": "Each second it gets more difficult 📈📈 #PremierPadel #LondonPremierPadelP1",
+      "category": "Premier Padel · Carousel",
+      "caption": "Round of 64 🫡 Round of 32 ⏭️ ⏩ Swipe to see all the results 📲 Did you get it right? Vote now on Premier Predict in our official app for iOS and Android. #PremierPadel #LondonPre…",
       "time": "04 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/Dbn_bvnqd1c/",
+      "url": "https://www.instagram.com/premierpadel/p/DboUb36juv7/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
       "alt": "Cover image from @premierpadel, published 04 Aug."
     },
@@ -71,10 +71,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 31 Jul."
     },
     {
-      "category": "Premier Padel · Carousel",
-      "caption": "First round ✅✅✅✅ ⏩ Swipe to see all the results 📲 Did you get it right? Vote now on Premier Predict in our official app for iOS and Android. #PremierPadel #LondonPremierPadelP1",
+      "category": "Premier Padel · Reel",
+      "caption": "@aimeegibson.x knows 🎯 #PremierPadel #LondonPremierPadelP1",
       "time": "04 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/Dbn7bo2iiNV/",
+      "url": "https://www.instagram.com/premierpadel/reel/DboKSkEuaQ-/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
       "alt": "Cover image from @premierpadel, published 04 Aug."
     },
