@@ -4,7 +4,7 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-04T09:50:02.591Z",
+  "generatedAt": "2026-08-04T12:17:32.970Z",
   "posts": [
     {
       "category": "Premier Padel · Carousel",
@@ -55,10 +55,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 01 Aug."
     },
     {
-      "category": "Premier Padel · Carousel",
-      "caption": "Main Draw time 🇬🇧 🔴 LIVE NOW 📺 Watch via our official YouTube channel and via our broadcast partners 📊 Livescore & results on the official Premier Padel app on iOS and Android #…",
+      "category": "Premier Padel · Reel",
+      "caption": "And then... 💥 #PremierPadel #LondonPremierPadelP1",
       "time": "04 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/DbnQNOSDruY/",
+      "url": "https://www.instagram.com/premierpadel/reel/DbnXsEHuKso/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
       "alt": "Cover image from @premierpadel, published 04 Aug."
     },
@@ -72,11 +72,11 @@ export default {
     },
     {
       "category": "Premier Padel · Carousel",
-      "caption": "𝙏𝙃𝙀𝙔'𝙍𝙀 𝙄𝙉 🔥 Women's qualys day 2 tomorrow 📊 Livescores & results on the official Premier Padel app on iOS and Android #PremierPadel #LondonPremierPadelP1",
-      "time": "03 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/DblxT13DnQp/",
+      "caption": "Main Draw time 🇬🇧 🔴 LIVE NOW 📺 Watch via our official YouTube channel and via our broadcast partners 📊 Livescore & results on the official Premier Padel app on iOS and Android #…",
+      "time": "04 Aug",
+      "url": "https://www.instagram.com/premierpadel/p/DbnQNOSDruY/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
-      "alt": "Cover image from @premierpadel, published 03 Aug."
+      "alt": "Cover image from @premierpadel, published 04 Aug."
     },
     {
       "category": "OH! Padel · Post",
