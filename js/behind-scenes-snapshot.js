@@ -4,7 +4,7 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-04T12:17:32.970Z",
+  "generatedAt": "2026-08-04T15:34:50.147Z",
   "posts": [
     {
       "category": "Premier Padel · Carousel",
@@ -56,9 +56,9 @@ export default {
     },
     {
       "category": "Premier Padel · Reel",
-      "caption": "And then... 💥 #PremierPadel #LondonPremierPadelP1",
+      "caption": "Mind the gap between the doors 🚪 #PremierPadel #LondonPremierPadelP1 #RedBullOutTheCourt",
       "time": "04 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/DbnXsEHuKso/",
+      "url": "https://www.instagram.com/premierpadel/reel/Dbn1N5dBsM7/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
       "alt": "Cover image from @premierpadel, published 04 Aug."
     },
@@ -72,9 +72,9 @@ export default {
     },
     {
       "category": "Premier Padel · Carousel",
-      "caption": "Main Draw time 🇬🇧 🔴 LIVE NOW 📺 Watch via our official YouTube channel and via our broadcast partners 📊 Livescore & results on the official Premier Padel app on iOS and Android #…",
+      "caption": "Media Day o'clock 🤳 #PremierPadel #LondonPremierPadelP1",
       "time": "04 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/DbnQNOSDruY/",
+      "url": "https://www.instagram.com/premierpadel/p/Dbn05m5igEK/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
       "alt": "Cover image from @premierpadel, published 04 Aug."
     },
