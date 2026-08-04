@@ -4,15 +4,15 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-04T21:34:35.363Z",
+  "generatedAt": "2026-08-04T23:17:52.518Z",
   "posts": [
     {
       "category": "Premier Padel · Carousel",
-      "caption": "Oi, mate - 𝗗𝗔𝗬 𝟭 𝗜𝗦 𝗛𝗘𝗥𝗘 🇬🇧😮‍💨 ⏰ Swipe for timezones 📊 Livescores & results on the official Premier Padel app on iOS and Android #PremierPadel #LondonPremierPadelP1",
-      "time": "03 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/DblwpaeDsKa/",
+      "caption": "DAYYYYY ✌️ ⏰ Swipe for timezones 📊 Livescores & results on the official Premier Padel app on iOS and Android #PremierPadel #LondonPremierPadelP1",
+      "time": "05 Aug",
+      "url": "https://www.instagram.com/premierpadel/p/Dbonhl3jp3d/",
       "image": "assets/images/instagram-premierpadel-1.jpg",
-      "alt": "Cover image from @premierpadel, published 03 Aug."
+      "alt": "Cover image from @premierpadel, published 05 Aug."
     },
     {
       "category": "OH! Padel · Carousel",
@@ -56,11 +56,11 @@ export default {
     },
     {
       "category": "Premier Padel · Carousel",
-      "caption": "The road continues 🛣️🏆 ⏩ Swipe to see all the results 📲 Did you get it right? Vote now on Premier Predict in our official app for iOS and Android. #PremierPadel #LondonPremierPa…",
-      "time": "04 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/DbofPooDtvw/",
+      "caption": "To the next round 🤝 ⏩ Swipe to see all the results 📲 Did you get it right? Vote now on Premier Predict in our official app for iOS and Android. #PremierPadel #LondonPremierPadelP1",
+      "time": "05 Aug",
+      "url": "https://www.instagram.com/premierpadel/p/DbomcL_jrwe/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
-      "alt": "Cover image from @premierpadel, published 04 Aug."
+      "alt": "Cover image from @premierpadel, published 05 Aug."
     },
     {
       "category": "OH! Padel · Carousel",
