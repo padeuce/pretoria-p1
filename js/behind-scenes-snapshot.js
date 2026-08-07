@@ -4,7 +4,7 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-07T21:54:38.222Z",
+  "generatedAt": "2026-08-07T23:47:38.139Z",
   "posts": [
     {
       "category": "Premier Padel · Carousel",
@@ -55,12 +55,12 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 06 Aug."
     },
     {
-      "category": "Premier Padel · Carousel",
-      "caption": "What a day, London 🫶🇬🇧 #PremierPadel #LondonPremierPadelP1",
-      "time": "07 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/DbwNBDNDivN/",
+      "category": "Premier Padel · Reel",
+      "caption": "POV: The point that has everything 🔥 #PremierPadel #LondonPremierPadelP1 #EnjoyResponsibly",
+      "time": "08 Aug",
+      "url": "https://www.instagram.com/premierpadel/reel/DbweFOnKgP-/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
-      "alt": "Cover image from @premierpadel, published 07 Aug."
+      "alt": "Cover image from @premierpadel, published 08 Aug."
     },
     {
       "category": "OH! Padel · Post",
@@ -72,9 +72,9 @@ export default {
     },
     {
       "category": "Premier Padel · Carousel",
-      "caption": "LeBurger to SF 🔥🔥🔥 📲 Did you get it right? Vote now on Premier Predict in our official app for iOS and Android. #PremierPadel #LondonPremierPadelP1",
+      "caption": "What a day, London 🫶🇬🇧 #PremierPadel #LondonPremierPadelP1",
       "time": "07 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/DbwMlFBDgza/",
+      "url": "https://www.instagram.com/premierpadel/p/DbwNBDNDivN/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
       "alt": "Cover image from @premierpadel, published 07 Aug."
     },
