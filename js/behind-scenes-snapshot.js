@@ -4,15 +4,15 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-06T15:27:05.504Z",
+  "generatedAt": "2026-08-07T00:14:35.023Z",
   "posts": [
     {
       "category": "Premier Padel · Carousel",
-      "caption": "Grab your cuppas ☕️ 🔴 LIVE NOW 📺 Watch via our official YouTube channel and via our broadcast partners 📊 Livescore & results on the official Premier Padel app on iOS and Android…",
-      "time": "06 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/DbrKzgSjnx_/",
+      "caption": "IT'S QUARTER-FINALS DAY 🫡🫡 ⏰ Swipe for timezones 📊 Livescores & results on the official Premier Padel app on iOS and Android #PremierPadel #LondonPremierPadelP1",
+      "time": "07 Aug",
+      "url": "https://www.instagram.com/premierpadel/p/Dbtwl96Dn9E/",
       "image": "assets/images/instagram-premierpadel-1.jpg",
-      "alt": "Cover image from @premierpadel, published 06 Aug."
+      "alt": "Cover image from @premierpadel, published 07 Aug."
     },
     {
       "category": "OH! Padel · Post",
@@ -56,9 +56,9 @@ export default {
     },
     {
       "category": "Premier Padel · Carousel",
-      "caption": "Heyyy London, the 🐬💎 are here 🇬🇧 🔴 LIVE NOW 📺 Watch via our official YouTube channel and via our broadcast partners 📊 Livescore & results on the official Premier Padel app on iO…",
+      "caption": "Place into the quarter-finals: BOOKED 🎟️ ⏩ Swipe to see all the results 📲 Did you get it right? Vote now on Premier Predict in our official app for iOS and Android. #PremierPade…",
       "time": "06 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/Dbs_U-Mik8d/",
+      "url": "https://www.instagram.com/premierpadel/p/DbtscEQDhI8/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
       "alt": "Cover image from @premierpadel, published 06 Aug."
     },
@@ -72,9 +72,9 @@ export default {
     },
     {
       "category": "Premier Padel · Reel",
-      "caption": "The last touch 🤏🎾 #PremierPadel #LondonPremierPadelP1",
+      "caption": "@alexiaputellas , welcome 🫂 to 🫂 #PremierPadel 🫂 #LondonPremierPadelP1",
       "time": "06 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/Dbs8W3oq90d/",
+      "url": "https://www.instagram.com/premierpadel/reel/DbtoiVvuWPR/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
       "alt": "Cover image from @premierpadel, published 06 Aug."
     },
