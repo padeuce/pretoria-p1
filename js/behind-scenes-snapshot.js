@@ -4,15 +4,15 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-07T20:57:29.095Z",
+  "generatedAt": "2026-08-07T21:54:38.222Z",
   "posts": [
     {
       "category": "Premier Padel · Carousel",
-      "caption": "Meanwhile in London... the official men and women's main draws are OUT 🇬🇧 #PremierPadel #LondonPremierPadelP1",
-      "time": "02 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/Dbi4sKiinyW/",
+      "caption": "Bloody brilliant semi-finals day 😮‍💨 🔴 LIVE NOW 📺 Watch via @redbull TV for free and broadcast partners 📊 Livescore & results on the official Premier Padel app on iOS and Androi…",
+      "time": "07 Aug",
+      "url": "https://www.instagram.com/premierpadel/p/DbwNopZjoEZ/",
       "image": "assets/images/instagram-premierpadel-1.jpg",
-      "alt": "Cover image from @premierpadel, published 02 Aug."
+      "alt": "Cover image from @premierpadel, published 07 Aug."
     },
     {
       "category": "OH! Padel · Post",
@@ -24,11 +24,11 @@ export default {
     },
     {
       "category": "Premier Padel · Carousel",
-      "caption": "London was calling... and we 𝙖𝙣𝙨𝙬𝙚𝙧𝙚𝙙 ☎️ 📆 2-4 August 🏟️ Olympia, London 📊 Livescores & results on the official Premier Padel app on iOS and Android #PremierPadel #LondonPremier…",
-      "time": "03 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/DblDSkMigP3/",
+      "caption": "Meanwhile in London... the official men and women's main draws are OUT 🇬🇧 #PremierPadel #LondonPremierPadelP1",
+      "time": "02 Aug",
+      "url": "https://www.instagram.com/premierpadel/p/Dbi4sKiinyW/",
       "image": "assets/images/instagram-premierpadel-2.jpg",
-      "alt": "Cover image from @premierpadel, published 03 Aug."
+      "alt": "Cover image from @premierpadel, published 02 Aug."
     },
     {
       "category": "OH! Padel · Post",
@@ -40,11 +40,11 @@ export default {
     },
     {
       "category": "Premier Padel · Carousel",
-      "caption": "LeBurger to SF 🔥🔥🔥 📲 Did you get it right? Vote now on Premier Predict in our official app for iOS and Android. #PremierPadel #LondonPremierPadelP1",
-      "time": "07 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/DbwMlFBDgza/",
+      "caption": "London was calling... and we 𝙖𝙣𝙨𝙬𝙚𝙧𝙚𝙙 ☎️ 📆 2-4 August 🏟️ Olympia, London 📊 Livescores & results on the official Premier Padel app on iOS and Android #PremierPadel #LondonPremier…",
+      "time": "03 Aug",
+      "url": "https://www.instagram.com/premierpadel/p/DblDSkMigP3/",
       "image": "assets/images/instagram-premierpadel-3.jpg",
-      "alt": "Cover image from @premierpadel, published 07 Aug."
+      "alt": "Cover image from @premierpadel, published 03 Aug."
     },
     {
       "category": "OH! Padel · Post",
@@ -56,9 +56,9 @@ export default {
     },
     {
       "category": "Premier Padel · Carousel",
-      "caption": "⚽️🤝🎾 #PremierPadel #LondonPremierPadelP1",
+      "caption": "What a day, London 🫶🇬🇧 #PremierPadel #LondonPremierPadelP1",
       "time": "07 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/DbwLoMeDkW6/",
+      "url": "https://www.instagram.com/premierpadel/p/DbwNBDNDivN/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
       "alt": "Cover image from @premierpadel, published 07 Aug."
     },
@@ -71,10 +71,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 05 Aug."
     },
     {
-      "category": "Premier Padel · Reel",
-      "caption": "🛡️🛡️🛡️ #PremierPadel #LondonPremierPadelP1",
+      "category": "Premier Padel · Carousel",
+      "caption": "LeBurger to SF 🔥🔥🔥 📲 Did you get it right? Vote now on Premier Predict in our official app for iOS and Android. #PremierPadel #LondonPremierPadelP1",
       "time": "07 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/DbwKQwFOyVa/",
+      "url": "https://www.instagram.com/premierpadel/p/DbwMlFBDgza/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
       "alt": "Cover image from @premierpadel, published 07 Aug."
     },
