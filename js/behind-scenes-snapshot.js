@@ -4,7 +4,7 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-07T18:01:08.925Z",
+  "generatedAt": "2026-08-07T19:14:02.979Z",
   "posts": [
     {
       "category": "Premier Padel · Carousel",
@@ -55,10 +55,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 06 Aug."
     },
     {
-      "category": "Premier Padel · Carousel",
-      "caption": "💎🐬 to SEMIS 📲 Did you get it right? Vote now on Premier Predict in our official app for iOS and Android. #PremierPadel #LondonPremierPadelP1",
+      "category": "Premier Padel · Reel",
+      "caption": "El Super Raton really wanted to seal that game 😤🐭 #PremierPadel #LondonPremierPadelP1",
       "time": "07 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/Dbv1uGeDm1E/",
+      "url": "https://www.instagram.com/premierpadel/reel/Dbv6my2OMlG/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
       "alt": "Cover image from @premierpadel, published 07 Aug."
     },
@@ -71,10 +71,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 05 Aug."
     },
     {
-      "category": "Premier Padel · Reel",
-      "caption": "First the fake then the real 🫣💥 #PremierPadel #LondonPremierPadelP1",
+      "category": "Premier Padel · Carousel",
+      "caption": "🤜🖐️ THE MATCH 🔴 LIVE NOW 📺 Watch via @redbull TV for free and broadcast partners 📊 Livescore & results on the official Premier Padel app on iOS and Android #PremierPadel #London…",
       "time": "07 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/Dbv16ELuC0p/",
+      "url": "https://www.instagram.com/premierpadel/p/Dbv4nYvDtqh/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
       "alt": "Cover image from @premierpadel, published 07 Aug."
     },
