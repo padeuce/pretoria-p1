@@ -4,7 +4,7 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-07T10:09:32.294Z",
+  "generatedAt": "2026-08-07T11:06:13.007Z",
   "posts": [
     {
       "category": "Premier Padel · Carousel",
@@ -55,10 +55,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 06 Aug."
     },
     {
-      "category": "Premier Padel · Carousel",
-      "caption": "London QUARTER-FINALS have officially kicked off 🔥🔥🔥 🔴 LIVE NOW 📺 Watch via @redbull TV for free and broadcast partners 📊 Livescore & results on the official Premier Padel app o…",
+      "category": "Premier Padel · Reel",
+      "caption": "The saves of the saves 🧚‍♂️ #PremierPadel #LondonPremierPadelP1",
       "time": "07 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/Dbu9eywDmP9/",
+      "url": "https://www.instagram.com/premierpadel/reel/DbvEk5kuT0S/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
       "alt": "Cover image from @premierpadel, published 07 Aug."
     },
@@ -72,9 +72,9 @@ export default {
     },
     {
       "category": "Premier Padel · Reel",
-      "caption": "What a bandeja @v_iglesias94 🚀 #PremierPadel #LondonPremierPadelP1 #QatarAirwaysPointoftheDay",
+      "caption": "La Perla del 𝙨𝙢𝙖𝙨𝙝𝙝𝙝𝙝 🍍 #PremierPadel #LondonPremierPadelP1",
       "time": "07 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/Dbu0LG1O4TN/",
+      "url": "https://www.instagram.com/premierpadel/reel/DbvCvQeOffD/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
       "alt": "Cover image from @premierpadel, published 07 Aug."
     },
