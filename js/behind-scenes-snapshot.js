@@ -4,7 +4,7 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-08T14:48:53.710Z",
+  "generatedAt": "2026-08-08T15:44:24.717Z",
   "posts": [
     {
       "category": "Premier Padel · Carousel",
@@ -55,10 +55,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 07 Aug."
     },
     {
-      "category": "Premier Padel · Reel",
-      "caption": "🫣🫣🫣 #PremierPadel #LondonPremierPadelP1",
+      "category": "Premier Padel · Carousel",
+      "caption": "ONE SET LEFT 🔴 LIVE NOW 📺 Watch via @redbull TV for free and broadcast partners 📊 Livescore & results on the official Premier Padel app on iOS and Android #PremierPadel #LondonP…",
       "time": "08 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/DbyFzfpqA_g/",
+      "url": "https://www.instagram.com/premierpadel/p/DbyIZnXikgv/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
       "alt": "Cover image from @premierpadel, published 08 Aug."
     },
@@ -71,10 +71,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 07 Aug."
     },
     {
-      "category": "Premier Padel · Carousel",
-      "caption": "SEMI-FINALS MORNING IN LONDON ❤️‍🔥❤️‍🔥 #PremierPadel #LondonPremierPadelP1",
+      "category": "Premier Padel · Reel",
+      "caption": "🫣🫣🫣 #PremierPadel #LondonPremierPadelP1",
       "time": "08 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/DbyCj0Jipz-/",
+      "url": "https://www.instagram.com/premierpadel/reel/DbyFzfpqA_g/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
       "alt": "Cover image from @premierpadel, published 08 Aug."
     },
