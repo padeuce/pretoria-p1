@@ -4,7 +4,7 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-08T18:57:09.633Z",
+  "generatedAt": "2026-08-08T19:43:22.706Z",
   "posts": [
     {
       "category": "Premier Padel · Carousel",
@@ -55,10 +55,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 07 Aug."
     },
     {
-      "category": "Premier Padel · Reel",
-      "caption": "Stunning point, mate 🎻😮‍💨 #PremierPadel #LondonPremierPadelP1",
+      "category": "Premier Padel · Carousel",
+      "caption": "FIRST SET DONE ☑️ #PremierPadel #LondonPremierPadelP1",
       "time": "08 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/Dbyh_nQOor8/",
+      "url": "https://www.instagram.com/premierpadel/p/DbyoLfsDtuZ/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
       "alt": "Cover image from @premierpadel, published 08 Aug."
     },
@@ -71,10 +71,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 07 Aug."
     },
     {
-      "category": "Premier Padel · Carousel",
-      "caption": "What a sight, London 🥹🥹 #PremierPadel #LondonPremierPadelP1",
+      "category": "Premier Padel · Reel",
+      "caption": "Payback 💸 #PremierPadel #LondonPremierPadelP1",
       "time": "08 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/DbyhbfSDt6P/",
+      "url": "https://www.instagram.com/premierpadel/reel/Dbynzv9OLtM/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
       "alt": "Cover image from @premierpadel, published 08 Aug."
     },
