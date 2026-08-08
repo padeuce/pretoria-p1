@@ -4,7 +4,7 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-08T20:47:07.648Z",
+  "generatedAt": "2026-08-08T21:44:34.212Z",
   "posts": [
     {
       "category": "Premier Padel · Carousel",
@@ -56,9 +56,9 @@ export default {
     },
     {
       "category": "Premier Padel · Reel",
-      "caption": "To the FINAL #PremierPadel #LondonPremierPadelP1",
+      "caption": "The number ones wait for you 😉 #PremierPadel #LondonPremierPadelP1",
       "time": "08 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/DbysooVO4QK/",
+      "url": "https://www.instagram.com/premierpadel/reel/Dby0BnKOo6J/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
       "alt": "Cover image from @premierpadel, published 08 Aug."
     },
@@ -71,10 +71,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 07 Aug."
     },
     {
-      "category": "Premier Padel · Carousel",
-      "caption": "FINAAAAAAAAAL again 👽🐭 📲 Did you get it right? Vote now on Premier Predict in our official app for iOS and Android. #PremierPadel #LondonPremierPadelP1",
+      "category": "Premier Padel · Reel",
+      "caption": "To the FINAL #PremierPadel #LondonPremierPadelP1",
       "time": "08 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/Dbysbd7jj9-/",
+      "url": "https://www.instagram.com/premierpadel/reel/DbysooVO4QK/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
       "alt": "Cover image from @premierpadel, published 08 Aug."
     },
