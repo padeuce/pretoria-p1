@@ -4,7 +4,7 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-08T13:11:22.568Z",
+  "generatedAt": "2026-08-08T13:55:47.573Z",
   "posts": [
     {
       "category": "Premier Padel · Carousel",
@@ -56,9 +56,9 @@ export default {
     },
     {
       "category": "Premier Padel · Reel",
-      "caption": "The smile after winning THE set 😏 #PremierPadel #LondonPremierPadelP1",
+      "caption": "Inner work 🧘‍♀️ #PremierPadel #LondonPremierPadelP1",
       "time": "08 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/Dbx6biMOlNU/",
+      "url": "https://www.instagram.com/premierpadel/reel/DbyAq6Pql7A/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
       "alt": "Cover image from @premierpadel, published 08 Aug."
     },
@@ -72,9 +72,9 @@ export default {
     },
     {
       "category": "Premier Padel · Carousel",
-      "caption": "Coming soon ... ❤️‍🔥 #PremierPadel #LondonPremierPadelP1",
+      "caption": "Caught one, no more fishing for me 🎣 🎾😏 #PremierPadel #LondonPremierPadelP1",
       "time": "08 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/Dbx6Fu2jmmt/",
+      "url": "https://www.instagram.com/premierpadel/p/DbyAq5QCind/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
       "alt": "Cover image from @premierpadel, published 08 Aug."
     },
