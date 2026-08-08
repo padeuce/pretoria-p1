@@ -4,7 +4,7 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-08T08:58:49.048Z",
+  "generatedAt": "2026-08-08T09:53:35.067Z",
   "posts": [
     {
       "category": "Premier Padel · Carousel",
@@ -55,10 +55,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 07 Aug."
     },
     {
-      "category": "Premier Padel · Post",
-      "caption": "THE DAY AHEAD ❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥 #PremierPadel #LondonPremierPadelP1",
+      "category": "Premier Padel · Carousel",
+      "caption": "Making sure you're not a robot 🤖 #PremierPadel #LondonPremierPadelP1",
       "time": "08 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/DbwN8ktOSlC/",
+      "url": "https://www.instagram.com/premierpadel/p/Dbxi9uqDiq_/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
       "alt": "Cover image from @premierpadel, published 08 Aug."
     },
@@ -72,9 +72,9 @@ export default {
     },
     {
       "category": "Premier Padel · Reel",
-      "caption": "POV: The point that has everything 🔥 #PremierPadel #LondonPremierPadelP1 #EnjoyResponsibly",
+      "caption": "@andreausteropadel getting those angles right 📐 #PremierPadel #LondonPremierPadelP1 #QatarAirwaysPointoftheDay",
       "time": "08 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/DbweFOnKgP-/",
+      "url": "https://www.instagram.com/premierpadel/reel/Dbxfcj0BpSv/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
       "alt": "Cover image from @premierpadel, published 08 Aug."
     },
