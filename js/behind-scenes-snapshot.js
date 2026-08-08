@@ -4,7 +4,7 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-08T11:41:17.104Z",
+  "generatedAt": "2026-08-08T13:11:22.568Z",
   "posts": [
     {
       "category": "Premier Padel · Carousel",
@@ -55,10 +55,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 07 Aug."
     },
     {
-      "category": "Premier Padel · Carousel",
-      "caption": "Only one pair can take the first ticket to the final 🎟️🏆 🔴 LIVE NOW 📺 Watch via @redbull TV for free and broadcast partners 📊 Livescore & results on the official Premier Padel a…",
+      "category": "Premier Padel · Reel",
+      "caption": "The smile after winning THE set 😏 #PremierPadel #LondonPremierPadelP1",
       "time": "08 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/DbxwTvQDiGf/",
+      "url": "https://www.instagram.com/premierpadel/reel/Dbx6biMOlNU/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
       "alt": "Cover image from @premierpadel, published 08 Aug."
     },
@@ -72,9 +72,9 @@ export default {
     },
     {
       "category": "Premier Padel · Carousel",
-      "caption": "Making sure you're not a robot 🤖 #PremierPadel #LondonPremierPadelP1",
+      "caption": "Coming soon ... ❤️‍🔥 #PremierPadel #LondonPremierPadelP1",
       "time": "08 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/Dbxi9uqDiq_/",
+      "url": "https://www.instagram.com/premierpadel/p/Dbx6Fu2jmmt/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
       "alt": "Cover image from @premierpadel, published 08 Aug."
     },
