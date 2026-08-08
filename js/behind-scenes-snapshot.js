@@ -4,7 +4,7 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-07T23:47:38.139Z",
+  "generatedAt": "2026-08-08T07:59:09.876Z",
   "posts": [
     {
       "category": "Premier Padel · Carousel",
@@ -15,12 +15,12 @@ export default {
       "alt": "Cover image from @premierpadel, published 07 Aug."
     },
     {
-      "category": "OH! Padel · Post",
-      "caption": "*WEEK AHEAD* 👀✨ *10th-14th AUGUST* *_AMERICANO SESSIONS_* 🏆 🎾*BALL MACHINE SESSIONS*🎾 *SESSIONS BETWEEN 11AM-3PM POSTED DAILY* 🎾*CONTACT US IF YOU WOULD LIKE TO BOOK A SPECIFIC…",
-      "time": "07 Aug",
-      "url": "https://www.instagram.com/ohpadel_club/p/DbvA3ZKsEDU/",
+      "category": "OH! Padel · Carousel",
+      "caption": "Want to keep up with our Padel4Tinouw tournament scores? Easy peasy!! Go to http//padel4tinouw.padeuce.com and follow from wherever you are! 🙌🏻💪🥳🏆🎾📣🔥 #seeffhermanus #stanfordpad…",
+      "time": "08 Aug",
+      "url": "https://www.instagram.com/ohpadel_club/p/DbxV5p2jJnO/",
       "image": "assets/images/instagram-ohpadel-club-1.jpg",
-      "alt": "Cover image from @ohpadel_club, published 07 Aug."
+      "alt": "Cover image from @ohpadel_club, published 08 Aug."
     },
     {
       "category": "Premier Padel · Carousel",
@@ -32,9 +32,9 @@ export default {
     },
     {
       "category": "OH! Padel · Post",
-      "caption": "📣 PLEASE NOTE: there is a fundraising tournament - The Tinouw Agenbag Business Invitational - at the club tomorrow from 7am to 6pm. If you’d like to watch some top players from…",
+      "caption": "*WEEK AHEAD* 👀✨ *10th-14th AUGUST* *_AMERICANO SESSIONS_* 🏆 🎾*BALL MACHINE SESSIONS*🎾 *SESSIONS BETWEEN 11AM-3PM POSTED DAILY* 🎾*CONTACT US IF YOU WOULD LIKE TO BOOK A SPECIFIC…",
       "time": "07 Aug",
-      "url": "https://www.instagram.com/ohpadel_club/p/DbuwKgCMl_3/",
+      "url": "https://www.instagram.com/ohpadel_club/p/DbvA3ZKsEDU/",
       "image": "assets/images/instagram-ohpadel-club-2.jpg",
       "alt": "Cover image from @ohpadel_club, published 07 Aug."
     },
@@ -48,11 +48,11 @@ export default {
     },
     {
       "category": "OH! Padel · Post",
-      "caption": "Thank you to Everyone who participated last night.‼️ Special Congrats to *Chrizelle* for being our Winner of the evening.👑 TIL next week to see who will take home the Win❓👀#pade…",
-      "time": "06 Aug",
-      "url": "https://www.instagram.com/ohpadel_club/p/DbsijRks8HI/",
+      "caption": "📣 PLEASE NOTE: there is a fundraising tournament - The Tinouw Agenbag Business Invitational - at the club tomorrow from 7am to 6pm. If you’d like to watch some top players from…",
+      "time": "07 Aug",
+      "url": "https://www.instagram.com/ohpadel_club/p/DbuwKgCMl_3/",
       "image": "assets/images/instagram-ohpadel-club-3.jpg",
-      "alt": "Cover image from @ohpadel_club, published 06 Aug."
+      "alt": "Cover image from @ohpadel_club, published 07 Aug."
     },
     {
       "category": "Premier Padel · Reel",
@@ -64,11 +64,11 @@ export default {
     },
     {
       "category": "OH! Padel · Post",
-      "caption": "Thank you to Everyone who participated on Tuesday Night‼️ Special Congrats for our *FIRST EVER* 3 way tie Winners *Nicci, Dave & Judi*.🥳 See you all next Tuesday to decide who w…",
-      "time": "05 Aug",
-      "url": "https://www.instagram.com/ohpadel_club/p/DbqE0hrMbQT/",
+      "caption": "Thank you to Everyone who participated last night.‼️ Special Congrats to *Chrizelle* for being our Winner of the evening.👑 TIL next week to see who will take home the Win❓👀#pade…",
+      "time": "06 Aug",
+      "url": "https://www.instagram.com/ohpadel_club/p/DbsijRks8HI/",
       "image": "assets/images/instagram-ohpadel-club-4.jpg",
-      "alt": "Cover image from @ohpadel_club, published 05 Aug."
+      "alt": "Cover image from @ohpadel_club, published 06 Aug."
     },
     {
       "category": "Premier Padel · Carousel",
@@ -80,9 +80,9 @@ export default {
     },
     {
       "category": "OH! Padel · Post",
-      "caption": "Big Congrats to *Matthew* for being our Winner of the evening.🥳 Thank you to everyone who participated on Monday Night. Great to see some new faces!!😊 TIL next week to see who w…",
+      "caption": "Thank you to Everyone who participated on Tuesday Night‼️ Special Congrats for our *FIRST EVER* 3 way tie Winners *Nicci, Dave & Judi*.🥳 See you all next Tuesday to decide who w…",
       "time": "05 Aug",
-      "url": "https://www.instagram.com/ohpadel_club/p/Dbp65EEMPya/",
+      "url": "https://www.instagram.com/ohpadel_club/p/DbqE0hrMbQT/",
       "image": "assets/images/instagram-ohpadel-club-5.jpg",
       "alt": "Cover image from @ohpadel_club, published 05 Aug."
     }
