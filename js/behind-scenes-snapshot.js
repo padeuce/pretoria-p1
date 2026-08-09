@@ -4,7 +4,7 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-09T13:14:26.324Z",
+  "generatedAt": "2026-08-09T13:59:01.608Z",
   "posts": [
     {
       "category": "Premier Padel · Carousel",
@@ -56,9 +56,9 @@ export default {
     },
     {
       "category": "Premier Padel · Carousel",
-      "caption": "It's ABOUT to start #PremierPadel #LondonPremierPadelP1",
+      "caption": "𝙔𝙤𝙪𝙩𝙝 𝙫𝙨 𝙚𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚 🔥 Two finals in two weeks for @martinacaalvo & @claudiafersan81 , now they take on the World No. 1s all over again 👊 🔴 LIVE NOW 📺 Watch via @redbull TV for f…",
       "time": "09 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/Db0gjHfDlGn/",
+      "url": "https://www.instagram.com/premierpadel/p/Db0jhH6jgF6/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
       "alt": "Cover image from @premierpadel, published 09 Aug."
     },
@@ -72,9 +72,9 @@ export default {
     },
     {
       "category": "Premier Padel · Carousel",
-      "caption": "Who's ready for the FINALS? 🤘 #PremierPadel #LondonPremierPadelP1",
+      "caption": "It's ABOUT to start #PremierPadel #LondonPremierPadelP1",
       "time": "09 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/Db0Y2zpDpe8/",
+      "url": "https://www.instagram.com/premierpadel/p/Db0gjHfDlGn/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
       "alt": "Cover image from @premierpadel, published 09 Aug."
     },
