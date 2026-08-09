@@ -4,7 +4,7 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-09T10:51:54.915Z",
+  "generatedAt": "2026-08-09T11:43:35.782Z",
   "posts": [
     {
       "category": "Premier Padel · Carousel",
@@ -56,9 +56,9 @@ export default {
     },
     {
       "category": "Premier Padel · Reel",
-      "caption": "VAR said IN ☝️ #PremierPadel #LondonPremierPadelP1",
+      "caption": "Be there or be square 😉 #PremierPadel #LondonPremierPadelP1",
       "time": "09 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/Db0OjSasGQU/",
+      "url": "https://www.instagram.com/premierpadel/reel/Db0Vh6ssa0o/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
       "alt": "Cover image from @premierpadel, published 09 Aug."
     },
@@ -71,10 +71,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 07 Aug."
     },
     {
-      "category": "Premier Padel · Reel",
-      "caption": "It's not always about the smash 🧠 #PremierPadel #LondonPremierPadelP1 #QatarAirwaysPointoftheDay",
+      "category": "Premier Padel · Post",
+      "caption": "From the very first serve to the semi-final match point ⏱️ #PremierPadel",
       "time": "09 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/Db0M4BQDg13/",
+      "url": "https://www.instagram.com/premierpadel/p/Db0H0lYu4wZ/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
       "alt": "Cover image from @premierpadel, published 09 Aug."
     },
