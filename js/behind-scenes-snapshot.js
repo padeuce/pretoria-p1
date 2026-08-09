@@ -4,7 +4,7 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-08T22:45:22.173Z",
+  "generatedAt": "2026-08-09T09:54:55.517Z",
   "posts": [
     {
       "category": "Premier Padel · Carousel",
@@ -56,11 +56,11 @@ export default {
     },
     {
       "category": "Premier Padel · Reel",
-      "caption": "To the FINAL #PremierPadel #LondonPremierPadelP1",
-      "time": "08 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/DbysooVO4QK/",
+      "caption": "El Mozart 🎻 #PremierPadel #LondonPremierPadelP1 #QatarAirwaysPointoftheDay",
+      "time": "09 Aug",
+      "url": "https://www.instagram.com/premierpadel/reel/Db0HP3zh926/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
-      "alt": "Cover image from @premierpadel, published 08 Aug."
+      "alt": "Cover image from @premierpadel, published 09 Aug."
     },
     {
       "category": "OH! Padel · Post",
@@ -71,10 +71,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 07 Aug."
     },
     {
-      "category": "Premier Padel · Carousel",
-      "caption": "FINAAAAAAAAAL again 👽🐭 📲 Did you get it right? Vote now on Premier Predict in our official app for iOS and Android. #PremierPadel #LondonPremierPadelP1",
+      "category": "Premier Padel · Reel",
+      "caption": "To the FINAL #PremierPadel #LondonPremierPadelP1",
       "time": "08 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/Dbysbd7jj9-/",
+      "url": "https://www.instagram.com/premierpadel/reel/DbysooVO4QK/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
       "alt": "Cover image from @premierpadel, published 08 Aug."
     },
