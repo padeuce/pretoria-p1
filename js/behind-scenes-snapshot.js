@@ -4,13 +4,13 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-09T19:00:04.225Z",
+  "generatedAt": "2026-08-09T19:47:27.368Z",
   "posts": [
     {
       "category": "Premier Padel · Carousel",
-      "caption": "🏆THE LONDON P1 𝐂𝐇𝐀𝐌𝐏𝐈𝐎𝐍𝐒 🇬🇧 🥇@tapia @arturocoello__ 🥇@martinacaalvo @claudiafersan81 #PremierPadel #LondonPremierPadelP1",
+      "caption": "🏆𝐂𝐇𝐀𝐌𝐏𝐈𝐎𝐍𝐒 IN LONDON 🇬🇧 #PremierPadel #LondonPremierPadelP1",
       "time": "09 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/Db1IIi_DuO8/",
+      "url": "https://www.instagram.com/premierpadel/p/Db1NQ6hDuKp/",
       "image": "assets/images/instagram-premierpadel-1.jpg",
       "alt": "Cover image from @premierpadel, published 09 Aug."
     },
@@ -39,10 +39,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 08 Aug."
     },
     {
-      "category": "Premier Padel · Post",
-      "caption": "🏆𝐂𝐇𝐀𝐌𝐏𝐈𝐎𝐍𝐒 𝐈𝐍 𝐋𝐎𝐍𝐃𝐎𝐍 🇬🇧 #PremierPadel #LondonPremierPadelP1",
+      "category": "Premier Padel · Carousel",
+      "caption": "🇬🇧𝐂𝐇𝐀𝐌𝐏𝐈𝐎𝐍𝐒 𝐈𝐍 𝐋𝐎𝐍𝐃𝐎𝐍🏆 #PremierPadel #LondonPremierPadelP1",
       "time": "09 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/Db0_vrduNOj/",
+      "url": "https://www.instagram.com/premierpadel/p/Db1MYJSjmr_/",
       "image": "assets/images/instagram-premierpadel-3.jpg",
       "alt": "Cover image from @premierpadel, published 09 Aug."
     },
@@ -55,10 +55,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 07 Aug."
     },
     {
-      "category": "Premier Padel · Reel",
-      "caption": "🏆𝐂𝐇𝐀𝐌𝐏𝐈𝐎𝐍𝐒 𝐈𝐍 𝐋𝐎𝐍𝐃𝐎𝐍 🇬🇧 #PremierPadel #LondonPremierPadelP1",
+      "category": "Premier Padel · Carousel",
+      "caption": "🥈𝗧𝗛𝗘 𝗟𝗢𝗡𝗗𝗢𝗡 𝗣𝟭 𝗙𝗜𝗡𝗔𝗟𝗜𝗦𝗧𝗦 🇬🇧 🥇@chingotto @alegalan96 🥇@delfibrea @gemmatriay #PremierPadel #LondonPremierPadelP1",
       "time": "09 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/Db0-wawOIpC/",
+      "url": "https://www.instagram.com/premierpadel/p/Db1LufmjqEb/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
       "alt": "Cover image from @premierpadel, published 09 Aug."
     },
@@ -71,10 +71,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 07 Aug."
     },
     {
-      "category": "Premier Padel · Carousel",
-      "caption": "𝙀𝙄𝙂𝙃𝙏 𝙏𝙄𝙏𝙇𝙀𝙎 👑🏆🎻 📲 Did you get it right? Vote now on Premier Predict in our official app for iOS and Android. #PremierPadel #LondonPremierPadelP1",
+      "category": "Premier Padel · Reel",
+      "caption": "The Championship M0.0ment of @tapia & @arturocoello__ , securing their eighth title of the season! #PremierPadel #LondonPremierPadelP1 #EnjoyResponsibly",
       "time": "09 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/Db0_up1DoY0/",
+      "url": "https://www.instagram.com/premierpadel/reel/Db1INDcOdRw/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
       "alt": "Cover image from @premierpadel, published 09 Aug."
     },
