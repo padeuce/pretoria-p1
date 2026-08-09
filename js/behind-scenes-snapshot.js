@@ -4,7 +4,7 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-09T19:47:27.368Z",
+  "generatedAt": "2026-08-09T20:50:29.571Z",
   "posts": [
     {
       "category": "Premier Padel · Carousel",
@@ -55,10 +55,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 07 Aug."
     },
     {
-      "category": "Premier Padel · Carousel",
-      "caption": "🥈𝗧𝗛𝗘 𝗟𝗢𝗡𝗗𝗢𝗡 𝗣𝟭 𝗙𝗜𝗡𝗔𝗟𝗜𝗦𝗧𝗦 🇬🇧 🥇@chingotto @alegalan96 🥇@delfibrea @gemmatriay #PremierPadel #LondonPremierPadelP1",
+      "category": "Premier Padel · Reel",
+      "caption": "The youngest female player in Premier Padel history to win a tournament 😮‍💨 La campeona usa el trofeo cómo quiera 💪😂 #PremierPadel #LondonPremierPadelP1",
       "time": "09 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/Db1LufmjqEb/",
+      "url": "https://www.instagram.com/premierpadel/reel/Db1Pyf6OYgn/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
       "alt": "Cover image from @premierpadel, published 09 Aug."
     },
@@ -72,9 +72,9 @@ export default {
     },
     {
       "category": "Premier Padel · Reel",
-      "caption": "The Championship M0.0ment of @tapia & @arturocoello__ , securing their eighth title of the season! #PremierPadel #LondonPremierPadelP1 #EnjoyResponsibly",
+      "caption": "The feeling of winning, baby ❤️‍🔥 #PremierPadel #LondonPremierPadelP1",
       "time": "09 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/Db1INDcOdRw/",
+      "url": "https://www.instagram.com/premierpadel/reel/Db1O6CMu8Fh/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
       "alt": "Cover image from @premierpadel, published 09 Aug."
     },
