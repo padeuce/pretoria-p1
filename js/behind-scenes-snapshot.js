@@ -4,7 +4,7 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-10T11:57:57.617Z",
+  "generatedAt": "2026-08-10T15:15:36.442Z",
   "posts": [
     {
       "category": "Premier Padel · Carousel",
@@ -55,10 +55,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 08 Aug."
     },
     {
-      "category": "Premier Padel · Reel",
-      "caption": "Unstoppable @martinacaalvo 😮‍💨🧚 #PremierPadel #LondonPremierPadelP1 #QatarAirwaysPointoftheDay",
+      "category": "Premier Padel · Carousel",
+      "caption": "Both players and fans wanted to put their reaction time to the test at the Heineken 0.0 stand 😏🍻 +18 | #PremierPadel #LondonPremierPadelP1 #EnjoyResponsibly",
       "time": "10 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/Db221EYjvZ9/",
+      "url": "https://www.instagram.com/premierpadel/p/Db3MxWRCu-2/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
       "alt": "Cover image from @premierpadel, published 10 Aug."
     },
@@ -71,10 +71,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 07 Aug."
     },
     {
-      "category": "Premier Padel · Carousel",
-      "caption": "First trophy captured forever 🩷🎞️💙 #PremierPadel #LondonPremierPadelP1",
+      "category": "Premier Padel · Reel",
+      "caption": "Unstoppable @martinacaalvo 😮‍💨🧚 #PremierPadel #LondonPremierPadelP1 #QatarAirwaysPointoftheDay",
       "time": "10 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/Db2zYiTjoma/",
+      "url": "https://www.instagram.com/premierpadel/reel/Db221EYjvZ9/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
       "alt": "Cover image from @premierpadel, published 10 Aug."
     },
