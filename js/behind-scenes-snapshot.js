@@ -4,7 +4,7 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-11T13:41:34.146Z",
+  "generatedAt": "2026-08-11T17:11:21.530Z",
   "posts": [
     {
       "category": "Premier Padel · Carousel",
@@ -56,9 +56,9 @@ export default {
     },
     {
       "category": "Premier Padel · Carousel",
-      "caption": "𝗠𝗮𝗱𝗲 𝗳𝗼𝗿 𝗲𝘃𝗲𝗿𝘆 𝗽𝗼𝗶𝗻𝘁. 𝗕𝘂𝗶𝗹𝘁 𝗳𝗼𝗿 𝗲𝘃𝗲𝗿𝘆 𝗰𝗼𝘂𝗿𝘁. 🔥 🤝 Bullpadel X Premier Padel collection. Discover the full collection through the link in our bio👆 #OwnTheGame #BullpadelXPremierPa…",
+      "caption": "Wishing @leo_augsburger a SMASHING birthday 💥🍔 #PremierPadel",
       "time": "11 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/Db5dB0ODeOA/",
+      "url": "https://www.instagram.com/premierpadel/p/Db6BIGBitXm/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
       "alt": "Cover image from @premierpadel, published 11 Aug."
     },
@@ -71,10 +71,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 08 Aug."
     },
     {
-      "category": "Premier Padel · Reel",
-      "caption": "🇦🇺 👋 G’day, Sydney! We’ve landed 𝗱𝗼𝘄𝗻 𝘂𝗻𝗱𝗲𝗿 ahead of @padelinvitationalaus at the iconic Sydney Opera House this week! 🎾 #PremierPadel",
+      "category": "Premier Padel · Carousel",
+      "caption": "𝗠𝗮𝗱𝗲 𝗳𝗼𝗿 𝗲𝘃𝗲𝗿𝘆 𝗽𝗼𝗶𝗻𝘁. 𝗕𝘂𝗶𝗹𝘁 𝗳𝗼𝗿 𝗲𝘃𝗲𝗿𝘆 𝗰𝗼𝘂𝗿𝘁. 🔥 🤝 Bullpadel X Premier Padel collection. Discover the full collection through the link in our bio👆 #OwnTheGame #BullpadelXPremierPa…",
       "time": "11 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/Db4JGLfqv-H/",
+      "url": "https://www.instagram.com/premierpadel/p/Db5dB0ODeOA/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
       "alt": "Cover image from @premierpadel, published 11 Aug."
     },
