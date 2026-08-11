@@ -4,7 +4,7 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-11T11:55:40.140Z",
+  "generatedAt": "2026-08-11T13:41:34.146Z",
   "posts": [
     {
       "category": "Premier Padel · Carousel",
@@ -16,11 +16,11 @@ export default {
     },
     {
       "category": "OH! Padel · Post",
-      "caption": "#alwayssmiling #playlikealocal #stanfordpadel",
-      "time": "10 Aug",
-      "url": "https://www.instagram.com/ohpadel_club/p/Db22wzmsows/",
+      "caption": "Congrats to *Johan Truter* for being our Winner of the evening👑 Thank you to everyone who participated on Monday Night too. 😊 Appreciate the atmosphere that you all brought🥳#pád…",
+      "time": "11 Aug",
+      "url": "https://www.instagram.com/ohpadel_club/p/Db5n2B2Mth4/",
       "image": "assets/images/instagram-ohpadel-club-1.jpg",
-      "alt": "Cover image from @ohpadel_club, published 10 Aug."
+      "alt": "Cover image from @ohpadel_club, published 11 Aug."
     },
     {
       "category": "Premier Padel · Reel",
@@ -31,12 +31,12 @@ export default {
       "alt": "Cover image from @premierpadel, published 09 Aug."
     },
     {
-      "category": "OH! Padel · Carousel",
-      "caption": "Action-packed padel at the Padel4Tinouw Tournament at Oh!Padel in Stanford 🏆📣🙌🏻🎾🔥 #playlikealocal #stanfordpadel #stanfordvillagelife",
-      "time": "08 Aug",
-      "url": "https://www.instagram.com/ohpadel_club/p/DbxwG92DLMB/",
+      "category": "OH! Padel · Post",
+      "caption": "#alwayssmiling #playlikealocal #stanfordpadel",
+      "time": "10 Aug",
+      "url": "https://www.instagram.com/ohpadel_club/p/Db22wzmsows/",
       "image": "assets/images/instagram-ohpadel-club-2.jpg",
-      "alt": "Cover image from @ohpadel_club, published 08 Aug."
+      "alt": "Cover image from @ohpadel_club, published 10 Aug."
     },
     {
       "category": "Premier Padel · Carousel",
@@ -48,9 +48,9 @@ export default {
     },
     {
       "category": "OH! Padel · Carousel",
-      "caption": "Want to keep up with our Padel4Tinouw tournament scores? Easy peasy!! Go to http//padel4tinouw.padeuce.com and follow from wherever you are! 🙌🏻💪🥳🏆🎾📣🔥 #seeffhermanus #stanfordpad…",
+      "caption": "Action-packed padel at the Padel4Tinouw Tournament at Oh!Padel in Stanford 🏆📣🙌🏻🎾🔥 #playlikealocal #stanfordpadel #stanfordvillagelife",
       "time": "08 Aug",
-      "url": "https://www.instagram.com/ohpadel_club/p/DbxV5p2jJnO/",
+      "url": "https://www.instagram.com/ohpadel_club/p/DbxwG92DLMB/",
       "image": "assets/images/instagram-ohpadel-club-3.jpg",
       "alt": "Cover image from @ohpadel_club, published 08 Aug."
     },
@@ -63,12 +63,12 @@ export default {
       "alt": "Cover image from @premierpadel, published 11 Aug."
     },
     {
-      "category": "OH! Padel · Post",
-      "caption": "*WEEK AHEAD* 👀✨ *10th-14th AUGUST* *_AMERICANO SESSIONS_* 🏆 🎾*BALL MACHINE SESSIONS*🎾 *SESSIONS BETWEEN 11AM-3PM POSTED DAILY* 🎾*CONTACT US IF YOU WOULD LIKE TO BOOK A SPECIFIC…",
-      "time": "07 Aug",
-      "url": "https://www.instagram.com/ohpadel_club/p/DbvA3ZKsEDU/",
+      "category": "OH! Padel · Carousel",
+      "caption": "Want to keep up with our Padel4Tinouw tournament scores? Easy peasy!! Go to http//padel4tinouw.padeuce.com and follow from wherever you are! 🙌🏻💪🥳🏆🎾📣🔥 #seeffhermanus #stanfordpad…",
+      "time": "08 Aug",
+      "url": "https://www.instagram.com/ohpadel_club/p/DbxV5p2jJnO/",
       "image": "assets/images/instagram-ohpadel-club-4.jpg",
-      "alt": "Cover image from @ohpadel_club, published 07 Aug."
+      "alt": "Cover image from @ohpadel_club, published 08 Aug."
     },
     {
       "category": "Premier Padel · Reel",
@@ -80,9 +80,9 @@ export default {
     },
     {
       "category": "OH! Padel · Post",
-      "caption": "📣 PLEASE NOTE: there is a fundraising tournament - The Tinouw Agenbag Business Invitational - at the club tomorrow from 7am to 6pm. If you’d like to watch some top players from…",
+      "caption": "*WEEK AHEAD* 👀✨ *10th-14th AUGUST* *_AMERICANO SESSIONS_* 🏆 🎾*BALL MACHINE SESSIONS*🎾 *SESSIONS BETWEEN 11AM-3PM POSTED DAILY* 🎾*CONTACT US IF YOU WOULD LIKE TO BOOK A SPECIFIC…",
       "time": "07 Aug",
-      "url": "https://www.instagram.com/ohpadel_club/p/DbuwKgCMl_3/",
+      "url": "https://www.instagram.com/ohpadel_club/p/DbvA3ZKsEDU/",
       "image": "assets/images/instagram-ohpadel-club-5.jpg",
       "alt": "Cover image from @ohpadel_club, published 07 Aug."
     }
