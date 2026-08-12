@@ -4,13 +4,13 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-12T02:42:43.157Z",
+  "generatedAt": "2026-08-12T08:38:52.671Z",
   "posts": [
     {
-      "category": "Premier Padel · Post",
-      "caption": "Taking in the Sydney views before hitting the @padelinvitationalaus court at the Sydney Opera House tomorrow! 🇦🇺🎾 #PremierPadel",
+      "category": "Premier Padel · Reel",
+      "caption": "The wildest meet & greet in Sydney today 🦘🇦🇺🐨 #PremierPadel",
       "time": "12 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/Db64xmwK81B/",
+      "url": "https://www.instagram.com/premierpadel/reel/Db7s5j9u9Sl/",
       "image": "assets/images/instagram-premierpadel-1.jpg",
       "alt": "Cover image from @premierpadel, published 12 Aug."
     },
@@ -23,12 +23,12 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 11 Aug."
     },
     {
-      "category": "Premier Padel · Carousel",
-      "caption": "Wishing @leo_augsburger a SMASHING birthday 💥🍔 #PremierPadel",
-      "time": "11 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/Db6BIGBitXm/",
+      "category": "Premier Padel · Post",
+      "caption": "Taking in the Sydney views before hitting the @padelinvitationalaus court at the Sydney Opera House tomorrow! 🇦🇺🎾 #PremierPadel",
+      "time": "12 Aug",
+      "url": "https://www.instagram.com/premierpadel/p/Db64xmwK81B/",
       "image": "assets/images/instagram-premierpadel-2.jpg",
-      "alt": "Cover image from @premierpadel, published 11 Aug."
+      "alt": "Cover image from @premierpadel, published 12 Aug."
     },
     {
       "category": "OH! Padel · Post",
@@ -40,9 +40,9 @@ export default {
     },
     {
       "category": "Premier Padel · Carousel",
-      "caption": "𝗠𝗮𝗱𝗲 𝗳𝗼𝗿 𝗲𝘃𝗲𝗿𝘆 𝗽𝗼𝗶𝗻𝘁. 𝗕𝘂𝗶𝗹𝘁 𝗳𝗼𝗿 𝗲𝘃𝗲𝗿𝘆 𝗰𝗼𝘂𝗿𝘁. 🔥 🤝 Bullpadel X Premier Padel collection. Discover the full collection through the link in our bio👆 #OwnTheGame #BullpadelXPremierPa…",
+      "caption": "Wishing @leo_augsburger a SMASHING birthday 💥🍔 #PremierPadel",
       "time": "11 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/Db5dB0ODeOA/",
+      "url": "https://www.instagram.com/premierpadel/p/Db6BIGBitXm/",
       "image": "assets/images/instagram-premierpadel-3.jpg",
       "alt": "Cover image from @premierpadel, published 11 Aug."
     },
@@ -55,10 +55,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 08 Aug."
     },
     {
-      "category": "Premier Padel · Reel",
-      "caption": "🇦🇺 👋 G’day, Sydney! We’ve landed 𝗱𝗼𝘄𝗻 𝘂𝗻𝗱𝗲𝗿 ahead of @padelinvitationalaus at the iconic Sydney Opera House this week! 🎾 #PremierPadel",
+      "category": "Premier Padel · Carousel",
+      "caption": "𝗠𝗮𝗱𝗲 𝗳𝗼𝗿 𝗲𝘃𝗲𝗿𝘆 𝗽𝗼𝗶𝗻𝘁. 𝗕𝘂𝗶𝗹𝘁 𝗳𝗼𝗿 𝗲𝘃𝗲𝗿𝘆 𝗰𝗼𝘂𝗿𝘁. 🔥 🤝 Bullpadel X Premier Padel collection. Discover the full collection through the link in our bio👆 #OwnTheGame #BullpadelXPremierPa…",
       "time": "11 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/Db4JGLfqv-H/",
+      "url": "https://www.instagram.com/premierpadel/p/Db5dB0ODeOA/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
       "alt": "Cover image from @premierpadel, published 11 Aug."
     },
@@ -72,11 +72,11 @@ export default {
     },
     {
       "category": "Premier Padel · Reel",
-      "caption": "Some points aren't meant to end ⏱️⏳ #PremierPadel #LondonPremierPadelP1 #APLongRally",
-      "time": "10 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/Db3coBBsaCJ/",
+      "caption": "🇦🇺 👋 G’day, Sydney! We’ve landed 𝗱𝗼𝘄𝗻 𝘂𝗻𝗱𝗲𝗿 ahead of @padelinvitationalaus at the iconic Sydney Opera House this week! 🎾 #PremierPadel",
+      "time": "11 Aug",
+      "url": "https://www.instagram.com/premierpadel/reel/Db4JGLfqv-H/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
-      "alt": "Cover image from @premierpadel, published 10 Aug."
+      "alt": "Cover image from @premierpadel, published 11 Aug."
     },
     {
       "category": "OH! Padel · Post",
