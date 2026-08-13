@@ -4,13 +4,13 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-13T08:42:13.986Z",
+  "generatedAt": "2026-08-13T10:21:14.239Z",
   "posts": [
     {
-      "category": "Premier Padel · Reel",
-      "caption": "POV: you let the CM plan the Sydney itinerary pre- @padelinvitationalaus 🇦🇺 #PremierPadel",
+      "category": "Premier Padel · Carousel",
+      "caption": "Padel just reached new heights 🇦🇺🤩 #PremierPadel",
       "time": "13 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/Db-MbMqBNTL/",
+      "url": "https://www.instagram.com/premierpadel/p/Db-V5pQDsOo/",
       "image": "assets/images/instagram-premierpadel-1.jpg",
       "alt": "Cover image from @premierpadel, published 13 Aug."
     },
@@ -23,10 +23,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 13 Aug."
     },
     {
-      "category": "Premier Padel · Carousel",
-      "caption": "Morning in Sydney’s Royal Botanic Garden 🌿💆🇦🇺 #PremierPadel",
+      "category": "Premier Padel · Reel",
+      "caption": "POV: you let the CM plan the Sydney itinerary pre- @padelinvitationalaus 🇦🇺 #PremierPadel",
       "time": "13 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/Db9zHRtCuAy/",
+      "url": "https://www.instagram.com/premierpadel/reel/Db-MbMqBNTL/",
       "image": "assets/images/instagram-premierpadel-2.jpg",
       "alt": "Cover image from @premierpadel, published 13 Aug."
     },
@@ -40,11 +40,11 @@ export default {
     },
     {
       "category": "Premier Padel · Carousel",
-      "caption": "From little dreamers to padel stars ⭐️🎾 Part 1 #PremierPadel",
-      "time": "12 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/Db8b4oTDhr_/",
+      "caption": "Morning in Sydney’s Royal Botanic Garden 🌿💆🇦🇺 #PremierPadel",
+      "time": "13 Aug",
+      "url": "https://www.instagram.com/premierpadel/p/Db9zHRtCuAy/",
       "image": "assets/images/instagram-premierpadel-3.jpg",
-      "alt": "Cover image from @premierpadel, published 12 Aug."
+      "alt": "Cover image from @premierpadel, published 13 Aug."
     },
     {
       "category": "OH! Padel · Post",
@@ -56,9 +56,9 @@ export default {
     },
     {
       "category": "Premier Padel · Carousel",
-      "caption": "Quick recap to go into the mid-season break ❤️‍🔥 #PremierPadel #PretoriaPremierPadelP1 #LondonPremierPadelP1",
+      "caption": "From little dreamers to padel stars ⭐️🎾 Part 1 #PremierPadel",
       "time": "12 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/Db8ahZFimzO/",
+      "url": "https://www.instagram.com/premierpadel/p/Db8b4oTDhr_/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
       "alt": "Cover image from @premierpadel, published 12 Aug."
     },
@@ -71,10 +71,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 10 Aug."
     },
     {
-      "category": "Premier Padel · Reel",
-      "caption": "Madrid, an unrivalled @premierpadelacademy experience is coming your way 🔥 🎾 Improve your padel skills training with the best coaches. 🗓️ From the 3rd to 5th September 🎟️ Plus,…",
+      "category": "Premier Padel · Carousel",
+      "caption": "Quick recap to go into the mid-season break ❤️‍🔥 #PremierPadel #PretoriaPremierPadelP1 #LondonPremierPadelP1",
       "time": "12 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/Db8Aai-jt1o/",
+      "url": "https://www.instagram.com/premierpadel/p/Db8ahZFimzO/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
       "alt": "Cover image from @premierpadel, published 12 Aug."
     },
