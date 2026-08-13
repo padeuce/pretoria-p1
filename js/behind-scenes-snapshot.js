@@ -4,15 +4,15 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-12T16:08:46.177Z",
+  "generatedAt": "2026-08-13T05:02:42.071Z",
   "posts": [
     {
       "category": "Premier Padel · Carousel",
-      "caption": "From little dreamers to padel stars ⭐️🎾 Part 1 #PremierPadel",
-      "time": "12 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/Db8b4oTDhr_/",
+      "caption": "Morning in Sydney’s Royal Botanic Garden 🌿💆🇦🇺 #PremierPadel",
+      "time": "13 Aug",
+      "url": "https://www.instagram.com/premierpadel/p/Db9zHRtCuAy/",
       "image": "assets/images/instagram-premierpadel-1.jpg",
-      "alt": "Cover image from @premierpadel, published 12 Aug."
+      "alt": "Cover image from @premierpadel, published 13 Aug."
     },
     {
       "category": "OH! Padel · Post",
@@ -24,9 +24,9 @@ export default {
     },
     {
       "category": "Premier Padel · Carousel",
-      "caption": "Quick recap to go into the mid-season break ❤️‍🔥 #PremierPadel #PretoriaPremierPadelP1 #LondonPremierPadelP1",
+      "caption": "From little dreamers to padel stars ⭐️🎾 Part 1 #PremierPadel",
       "time": "12 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/Db8ahZFimzO/",
+      "url": "https://www.instagram.com/premierpadel/p/Db8b4oTDhr_/",
       "image": "assets/images/instagram-premierpadel-2.jpg",
       "alt": "Cover image from @premierpadel, published 12 Aug."
     },
@@ -39,10 +39,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 11 Aug."
     },
     {
-      "category": "Premier Padel · Reel",
-      "caption": "Madrid, an unrivalled @premierpadelacademy experience is coming your way 🔥 🎾 Improve your padel skills training with the best coaches. 🗓️ From the 3rd to 5th September 🎟️ Plus,…",
+      "category": "Premier Padel · Carousel",
+      "caption": "Quick recap to go into the mid-season break ❤️‍🔥 #PremierPadel #PretoriaPremierPadelP1 #LondonPremierPadelP1",
       "time": "12 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/Db8Aai-jt1o/",
+      "url": "https://www.instagram.com/premierpadel/p/Db8ahZFimzO/",
       "image": "assets/images/instagram-premierpadel-3.jpg",
       "alt": "Cover image from @premierpadel, published 12 Aug."
     },
@@ -56,9 +56,9 @@ export default {
     },
     {
       "category": "Premier Padel · Reel",
-      "caption": "Taking padel to new heights… Literally. 😂🇦🇺🌉 #PremierPadel #BridgeClimb",
+      "caption": "Madrid, an unrivalled @premierpadelacademy experience is coming your way 🔥 🎾 Improve your padel skills training with the best coaches. 🗓️ From the 3rd to 5th September 🎟️ Plus,…",
       "time": "12 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/Db786uNORKW/",
+      "url": "https://www.instagram.com/premierpadel/reel/Db8Aai-jt1o/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
       "alt": "Cover image from @premierpadel, published 12 Aug."
     },
@@ -72,9 +72,9 @@ export default {
     },
     {
       "category": "Premier Padel · Reel",
-      "caption": "The wildest meet & greet in Sydney today 🦘🇦🇺🐨 #PremierPadel",
+      "caption": "Taking padel to new heights… Literally. 😂🇦🇺🌉 #PremierPadel #BridgeClimb",
       "time": "12 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/Db7s5j9u9Sl/",
+      "url": "https://www.instagram.com/premierpadel/reel/Db786uNORKW/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
       "alt": "Cover image from @premierpadel, published 12 Aug."
     },
