@@ -4,13 +4,13 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-13T13:45:43.208Z",
+  "generatedAt": "2026-08-13T15:14:22.874Z",
   "posts": [
     {
       "category": "Premier Padel · Reel",
-      "caption": "Kicking off the weekend with the world’s best padel players. This is the Padel Invitational presented by @ubs",
+      "caption": "Could the world No. 1s play together until retirement? 👑🎻 Our official podcast, Bandeja de Premier Padel, is out now on all major platforms, featuring exclusive interviews and s…",
       "time": "13 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/Db-1FNqPf58/",
+      "url": "https://www.instagram.com/premierpadel/reel/Db_AzmoDnQ7/",
       "image": "assets/images/instagram-premierpadel-1.jpg",
       "alt": "Cover image from @premierpadel, published 13 Aug."
     },
@@ -24,9 +24,9 @@ export default {
     },
     {
       "category": "Premier Padel · Reel",
-      "caption": "The elite pros under the Sydney Harbour lights. We’re just getting started.",
+      "caption": "From Sydney to Brisbane 2032… 🇦🇺 The Olympic dream is alive. ✨ #PremierPadel",
       "time": "13 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/Db-w1UhPrDm/",
+      "url": "https://www.instagram.com/premierpadel/reel/Db-7U0wBN52/",
       "image": "assets/images/instagram-premierpadel-2.jpg",
       "alt": "Cover image from @premierpadel, published 13 Aug."
     },
@@ -40,9 +40,9 @@ export default {
     },
     {
       "category": "Premier Padel · Reel",
-      "caption": "Iconic.",
+      "caption": "Kicking off the weekend with the world’s best padel players. This is the Padel Invitational presented by @ubs",
       "time": "13 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/Db-oBWzvvt-/",
+      "url": "https://www.instagram.com/premierpadel/reel/Db-1FNqPf58/",
       "image": "assets/images/instagram-premierpadel-3.jpg",
       "alt": "Cover image from @premierpadel, published 13 Aug."
     },
@@ -56,9 +56,9 @@ export default {
     },
     {
       "category": "Premier Padel · Reel",
-      "caption": "Can you guess the player? 👀 #PremierPadel",
+      "caption": "The elite pros under the Sydney Harbour lights. We’re just getting started.",
       "time": "13 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/Db-h0YWCo01/",
+      "url": "https://www.instagram.com/premierpadel/reel/Db-w1UhPrDm/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
       "alt": "Cover image from @premierpadel, published 13 Aug."
     },
@@ -72,9 +72,9 @@ export default {
     },
     {
       "category": "Premier Padel · Reel",
-      "caption": "The question on everyone’s lips",
+      "caption": "Iconic.",
       "time": "13 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/Db-dOPtvyi9/",
+      "url": "https://www.instagram.com/premierpadel/reel/Db-oBWzvvt-/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
       "alt": "Cover image from @premierpadel, published 13 Aug."
     },
