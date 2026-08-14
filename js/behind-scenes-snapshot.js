@@ -4,7 +4,7 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-14T06:41:32.099Z",
+  "generatedAt": "2026-08-14T08:37:05.305Z",
   "posts": [
     {
       "category": "Premier Padel · Carousel",
@@ -16,11 +16,11 @@ export default {
     },
     {
       "category": "OH! Padel · Post",
-      "caption": "Thank you to Everyone who participated on Wednesday Night.😊 Congratulations to *Chrizelle* for being the Winner of the evening. Great energy on the courts last night from everyo…",
-      "time": "13 Aug",
-      "url": "https://www.instagram.com/ohpadel_club/p/Db-3CXPsRXy/",
+      "caption": "OUR WEEK AHEAD‼️#padel #padeltime🎾 #padella #pádel",
+      "time": "14 Aug",
+      "url": "https://www.instagram.com/ohpadel_club/p/DcA4FgIMxJA/",
       "image": "assets/images/instagram-ohpadel-club-1.jpg",
-      "alt": "Cover image from @ohpadel_club, published 13 Aug."
+      "alt": "Cover image from @ohpadel_club, published 14 Aug."
     },
     {
       "category": "Premier Padel · Reel",
@@ -32,9 +32,9 @@ export default {
     },
     {
       "category": "OH! Padel · Post",
-      "caption": "TWINNING!. On and off the court. 🎾🖤 @kris_cptdrummer & @larissasmit10 bringing the couple goals @ohpadel_club — matching in our Vantage Black and looking sharp while doing it. B…",
+      "caption": "Thank you to Everyone who participated on Wednesday Night.😊 Congratulations to *Chrizelle* for being the Winner of the evening. Great energy on the courts last night from everyo…",
       "time": "13 Aug",
-      "url": "https://www.instagram.com/ohpadel_club/p/Db-NAyPNU2H/",
+      "url": "https://www.instagram.com/ohpadel_club/p/Db-3CXPsRXy/",
       "image": "assets/images/instagram-ohpadel-club-2.jpg",
       "alt": "Cover image from @ohpadel_club, published 13 Aug."
     },
@@ -48,11 +48,11 @@ export default {
     },
     {
       "category": "OH! Padel · Post",
-      "caption": "Thank you to Everyone who participated on Tuesday Night😊 Special Congrats to *Patrick and Amoure* for being our Winners of the Evening.👑 Til next week to see who will take the W…",
-      "time": "12 Aug",
-      "url": "https://www.instagram.com/ohpadel_club/p/Db8DKC5s_HU/",
+      "caption": "TWINNING!. On and off the court. 🎾🖤 @kris_cptdrummer & @larissasmit10 bringing the couple goals @ohpadel_club — matching in our Vantage Black and looking sharp while doing it. B…",
+      "time": "13 Aug",
+      "url": "https://www.instagram.com/ohpadel_club/p/Db-NAyPNU2H/",
       "image": "assets/images/instagram-ohpadel-club-3.jpg",
-      "alt": "Cover image from @ohpadel_club, published 12 Aug."
+      "alt": "Cover image from @ohpadel_club, published 13 Aug."
     },
     {
       "category": "Premier Padel · Reel",
@@ -64,11 +64,11 @@ export default {
     },
     {
       "category": "OH! Padel · Post",
-      "caption": "Congrats to *Johan Truter* for being our Winner of the evening👑 Thank you to everyone who participated on Monday Night too. 😊 Appreciate the atmosphere that you all brought🥳#pád…",
-      "time": "11 Aug",
-      "url": "https://www.instagram.com/ohpadel_club/p/Db5n2B2Mth4/",
+      "caption": "Thank you to Everyone who participated on Tuesday Night😊 Special Congrats to *Patrick and Amoure* for being our Winners of the Evening.👑 Til next week to see who will take the W…",
+      "time": "12 Aug",
+      "url": "https://www.instagram.com/ohpadel_club/p/Db8DKC5s_HU/",
       "image": "assets/images/instagram-ohpadel-club-4.jpg",
-      "alt": "Cover image from @ohpadel_club, published 11 Aug."
+      "alt": "Cover image from @ohpadel_club, published 12 Aug."
     },
     {
       "category": "Premier Padel · Reel",
@@ -80,11 +80,11 @@ export default {
     },
     {
       "category": "OH! Padel · Post",
-      "caption": "#alwayssmiling #playlikealocal #stanfordpadel",
-      "time": "10 Aug",
-      "url": "https://www.instagram.com/ohpadel_club/p/Db22wzmsows/",
+      "caption": "Congrats to *Johan Truter* for being our Winner of the evening👑 Thank you to everyone who participated on Monday Night too. 😊 Appreciate the atmosphere that you all brought🥳#pád…",
+      "time": "11 Aug",
+      "url": "https://www.instagram.com/ohpadel_club/p/Db5n2B2Mth4/",
       "image": "assets/images/instagram-ohpadel-club-5.jpg",
-      "alt": "Cover image from @ohpadel_club, published 10 Aug."
+      "alt": "Cover image from @ohpadel_club, published 11 Aug."
     }
   ]
 };
