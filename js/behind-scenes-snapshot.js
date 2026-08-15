@@ -4,13 +4,13 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-15T01:48:33.116Z",
+  "generatedAt": "2026-08-15T03:03:42.403Z",
   "posts": [
     {
-      "category": "Premier Padel · Carousel",
-      "caption": "About last night.",
+      "category": "Premier Padel · Reel",
+      "caption": "Ash and Pat The coach and the student.",
       "time": "15 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/DcCvS-ygZgW/",
+      "url": "https://www.instagram.com/premierpadel/reel/DcCzT9mhpIO/",
       "image": "assets/images/instagram-premierpadel-1.jpg",
       "alt": "Cover image from @premierpadel, published 15 Aug."
     },
@@ -23,12 +23,12 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 14 Aug."
     },
     {
-      "category": "Premier Padel · Reel",
-      "caption": "Ready to become a Court Legend? 🎮🔥 Think you’ve got what it takes? Play Red Bull Padel: Court Legends. 🏆 #PremierPadel #CourtLegends #RedBull",
-      "time": "14 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/DcBo7ZYskwP/",
+      "category": "Premier Padel · Carousel",
+      "caption": "𝙿𝚘𝚜𝚝𝚌𝚊𝚛𝚍𝚜 𝚏𝚛𝚘𝚖 𝚂𝚢𝚍𝚗𝚎𝚢 💌🇦🇺 #PremierPadel",
+      "time": "15 Aug",
+      "url": "https://www.instagram.com/premierpadel/p/DcCywk1G6ZS/",
       "image": "assets/images/instagram-premierpadel-2.jpg",
-      "alt": "Cover image from @premierpadel, published 14 Aug."
+      "alt": "Cover image from @premierpadel, published 15 Aug."
     },
     {
       "category": "OH! Padel · Post",
@@ -40,11 +40,11 @@ export default {
     },
     {
       "category": "Premier Padel · Carousel",
-      "caption": "Can you match the paletero to the player? 🎾👇 #PremierPadel",
-      "time": "14 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/Db-eXNijlkB/",
+      "caption": "About last night.",
+      "time": "15 Aug",
+      "url": "https://www.instagram.com/premierpadel/p/DcCvS-ygZgW/",
       "image": "assets/images/instagram-premierpadel-3.jpg",
-      "alt": "Cover image from @premierpadel, published 14 Aug."
+      "alt": "Cover image from @premierpadel, published 15 Aug."
     },
     {
       "category": "OH! Padel · Post",
@@ -56,9 +56,9 @@ export default {
     },
     {
       "category": "Premier Padel · Reel",
-      "caption": "Friday night padel.",
+      "caption": "Ready to become a Court Legend? 🎮🔥 Think you’ve got what it takes? Play Red Bull Padel: Court Legends. 🏆 #PremierPadel #CourtLegends #RedBull",
       "time": "14 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/DcBODdwBP8c/",
+      "url": "https://www.instagram.com/premierpadel/reel/DcBo7ZYskwP/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
       "alt": "Cover image from @premierpadel, published 14 Aug."
     },
@@ -72,9 +72,9 @@ export default {
     },
     {
       "category": "Premier Padel · Carousel",
-      "caption": "We can’t get enough of these views from the Sydney Opera House 😮‍💨🇦🇺 #PremierPadel",
+      "caption": "Can you match the paletero to the player? 🎾👇 #PremierPadel",
       "time": "14 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/DcAkPRmGuAd/",
+      "url": "https://www.instagram.com/premierpadel/p/Db-eXNijlkB/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
       "alt": "Cover image from @premierpadel, published 14 Aug."
     },
