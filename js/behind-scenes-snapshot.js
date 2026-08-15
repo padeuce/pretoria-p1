@@ -4,13 +4,13 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-15T06:56:58.897Z",
+  "generatedAt": "2026-08-15T08:44:13.630Z",
   "posts": [
     {
       "category": "Premier Padel · Carousel",
-      "caption": "Hollywood meets Padel royalty. @jheuston teams up with one of the most decorated padel players of all time, @alejandrasalazar9",
+      "caption": "1 Point Padel was electric.",
       "time": "15 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/DcDQz_JAY7D/",
+      "url": "https://www.instagram.com/premierpadel/p/DcDcfi2gYTw/",
       "image": "assets/images/instagram-premierpadel-1.jpg",
       "alt": "Cover image from @premierpadel, published 15 Aug."
     },
@@ -24,9 +24,9 @@ export default {
     },
     {
       "category": "Premier Padel · Reel",
-      "caption": "Controversial finish to the Celebrity 1 Point Padel",
+      "caption": "That’s a wrap on Saturday’s Premier Padel Competition",
       "time": "15 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/DcDMAu-hIOW/",
+      "url": "https://www.instagram.com/premierpadel/reel/DcDWW7BhVmM/",
       "image": "assets/images/instagram-premierpadel-2.jpg",
       "alt": "Cover image from @premierpadel, published 15 Aug."
     },
@@ -40,9 +40,9 @@ export default {
     },
     {
       "category": "Premier Padel · Carousel",
-      "caption": "Handling the pressure with ease. @lachy_mclean and @marmunera_padel are your inaugural 1 Point Padel champions.",
+      "caption": "Hollywood meets Padel royalty. @jheuston teams up with one of the most decorated padel players of all time, @alejandrasalazar9",
       "time": "15 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/DcDLJByAfQU/",
+      "url": "https://www.instagram.com/premierpadel/p/DcDQz_JAY7D/",
       "image": "assets/images/instagram-premierpadel-3.jpg",
       "alt": "Cover image from @premierpadel, published 15 Aug."
     },
@@ -56,9 +56,9 @@ export default {
     },
     {
       "category": "Premier Padel · Reel",
-      "caption": "All smiles and great vibes at the Celebrity 1 Point Padel",
+      "caption": "Controversial finish to the Celebrity 1 Point Padel",
       "time": "15 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/DcDJbOihmBZ/",
+      "url": "https://www.instagram.com/premierpadel/reel/DcDMAu-hIOW/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
       "alt": "Cover image from @premierpadel, published 15 Aug."
     },
@@ -71,10 +71,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 12 Aug."
     },
     {
-      "category": "Premier Padel · Reel",
-      "caption": "Your Celebrity 1 Point Padel Winners",
+      "category": "Premier Padel · Carousel",
+      "caption": "Handling the pressure with ease. @lachy_mclean and @marmunera_padel are your inaugural 1 Point Padel champions.",
       "time": "15 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/DcDGBBLBjUJ/",
+      "url": "https://www.instagram.com/premierpadel/p/DcDLJByAfQU/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
       "alt": "Cover image from @premierpadel, published 15 Aug."
     },
