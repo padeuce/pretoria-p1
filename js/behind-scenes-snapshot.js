@@ -4,13 +4,13 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-16T03:12:20.563Z",
+  "generatedAt": "2026-08-16T05:41:34.322Z",
   "posts": [
     {
       "category": "Premier Padel · Reel",
-      "caption": "How good is padel?",
+      "caption": "No mercy from @pabloo.garciar",
       "time": "16 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/DcFZklpBw6U/",
+      "url": "https://www.instagram.com/premierpadel/reel/DcFukkzhqtK/",
       "image": "assets/images/instagram-premierpadel-1.jpg",
       "alt": "Cover image from @premierpadel, published 16 Aug."
     },
@@ -24,9 +24,9 @@ export default {
     },
     {
       "category": "Premier Padel · Reel",
-      "caption": "Absolute class",
+      "caption": "Pat’s pitch for padel at the Olympics 🎾 Former World No.1 tennis player and Olympian Pat Rafter makes the case for padel to join the Olympic programme at @brisbane2032. #Premier…",
       "time": "16 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/DcFXOJYhf4H/",
+      "url": "https://www.instagram.com/premierpadel/reel/DcFrvXrBZKF/",
       "image": "assets/images/instagram-premierpadel-2.jpg",
       "alt": "Cover image from @premierpadel, published 16 Aug."
     },
@@ -40,11 +40,11 @@ export default {
     },
     {
       "category": "Premier Padel · Reel",
-      "caption": "A x3 watched x1000 times 😮‍💨👽 #PremierPadel",
-      "time": "15 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/DcEKPm9jv_G/",
+      "caption": "How good is padel?",
+      "time": "16 Aug",
+      "url": "https://www.instagram.com/premierpadel/reel/DcFZklpBw6U/",
       "image": "assets/images/instagram-premierpadel-3.jpg",
-      "alt": "Cover image from @premierpadel, published 15 Aug."
+      "alt": "Cover image from @premierpadel, published 16 Aug."
     },
     {
       "category": "OH! Padel · Post",
@@ -56,11 +56,11 @@ export default {
     },
     {
       "category": "Premier Padel · Reel",
-      "caption": "Sideline reporting at the Celebrity 1 Point Padel",
-      "time": "15 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/DcDvtQnhDQ1/",
+      "caption": "Absolute class",
+      "time": "16 Aug",
+      "url": "https://www.instagram.com/premierpadel/reel/DcFXOJYhf4H/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
-      "alt": "Cover image from @premierpadel, published 15 Aug."
+      "alt": "Cover image from @premierpadel, published 16 Aug."
     },
     {
       "category": "OH! Padel · Post",
@@ -71,10 +71,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 12 Aug."
     },
     {
-      "category": "Premier Padel · Carousel",
-      "caption": "Witnessing the world’s best.",
+      "category": "Premier Padel · Reel",
+      "caption": "A x3 watched x1000 times 😮‍💨👽 #PremierPadel",
       "time": "15 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/DcDvRTdm7Ye/",
+      "url": "https://www.instagram.com/premierpadel/reel/DcEKPm9jv_G/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
       "alt": "Cover image from @premierpadel, published 15 Aug."
     },
