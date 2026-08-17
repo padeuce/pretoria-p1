@@ -4,15 +4,15 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-16T17:32:42.091Z",
+  "generatedAt": "2026-08-17T15:38:06.157Z",
   "posts": [
     {
       "category": "Premier Padel · Reel",
-      "caption": "Exactly a week ago 🎻👑 #PremierPadel",
-      "time": "16 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/DcG7D72siTN/",
+      "caption": "Las Lupitas… but make it drawing 🎨✍️😂 #PremierPadel",
+      "time": "17 Aug",
+      "url": "https://www.instagram.com/premierpadel/reel/DcJXG0vK-h9/",
       "image": "assets/images/instagram-premierpadel-1.jpg",
-      "alt": "Cover image from @premierpadel, published 16 Aug."
+      "alt": "Cover image from @premierpadel, published 17 Aug."
     },
     {
       "category": "OH! Padel · Post",
@@ -23,10 +23,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 14 Aug."
     },
     {
-      "category": "Premier Padel · Post",
-      "caption": "A week ago, @martinacaalvo became the youngest female player in #PremierPadel history to win a title - at 18 years, one month and 4 days 🏆",
+      "category": "Premier Padel · Reel",
+      "caption": "Exactly a week ago 🎻👑 #PremierPadel",
       "time": "16 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/DcDrC7kOisJ/",
+      "url": "https://www.instagram.com/premierpadel/reel/DcG7D72siTN/",
       "image": "assets/images/instagram-premierpadel-2.jpg",
       "alt": "Cover image from @premierpadel, published 16 Aug."
     },
@@ -39,10 +39,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 13 Aug."
     },
     {
-      "category": "Premier Padel · Carousel",
-      "caption": "A joy to watch.",
+      "category": "Premier Padel · Post",
+      "caption": "A week ago, @martinacaalvo became the youngest female player in #PremierPadel history to win a title - at 18 years, one month and 4 days 🏆",
       "time": "16 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/DcFvvJuAfYB/",
+      "url": "https://www.instagram.com/premierpadel/p/DcDrC7kOisJ/",
       "image": "assets/images/instagram-premierpadel-3.jpg",
       "alt": "Cover image from @premierpadel, published 16 Aug."
     },
@@ -55,10 +55,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 13 Aug."
     },
     {
-      "category": "Premier Padel · Reel",
-      "caption": "No mercy from @pabloo.garciar",
+      "category": "Premier Padel · Carousel",
+      "caption": "A joy to watch.",
       "time": "16 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/DcFukkzhqtK/",
+      "url": "https://www.instagram.com/premierpadel/p/DcFvvJuAfYB/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
       "alt": "Cover image from @premierpadel, published 16 Aug."
     },
@@ -72,9 +72,9 @@ export default {
     },
     {
       "category": "Premier Padel · Reel",
-      "caption": "Pat’s pitch for padel at the Olympics 🎾 Former World No.1 tennis player and Olympian Pat Rafter makes the case for padel to join the Olympic programme at @brisbane2032. #Premier…",
+      "caption": "No mercy from @pabloo.garciar",
       "time": "16 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/DcFrvXrBZKF/",
+      "url": "https://www.instagram.com/premierpadel/reel/DcFukkzhqtK/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
       "alt": "Cover image from @premierpadel, published 16 Aug."
     },
