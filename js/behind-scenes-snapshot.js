@@ -4,13 +4,13 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-19T11:38:24.704Z",
+  "generatedAt": "2026-08-19T14:52:45.401Z",
   "posts": [
     {
       "category": "Premier Padel · Carousel",
-      "caption": "𝐓𝐞𝐬𝐭𝐞𝐝 𝐨𝐧 𝐜𝐨𝐮𝐫𝐭, 𝐩𝐫𝐨𝐯𝐞𝐧 𝐢𝐧 𝐜𝐨𝐦𝐩𝐞𝐭𝐢𝐭𝐢𝐨𝐧🌟 🤝 Bullpadel X Premier Padel collection. Discover the full collection through the link in our bio👆 #OwnTheGame #BullpadelXPremierPadel #Pr…",
+      "caption": "From little dreamers to padel stars ⭐️🎾 Part 2 #PremierPadel",
       "time": "19 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/DcOBTihDWOM/",
+      "url": "https://www.instagram.com/premierpadel/p/DcOWjiBjtOK/",
       "image": "assets/images/instagram-premierpadel-1.jpg",
       "alt": "Cover image from @premierpadel, published 19 Aug."
     },
@@ -23,10 +23,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 19 Aug."
     },
     {
-      "category": "Premier Padel · Reel",
-      "caption": "Who’s behind the silhouette? 👀🎾 #PremierPadel",
+      "category": "Premier Padel · Carousel",
+      "caption": "𝐓𝐞𝐬𝐭𝐞𝐝 𝐨𝐧 𝐜𝐨𝐮𝐫𝐭, 𝐩𝐫𝐨𝐯𝐞𝐧 𝐢𝐧 𝐜𝐨𝐦𝐩𝐞𝐭𝐢𝐭𝐢𝐨𝐧🌟 🤝 Bullpadel X Premier Padel collection. Discover the full collection through the link in our bio👆 #OwnTheGame #BullpadelXPremierPadel #Pr…",
       "time": "19 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/DcOPwKDilH8/",
+      "url": "https://www.instagram.com/premierpadel/p/DcOBTihDWOM/",
       "image": "assets/images/instagram-premierpadel-2.jpg",
       "alt": "Cover image from @premierpadel, published 19 Aug."
     },
@@ -39,10 +39,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 17 Aug."
     },
     {
-      "category": "Premier Padel · Carousel",
-      "caption": "Muchas ganas de volver 🏟️⭐️ #ComunidaddeMadridPremierPadelP1byOysho #PremierPadel #MadridPremierPadelP1",
+      "category": "Premier Padel · Reel",
+      "caption": "Who’s behind the silhouette? 👀🎾 #PremierPadel",
       "time": "19 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/DcN7975jp0S/",
+      "url": "https://www.instagram.com/premierpadel/reel/DcOPwKDilH8/",
       "image": "assets/images/instagram-premierpadel-3.jpg",
       "alt": "Cover image from @premierpadel, published 19 Aug."
     },
@@ -55,12 +55,12 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 17 Aug."
     },
     {
-      "category": "Premier Padel · Reel",
-      "caption": "We’re still not over this win 🥹 #PremierPadel",
-      "time": "18 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/DcL1RibCujR/",
+      "category": "Premier Padel · Carousel",
+      "caption": "Muchas ganas de volver 🏟️⭐️ #ComunidaddeMadridPremierPadelP1byOysho #PremierPadel #MadridPremierPadelP1",
+      "time": "19 Aug",
+      "url": "https://www.instagram.com/premierpadel/p/DcN7975jp0S/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
-      "alt": "Cover image from @premierpadel, published 18 Aug."
+      "alt": "Cover image from @premierpadel, published 19 Aug."
     },
     {
       "category": "OH! Padel · Post",
@@ -72,9 +72,9 @@ export default {
     },
     {
       "category": "Premier Padel · Reel",
-      "caption": "𝐄𝐋 𝐌𝐄𝐉𝐎𝐑 𝐏𝐀𝐃𝐄𝐋 𝐃𝐄𝐋 𝐌𝐔𝐍𝐃𝐎 ❤️🌏 📅 1-6 de septiembre de 2026 🏟️ @movistararenaes ¡Compra ya tu entrada! 🔥 #ComunidaddeMadridPremierPadelP1byOysho #PremierPadel #MadridPremierPadelP1",
+      "caption": "We’re still not over this win 🥹 #PremierPadel",
       "time": "18 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/DcLvmEfOMQ3/",
+      "url": "https://www.instagram.com/premierpadel/reel/DcL1RibCujR/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
       "alt": "Cover image from @premierpadel, published 18 Aug."
     },
