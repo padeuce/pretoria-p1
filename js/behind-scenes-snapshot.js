@@ -4,15 +4,15 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-19T08:53:17.666Z",
+  "generatedAt": "2026-08-19T10:44:51.112Z",
   "posts": [
     {
       "category": "Premier Padel · Reel",
-      "caption": "We’re still not over this win 🥹 #PremierPadel",
-      "time": "18 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/DcL1RibCujR/",
+      "caption": "Who’s behind the silhouette? 👀🎾 #PremierPadel",
+      "time": "19 Aug",
+      "url": "https://www.instagram.com/premierpadel/reel/DcOPwKDilH8/",
       "image": "assets/images/instagram-premierpadel-1.jpg",
-      "alt": "Cover image from @premierpadel, published 18 Aug."
+      "alt": "Cover image from @premierpadel, published 19 Aug."
     },
     {
       "category": "OH! Padel · Reel",
@@ -23,12 +23,12 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 19 Aug."
     },
     {
-      "category": "Premier Padel · Reel",
-      "caption": "𝐄𝐋 𝐌𝐄𝐉𝐎𝐑 𝐏𝐀𝐃𝐄𝐋 𝐃𝐄𝐋 𝐌𝐔𝐍𝐃𝐎 ❤️🌏 📅 1-6 de septiembre de 2026 🏟️ @movistararenaes ¡Compra ya tu entrada! 🔥 #ComunidaddeMadridPremierPadelP1byOysho #PremierPadel",
-      "time": "18 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/DcLvmEfOMQ3/",
+      "category": "Premier Padel · Carousel",
+      "caption": "Muchas ganas de volver 🏟️⭐️ #ComunidaddeMadridPremierPadelP1byOysho #PremierPadel #MadridPremierPadelP1",
+      "time": "19 Aug",
+      "url": "https://www.instagram.com/premierpadel/p/DcN7975jp0S/",
       "image": "assets/images/instagram-premierpadel-2.jpg",
-      "alt": "Cover image from @premierpadel, published 18 Aug."
+      "alt": "Cover image from @premierpadel, published 19 Aug."
     },
     {
       "category": "OH! Padel · Reel",
@@ -39,10 +39,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 17 Aug."
     },
     {
-      "category": "Premier Padel · Carousel",
-      "caption": "The 2026 season so far has been 🔥 #PremierPadel",
+      "category": "Premier Padel · Reel",
+      "caption": "We’re still not over this win 🥹 #PremierPadel",
       "time": "18 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/DcLdNnBDqh0/",
+      "url": "https://www.instagram.com/premierpadel/reel/DcL1RibCujR/",
       "image": "assets/images/instagram-premierpadel-3.jpg",
       "alt": "Cover image from @premierpadel, published 18 Aug."
     },
@@ -56,11 +56,11 @@ export default {
     },
     {
       "category": "Premier Padel · Reel",
-      "caption": "That's what coming to the Italy Major feels like 🍝🎞️ inspired by @lifeonfilm 💡 #PremierPadel",
-      "time": "17 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/DcJocaiMkfa/",
+      "caption": "𝐄𝐋 𝐌𝐄𝐉𝐎𝐑 𝐏𝐀𝐃𝐄𝐋 𝐃𝐄𝐋 𝐌𝐔𝐍𝐃𝐎 ❤️🌏 📅 1-6 de septiembre de 2026 🏟️ @movistararenaes ¡Compra ya tu entrada! 🔥 #ComunidaddeMadridPremierPadelP1byOysho #PremierPadel #MadridPremierPadelP1",
+      "time": "18 Aug",
+      "url": "https://www.instagram.com/premierpadel/reel/DcLvmEfOMQ3/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
-      "alt": "Cover image from @premierpadel, published 17 Aug."
+      "alt": "Cover image from @premierpadel, published 18 Aug."
     },
     {
       "category": "OH! Padel · Post",
@@ -71,12 +71,12 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 14 Aug."
     },
     {
-      "category": "Premier Padel · Reel",
-      "caption": "Las Lupitas… but make it drawing 🎨✍️😂 #PremierPadel",
-      "time": "17 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/DcJXG0vK-h9/",
+      "category": "Premier Padel · Carousel",
+      "caption": "The 2026 season so far has been 🔥 #PremierPadel",
+      "time": "18 Aug",
+      "url": "https://www.instagram.com/premierpadel/p/DcLdNnBDqh0/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
-      "alt": "Cover image from @premierpadel, published 17 Aug."
+      "alt": "Cover image from @premierpadel, published 18 Aug."
     },
     {
       "category": "OH! Padel · Post",
