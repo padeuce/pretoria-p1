@@ -4,7 +4,7 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-18T14:51:37.604Z",
+  "generatedAt": "2026-08-19T07:53:34.886Z",
   "posts": [
     {
       "category": "Premier Padel · Reel",
@@ -23,10 +23,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 17 Aug."
     },
     {
-      "category": "Premier Padel · Carousel",
-      "caption": "The 2026 season so far has been 🔥 #PremierPadel",
+      "category": "Premier Padel · Reel",
+      "caption": "𝐄𝐋 𝐌𝐄𝐉𝐎𝐑 𝐏𝐀𝐃𝐄𝐋 𝐃𝐄𝐋 𝐌𝐔𝐍𝐃𝐎 ❤️🌏 📅 1-6 de septiembre de 2026 🏟️ @movistararenaes ¡Compra ya tu entrada! 🔥 #ComunidaddeMadridPremierPadelP1byOysho #PremierPadel",
       "time": "18 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/DcLdNnBDqh0/",
+      "url": "https://www.instagram.com/premierpadel/reel/DcLvmEfOMQ3/",
       "image": "assets/images/instagram-premierpadel-2.jpg",
       "alt": "Cover image from @premierpadel, published 18 Aug."
     },
@@ -39,12 +39,12 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 17 Aug."
     },
     {
-      "category": "Premier Padel · Reel",
-      "caption": "That's what coming to the Italy Major feels like 🍝🎞️ inspired by @lifeonfilm 💡 #PremierPadel",
-      "time": "17 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/DcJocaiMkfa/",
+      "category": "Premier Padel · Carousel",
+      "caption": "The 2026 season so far has been 🔥 #PremierPadel",
+      "time": "18 Aug",
+      "url": "https://www.instagram.com/premierpadel/p/DcLdNnBDqh0/",
       "image": "assets/images/instagram-premierpadel-3.jpg",
-      "alt": "Cover image from @premierpadel, published 17 Aug."
+      "alt": "Cover image from @premierpadel, published 18 Aug."
     },
     {
       "category": "OH! Padel · Post",
@@ -56,9 +56,9 @@ export default {
     },
     {
       "category": "Premier Padel · Reel",
-      "caption": "Las Lupitas… but make it drawing 🎨✍️😂 #PremierPadel",
+      "caption": "That's what coming to the Italy Major feels like 🍝🎞️ inspired by @lifeonfilm 💡 #PremierPadel",
       "time": "17 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/DcJXG0vK-h9/",
+      "url": "https://www.instagram.com/premierpadel/reel/DcJocaiMkfa/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
       "alt": "Cover image from @premierpadel, published 17 Aug."
     },
@@ -72,11 +72,11 @@ export default {
     },
     {
       "category": "Premier Padel · Reel",
-      "caption": "Exactly a week ago 🎻👑 #PremierPadel",
-      "time": "16 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/DcG7D72siTN/",
+      "caption": "Las Lupitas… but make it drawing 🎨✍️😂 #PremierPadel",
+      "time": "17 Aug",
+      "url": "https://www.instagram.com/premierpadel/reel/DcJXG0vK-h9/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
-      "alt": "Cover image from @premierpadel, published 16 Aug."
+      "alt": "Cover image from @premierpadel, published 17 Aug."
     },
     {
       "category": "OH! Padel · Post",
