@@ -4,13 +4,13 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-21T09:51:36.684Z",
+  "generatedAt": "2026-08-21T15:47:05.637Z",
   "posts": [
     {
       "category": "Premier Padel · Carousel",
-      "caption": "Scrolling back through the memories we’ve made so far 🥹💻 #PremierPadel",
+      "caption": "👊🚪👊🚪 Who’s there? 👀 Us, waiting to see you again ❤️‍🔥 #PremierPadel",
       "time": "21 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/DcTBjHgjkJk/",
+      "url": "https://www.instagram.com/premierpadel/p/DcTnBOLjlTn/",
       "image": "assets/images/instagram-premierpadel-1.jpg",
       "alt": "Cover image from @premierpadel, published 21 Aug."
     },
@@ -23,12 +23,12 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 21 Aug."
     },
     {
-      "category": "Premier Padel · Reel",
-      "caption": "What did La Perla learn on her way to the top? 🏆 Our official podcast, Bandeja de Premier Padel, is out now on all major platforms, featuring exclusive interviews and special gu…",
-      "time": "20 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/DcRNEfLhY_z/",
+      "category": "Premier Padel · Carousel",
+      "caption": "Scrolling back through the memories we’ve made so far 🥹💻 #PremierPadel",
+      "time": "21 Aug",
+      "url": "https://www.instagram.com/premierpadel/p/DcTBjHgjkJk/",
       "image": "assets/images/instagram-premierpadel-2.jpg",
-      "alt": "Cover image from @premierpadel, published 20 Aug."
+      "alt": "Cover image from @premierpadel, published 21 Aug."
     },
     {
       "category": "OH! Padel · Reel",
@@ -40,9 +40,9 @@ export default {
     },
     {
       "category": "Premier Padel · Reel",
-      "caption": "Did you know @juantelloo used to play basketball? 👀🐱🏀 #PremierPadel",
+      "caption": "What did La Perla learn on her way to the top? 🏆 Our official podcast, Bandeja de Premier Padel, is out now on all major platforms, featuring exclusive interviews and special gu…",
       "time": "20 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/DcRCPJ3iq7F/",
+      "url": "https://www.instagram.com/premierpadel/reel/DcRNEfLhY_z/",
       "image": "assets/images/instagram-premierpadel-3.jpg",
       "alt": "Cover image from @premierpadel, published 20 Aug."
     },
@@ -55,10 +55,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 17 Aug."
     },
     {
-      "category": "Premier Padel · Carousel",
-      "caption": "Ver el @movistararenaes lleno…🥹🏟️ #ComunidaddeMadridPremierPadelP1byOysho #PremierPadel #MadridPremierPadelP1",
+      "category": "Premier Padel · Reel",
+      "caption": "Did you know @juantelloo used to play basketball? 👀🐱🏀 #PremierPadel",
       "time": "20 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/DcQtcaeDjsU/",
+      "url": "https://www.instagram.com/premierpadel/reel/DcRCPJ3iq7F/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
       "alt": "Cover image from @premierpadel, published 20 Aug."
     },
@@ -72,11 +72,11 @@ export default {
     },
     {
       "category": "Premier Padel · Carousel",
-      "caption": "From little dreamers to padel stars ⭐️🎾 Part 2 #PremierPadel",
-      "time": "19 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/DcOWjiBjtOK/",
+      "caption": "Ver el @movistararenaes lleno…🥹🏟️ #ComunidaddeMadridPremierPadelP1byOysho #PremierPadel #MadridPremierPadelP1",
+      "time": "20 Aug",
+      "url": "https://www.instagram.com/premierpadel/p/DcQtcaeDjsU/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
-      "alt": "Cover image from @premierpadel, published 19 Aug."
+      "alt": "Cover image from @premierpadel, published 20 Aug."
     },
     {
       "category": "OH! Padel · Post",
