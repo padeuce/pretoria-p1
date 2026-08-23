@@ -4,13 +4,13 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-23T08:47:13.468Z",
+  "generatedAt": "2026-08-23T10:38:35.983Z",
   "posts": [
     {
-      "category": "Premier Padel · Carousel",
-      "caption": "Met the King in Valencia, then became one in Madrid 👑⚽️ See you next week, @cespi10? 👀 #PremierPadel",
+      "category": "Premier Padel · Reel",
+      "caption": "We’ve hit the first half of the season 🥹 #PremierPadel",
       "time": "23 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/DcX_5Eqjmtj/",
+      "url": "https://www.instagram.com/premierpadel/reel/DcYSI34OHuq/",
       "image": "assets/images/instagram-premierpadel-1.jpg",
       "alt": "Cover image from @premierpadel, published 23 Aug."
     },
@@ -23,12 +23,12 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 21 Aug."
     },
     {
-      "category": "Premier Padel · Reel",
-      "caption": "POV: Me preguntan cual es mi plan un sábado 🥘 #PremierPadel",
-      "time": "22 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/DcVs_U1xyGO/",
+      "category": "Premier Padel · Carousel",
+      "caption": "Met the King in Valencia, then became one in Madrid 👑⚽️ See you next week, @cespi10? 👀 #PremierPadel",
+      "time": "23 Aug",
+      "url": "https://www.instagram.com/premierpadel/p/DcX_5Eqjmtj/",
       "image": "assets/images/instagram-premierpadel-2.jpg",
-      "alt": "Cover image from @premierpadel, published 22 Aug."
+      "alt": "Cover image from @premierpadel, published 23 Aug."
     },
     {
       "category": "OH! Padel · Reel",
@@ -40,11 +40,11 @@ export default {
     },
     {
       "category": "Premier Padel · Reel",
-      "caption": "A quick look back at the London P1. 🎾 How’s everyone recovering over the break? This Ball's 𝙎𝙡𝙚𝙚𝙥 𝙎𝙘𝙤𝙧𝙚: 100 😴🔋 #PremierPadel #TheSleepShot #WHOOP",
-      "time": "21 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/DcT7mXgsY3y/",
+      "caption": "POV: Me preguntan cual es mi plan un sábado 🥘 #PremierPadel",
+      "time": "22 Aug",
+      "url": "https://www.instagram.com/premierpadel/reel/DcVs_U1xyGO/",
       "image": "assets/images/instagram-premierpadel-3.jpg",
-      "alt": "Cover image from @premierpadel, published 21 Aug."
+      "alt": "Cover image from @premierpadel, published 22 Aug."
     },
     {
       "category": "OH! Padel · Reel",
@@ -55,10 +55,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 17 Aug."
     },
     {
-      "category": "Premier Padel · Carousel",
-      "caption": "👊🚪👊🚪 Who’s there? 👀 Us, waiting to see you again ❤️‍🔥 #PremierPadel",
+      "category": "Premier Padel · Reel",
+      "caption": "A quick look back at the London P1. 🎾 How’s everyone recovering over the break? This Ball's 𝙎𝙡𝙚𝙚𝙥 𝙎𝙘𝙤𝙧𝙚: 100 😴🔋 #PremierPadel #TheSleepShot #WHOOP",
       "time": "21 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/DcTnBOLjlTn/",
+      "url": "https://www.instagram.com/premierpadel/reel/DcT7mXgsY3y/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
       "alt": "Cover image from @premierpadel, published 21 Aug."
     },
@@ -72,9 +72,9 @@ export default {
     },
     {
       "category": "Premier Padel · Carousel",
-      "caption": "Scrolling back through the memories we’ve made so far 🥹💻 #PremierPadel",
+      "caption": "👊🚪👊🚪 Who’s there? 👀 Us, waiting to see you again ❤️‍🔥 #PremierPadel",
       "time": "21 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/DcTBjHgjkJk/",
+      "url": "https://www.instagram.com/premierpadel/p/DcTnBOLjlTn/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
       "alt": "Cover image from @premierpadel, published 21 Aug."
     },
