@@ -4,11 +4,11 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-24T14:01:28.673Z",
+  "generatedAt": "2026-08-24T14:58:54.846Z",
   "posts": [
     {
       "category": "Premier Padel · Reel",
-      "caption": "Back to @chingotto epic final in the Asuncion P2 🐭🇵🇾 #PremierPadel",
+      "caption": "Back to @chingotto’s epic final in the Asuncion P2 🐭🇵🇾 #PremierPadel",
       "time": "24 Aug",
       "url": "https://www.instagram.com/premierpadel/reel/DcbOggmDokn/",
       "image": "assets/images/instagram-premierpadel-1.jpg",
