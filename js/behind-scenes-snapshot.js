@@ -4,14 +4,30 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-25T15:58:47.515Z",
+  "generatedAt": "2026-08-25T16:54:03.406Z",
   "posts": [
+    {
+      "category": "Premier Padel · Reel",
+      "caption": "A day in the life of @asanchezfallada 🪄 ... Si quieres venir, vení 🤝 @whoop #PremierPadel #WHOOP #DayInTheLife",
+      "time": "25 Aug",
+      "url": "https://www.instagram.com/premierpadel/reel/DceBI2NCuVE/",
+      "image": "assets/images/instagram-premierpadel-1.jpg",
+      "alt": "Cover image from @premierpadel, published 25 Aug."
+    },
+    {
+      "category": "OH! Padel · Carousel",
+      "caption": "Every Amazeballs creation starts with a mountain of retired padel balls — thank you, Stanford, for every smash, mishit and let-cord you've donated. 🎾➡🌸 #AmazeballsInBloom #Stanf…",
+      "time": "25 Aug",
+      "url": "https://www.instagram.com/ohpadel_club/p/DceC1LxjMSc/",
+      "image": "assets/images/instagram-ohpadel-club-1.jpg",
+      "alt": "Cover image from @ohpadel_club, published 25 Aug."
+    },
     {
       "category": "Premier Padel · Post",
       "caption": "This photo of El Lobo winking only appears once a year. Like for good luck 🍀 #PremierPadel",
       "time": "25 Aug",
       "url": "https://www.instagram.com/premierpadel/p/Dcdv4C9iiOg/",
-      "image": "assets/images/instagram-premierpadel-1.jpg",
+      "image": "assets/images/instagram-premierpadel-2.jpg",
       "alt": "Cover image from @premierpadel, published 25 Aug."
     },
     {
@@ -19,7 +35,7 @@ export default {
       "caption": "How many recycled padel balls do you reckon it’ll take to build our surprise? 🎾🎾🎾 Guess below 👇🏼(Spoiler: the answer is an AMAZEBALLS amount!! 🤭) #amazeballs #AmazeballsInBloom…",
       "time": "21 Aug",
       "url": "https://www.instagram.com/ohpadel_club/reel/DcS4KReuId1/",
-      "image": "assets/images/instagram-ohpadel-club-1.jpg",
+      "image": "assets/images/instagram-ohpadel-club-2.jpg",
       "alt": "Cover image from @ohpadel_club, published 21 Aug."
     },
     {
@@ -27,7 +43,7 @@ export default {
       "caption": "Didn’t even need 30 seconds 😉 #PremierPadel",
       "time": "25 Aug",
       "url": "https://www.instagram.com/premierpadel/reel/DcdREOcsUnT/",
-      "image": "assets/images/instagram-premierpadel-2.jpg",
+      "image": "assets/images/instagram-premierpadel-3.jpg",
       "alt": "Cover image from @premierpadel, published 25 Aug."
     },
     {
@@ -35,7 +51,7 @@ export default {
       "caption": "Petal to the metal, Stanford! We’re building something enormous behind the courts. 👀 Hint: it involves a LOT of balls. AMAZEBALLS, to be exact. 😜🙌🏻🎾 #AmazeballsInBloom #stanford…",
       "time": "19 Aug",
       "url": "https://www.instagram.com/ohpadel_club/reel/DcNugrIO1o4/",
-      "image": "assets/images/instagram-ohpadel-club-2.jpg",
+      "image": "assets/images/instagram-ohpadel-club-3.jpg",
       "alt": "Cover image from @ohpadel_club, published 19 Aug."
     },
     {
@@ -43,7 +59,7 @@ export default {
       "caption": "Yes, we know, ... the last one is your favourite 😏 #PremierPadel",
       "time": "24 Aug",
       "url": "https://www.instagram.com/premierpadel/reel/DcbYz3oigMx/",
-      "image": "assets/images/instagram-premierpadel-3.jpg",
+      "image": "assets/images/instagram-premierpadel-4.jpg",
       "alt": "Cover image from @premierpadel, published 24 Aug."
     },
     {
@@ -51,7 +67,7 @@ export default {
       "caption": "Want your business to part of something HUGE this #stanfordinbloom2026? 🙌🏻👀🌸 #amazeballs #ohpadelclub #ballztobooms",
       "time": "17 Aug",
       "url": "https://www.instagram.com/ohpadel_club/reel/DcJ5YqUs_yn/",
-      "image": "assets/images/instagram-ohpadel-club-3.jpg",
+      "image": "assets/images/instagram-ohpadel-club-4.jpg",
       "alt": "Cover image from @ohpadel_club, published 17 Aug."
     },
     {
@@ -59,7 +75,7 @@ export default {
       "caption": "Back to @chingotto’s epic final in the Asuncion P2 🐭🇵🇾 #PremierPadel",
       "time": "24 Aug",
       "url": "https://www.instagram.com/premierpadel/reel/DcbOggmDokn/",
-      "image": "assets/images/instagram-premierpadel-4.jpg",
+      "image": "assets/images/instagram-premierpadel-5.jpg",
       "alt": "Cover image from @premierpadel, published 24 Aug."
     },
     {
@@ -67,24 +83,8 @@ export default {
       "caption": "We’re not just standing around this Spring! Something’s about to bloom at Oh!Padel….and it’s going to be AMAZEBALLS!! #stanfordinbloom2026 , we’re ready for you 😜🌸🎾",
       "time": "17 Aug",
       "url": "https://www.instagram.com/ohpadel_club/reel/DcLuUaZuorL/",
-      "image": "assets/images/instagram-ohpadel-club-4.jpg",
-      "alt": "Cover image from @ohpadel_club, published 17 Aug."
-    },
-    {
-      "category": "Premier Padel · Reel",
-      "caption": "We’ve hit the first half of the season 🥹 #PremierPadel",
-      "time": "23 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/DcYSI34OHuq/",
-      "image": "assets/images/instagram-premierpadel-5.jpg",
-      "alt": "Cover image from @premierpadel, published 23 Aug."
-    },
-    {
-      "category": "OH! Padel · Post",
-      "caption": "OUR WEEK AHEAD‼️#padel #padeltime🎾 #padella #pádel",
-      "time": "14 Aug",
-      "url": "https://www.instagram.com/ohpadel_club/p/DcA4FgIMxJA/",
       "image": "assets/images/instagram-ohpadel-club-5.jpg",
-      "alt": "Cover image from @ohpadel_club, published 14 Aug."
+      "alt": "Cover image from @ohpadel_club, published 17 Aug."
     }
   ]
 };
