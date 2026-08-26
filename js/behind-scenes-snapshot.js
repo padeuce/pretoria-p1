@@ -4,15 +4,15 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-08-25T16:54:03.406Z",
+  "generatedAt": "2026-08-26T09:56:25.912Z",
   "posts": [
     {
       "category": "Premier Padel · Reel",
-      "caption": "A day in the life of @asanchezfallada 🪄 ... Si quieres venir, vení 🤝 @whoop #PremierPadel #WHOOP #DayInTheLife",
-      "time": "25 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/DceBI2NCuVE/",
+      "caption": "Talent not only inside the 20x10 🫣🎨 #PremierPadel",
+      "time": "26 Aug",
+      "url": "https://www.instagram.com/premierpadel/reel/Dcf5S0WjuSW/",
       "image": "assets/images/instagram-premierpadel-1.jpg",
-      "alt": "Cover image from @premierpadel, published 25 Aug."
+      "alt": "Cover image from @premierpadel, published 26 Aug."
     },
     {
       "category": "OH! Padel · Carousel",
@@ -23,10 +23,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 25 Aug."
     },
     {
-      "category": "Premier Padel · Post",
-      "caption": "This photo of El Lobo winking only appears once a year. Like for good luck 🍀 #PremierPadel",
+      "category": "Premier Padel · Reel",
+      "caption": "A day in the life of @asanchezfallada 🪄 ... Si quieres venir, vení 🤝 @whoop #PremierPadel #WHOOP #DayInTheLife",
       "time": "25 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/Dcdv4C9iiOg/",
+      "url": "https://www.instagram.com/premierpadel/reel/DceBI2NCuVE/",
       "image": "assets/images/instagram-premierpadel-2.jpg",
       "alt": "Cover image from @premierpadel, published 25 Aug."
     },
@@ -39,10 +39,10 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 21 Aug."
     },
     {
-      "category": "Premier Padel · Reel",
-      "caption": "Didn’t even need 30 seconds 😉 #PremierPadel",
+      "category": "Premier Padel · Post",
+      "caption": "This photo of El Lobo winking only appears once a year. Like for good luck 🍀 #PremierPadel",
       "time": "25 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/DcdREOcsUnT/",
+      "url": "https://www.instagram.com/premierpadel/p/Dcdv4C9iiOg/",
       "image": "assets/images/instagram-premierpadel-3.jpg",
       "alt": "Cover image from @premierpadel, published 25 Aug."
     },
@@ -56,11 +56,11 @@ export default {
     },
     {
       "category": "Premier Padel · Reel",
-      "caption": "Yes, we know, ... the last one is your favourite 😏 #PremierPadel",
-      "time": "24 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/DcbYz3oigMx/",
+      "caption": "Didn’t even need 30 seconds 😉 #PremierPadel",
+      "time": "25 Aug",
+      "url": "https://www.instagram.com/premierpadel/reel/DcdREOcsUnT/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
-      "alt": "Cover image from @premierpadel, published 24 Aug."
+      "alt": "Cover image from @premierpadel, published 25 Aug."
     },
     {
       "category": "OH! Padel · Reel",
@@ -72,9 +72,9 @@ export default {
     },
     {
       "category": "Premier Padel · Reel",
-      "caption": "Back to @chingotto’s epic final in the Asuncion P2 🐭🇵🇾 #PremierPadel",
+      "caption": "Yes, we know, ... the last one is your favourite 😏 #PremierPadel",
       "time": "24 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/DcbOggmDokn/",
+      "url": "https://www.instagram.com/premierpadel/reel/DcbYz3oigMx/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
       "alt": "Cover image from @premierpadel, published 24 Aug."
     },
