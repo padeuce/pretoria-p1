@@ -4,7 +4,7 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-09-12T09:19:39.378Z",
+  "generatedAt": "2026-09-13T00:01:47.970Z",
   "posts": [
     {
       "category": "Premier Padel · Reel",
@@ -15,10 +15,10 @@ export default {
       "alt": "Cover image from @premierpadel, published 27 Aug."
     },
     {
-      "category": "OH! Padel · Post",
-      "caption": "💥💥💥Want to check out Coach Ethan’s Tournament tomorrow and follow the scores live, from wherever you are? 🙌🏻🎾👉🏼👉🏼👉🏼Follow Oh Padel Tournament Hub with Padeuce. https://ohpadel.p…",
+      "category": "OH! Padel · Reel",
+      "caption": "Floral vibes….despite the rain! 🌸🎾🙌🏻🥰 @stanfordinbloom is in full swing 😎#ballztoblooms #stanfordpadel #stanfordvillagelife #selfie",
       "time": "12 Sept",
-      "url": "https://www.instagram.com/ohpadel_club/p/DdLZ9vxDHbO/",
+      "url": "https://www.instagram.com/ohpadel_club/reel/DdL_oegM5H0/",
       "image": "assets/images/instagram-ohpadel-club-1.jpg",
       "alt": "Cover image from @ohpadel_club, published 12 Sept."
     },
@@ -31,12 +31,12 @@ export default {
       "alt": "Cover image from @premierpadel, published 26 Aug."
     },
     {
-      "category": "OH! Padel · Post",
-      "caption": "It’s finally here!! 🥳🙌🏻🎾 Come and sit, snap 📸 & post 🎇 on our AMAZEBALLS/Oh!Padel Giant Protea selfie seat at the #stanfordinbloom venue from 12 - 27 September 2026, and buy a r…",
-      "time": "10 Sept",
-      "url": "https://www.instagram.com/ohpadel_club/p/DdJXGWCuEpi/",
+      "category": "OH! Padel · Carousel",
+      "caption": "💥💥💥Want to check out Coach Ethan’s Tournament tomorrow and follow the scores live, from wherever you are? 🙌🏻🎾👉🏼👉🏼👉🏼Follow Oh Padel Tournament Hub with Padeuce. https://ohpadel.p…",
+      "time": "12 Sept",
+      "url": "https://www.instagram.com/ohpadel_club/p/DdLZ9vxDHbO/",
       "image": "assets/images/instagram-ohpadel-club-2.jpg",
-      "alt": "Cover image from @ohpadel_club, published 10 Sept."
+      "alt": "Cover image from @ohpadel_club, published 12 Sept."
     },
     {
       "category": "Premier Padel · Carousel",
@@ -47,12 +47,12 @@ export default {
       "alt": "Cover image from @premierpadel, published 27 Aug."
     },
     {
-      "category": "OH! Padel · Post",
-      "caption": "Wondering what it is that @amazeballs_padel does, and why we’re SO excited to be partnering with them on some new and exciting ventures? 👆🏻👆🏻👆🏻🎾🎾🎾 #ohpadelclub #amazeballssoutha…",
-      "time": "09 Sept",
-      "url": "https://www.instagram.com/ohpadel_club/p/DdEmr9msHRm/",
+      "category": "OH! Padel · Reel",
+      "caption": "It’s finally here!! 🥳🙌🏻🎾 Come and sit, snap 📸 & post 🎇 on our AMAZEBALLS/Oh!Padel Giant Protea selfie seat at the #stanfordinbloom venue from 12 - 27 September 2026, and buy a r…",
+      "time": "11 Sept",
+      "url": "https://www.instagram.com/ohpadel_club/reel/DdJXGWCuEpi/",
       "image": "assets/images/instagram-ohpadel-club-3.jpg",
-      "alt": "Cover image from @ohpadel_club, published 09 Sept."
+      "alt": "Cover image from @ohpadel_club, published 11 Sept."
     },
     {
       "category": "Premier Padel · Post",
@@ -64,9 +64,9 @@ export default {
     },
     {
       "category": "OH! Padel · Post",
-      "caption": "Congrats to _*Amoure*_ , our Tuesday Beginners/Intermediate Americano champion! 👑🎉 And a huge thank you to everyone who came out and played last night — the energy on court was…",
+      "caption": "Wondering what it is that @amazeballs_padel does, and why we’re SO excited to be partnering with them on some new and exciting ventures? 👆🏻👆🏻👆🏻🎾🎾🎾 #ohpadelclub #amazeballssoutha…",
       "time": "10 Sept",
-      "url": "https://www.instagram.com/ohpadel_club/p/DdGbGxAsHL9/",
+      "url": "https://www.instagram.com/ohpadel_club/p/DdEmr9msHRm/",
       "image": "assets/images/instagram-ohpadel-club-4.jpg",
       "alt": "Cover image from @ohpadel_club, published 10 Sept."
     },
@@ -80,9 +80,9 @@ export default {
     },
     {
       "category": "OH! Padel · Post",
-      "caption": "🏆 Congrats to *_Sam & Chris_* , our Wednesday Beginners Americano champions! 🎉 And a huge thank you to everyone who came out and played last night — great energy on court from t…",
+      "caption": "Congrats to _*Amoure*_ , our Tuesday Beginners/Intermediate Americano champion! 👑🎉 And a huge thank you to everyone who came out and played last night — the energy on court was…",
       "time": "10 Sept",
-      "url": "https://www.instagram.com/ohpadel_club/p/DdGa2oYM0xa/",
+      "url": "https://www.instagram.com/ohpadel_club/p/DdGbGxAsHL9/",
       "image": "assets/images/instagram-ohpadel-club-5.jpg",
       "alt": "Cover image from @ohpadel_club, published 10 Sept."
     }
