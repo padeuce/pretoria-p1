@@ -4,15 +4,15 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-09-13T00:01:47.970Z",
+  "generatedAt": "2026-09-17T18:12:20.344Z",
   "posts": [
     {
       "category": "Premier Padel · Reel",
-      "caption": "What does it take to become the Mozart? 🎾🎻 Our official podcast, Bandeja de Premier Padel, is out now on all major platforms, featuring exclusive interviews and special guests b…",
-      "time": "27 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/DcjRlspila8/",
+      "caption": "A week ago, @alexarroyoalbert showed us exactly how to start a match 😮‍💨 #PremierPadel #AlpineParisMajor",
+      "time": "17 Sept",
+      "url": "https://www.instagram.com/premierpadel/reel/DdYz5d3sMUY/",
       "image": "assets/images/instagram-premierpadel-1.jpg",
-      "alt": "Cover image from @premierpadel, published 27 Aug."
+      "alt": "Cover image from @premierpadel, published 17 Sept."
     },
     {
       "category": "OH! Padel · Reel",
@@ -23,12 +23,12 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 12 Sept."
     },
     {
-      "category": "Premier Padel · Reel",
-      "caption": "this is padel. technically. 😎 🏒: @ecredbullsalzburg, @redbullmuenchen & @redbulleishockeyakademie 🤝: @mejorset_ #redbull #givesyouwiiings #energydrink #hockey #padel",
-      "time": "26 Aug",
-      "url": "https://www.instagram.com/premierpadel/reel/DcfxqEjim_4/",
+      "category": "Premier Padel · Carousel",
+      "caption": "A quick recap of two weeks to remember 🇪🇸❤️‍🔥🇫🇷 #PremierPadel #MadridPremierPadelP1 #AlpineParisMajor",
+      "time": "16 Sept",
+      "url": "https://www.instagram.com/premierpadel/p/DdWQJJGDr9w/",
       "image": "assets/images/instagram-premierpadel-2.jpg",
-      "alt": "Cover image from @premierpadel, published 26 Aug."
+      "alt": "Cover image from @premierpadel, published 16 Sept."
     },
     {
       "category": "OH! Padel · Carousel",
@@ -39,12 +39,12 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 12 Sept."
     },
     {
-      "category": "Premier Padel · Carousel",
-      "caption": "Felt inspired, made these postcard stamps ❤️‍🔥💌 #PremierPadel",
-      "time": "27 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/DcioWECiiFP/",
+      "category": "Premier Padel · Reel",
+      "caption": "sábado. 19 de septiembre. @redbull TV. lo que no vieron, como nunca me vieron 🥹",
+      "time": "15 Sept",
+      "url": "https://www.instagram.com/premierpadel/reel/DdT_eWENhaH/",
       "image": "assets/images/instagram-premierpadel-3.jpg",
-      "alt": "Cover image from @premierpadel, published 27 Aug."
+      "alt": "Cover image from @premierpadel, published 15 Sept."
     },
     {
       "category": "OH! Padel · Reel",
@@ -55,12 +55,12 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 11 Sept."
     },
     {
-      "category": "Premier Padel · Post",
-      "caption": "Guess who? 🔎 Level: Medium #PremierPadel",
-      "time": "27 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/DciXPHkDufM/",
+      "category": "Premier Padel · Reel",
+      "caption": "A little 𝙍𝙀𝙈inder from Paris 😴 #PremierPadel #TheSleepShot #WHOOP",
+      "time": "15 Sept",
+      "url": "https://www.instagram.com/premierpadel/reel/DdTqPizBESF/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
-      "alt": "Cover image from @premierpadel, published 27 Aug."
+      "alt": "Cover image from @premierpadel, published 15 Sept."
     },
     {
       "category": "OH! Padel · Post",
@@ -71,12 +71,12 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 10 Sept."
     },
     {
-      "category": "Premier Padel · Carousel",
-      "caption": "Batteries recharged 🪫🌞🔋 #PremierPadel",
-      "time": "26 Aug",
-      "url": "https://www.instagram.com/premierpadel/p/DcgPmuwipOv/",
+      "category": "Premier Padel · Post",
+      "caption": "¿Me lo cambias? 😄 #PremierPadel #AlpineParisMajor",
+      "time": "15 Sept",
+      "url": "https://www.instagram.com/premierpadel/p/DdPcEL1uJHx/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
-      "alt": "Cover image from @premierpadel, published 26 Aug."
+      "alt": "Cover image from @premierpadel, published 15 Sept."
     },
     {
       "category": "OH! Padel · Post",
