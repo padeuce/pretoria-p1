@@ -4,15 +4,15 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-09-17T18:12:20.344Z",
+  "generatedAt": "2026-10-03T00:28:46.717Z",
   "posts": [
     {
-      "category": "Premier Padel · Reel",
-      "caption": "A week ago, @alexarroyoalbert showed us exactly how to start a match 😮‍💨 #PremierPadel #AlpineParisMajor",
-      "time": "17 Sept",
-      "url": "https://www.instagram.com/premierpadel/reel/DdYz5d3sMUY/",
+      "category": "Premier Padel · Post",
+      "caption": "The weekend 𝐬𝐭𝐚𝐫𝐭𝐬, but the margin for error 𝐞𝐧𝐝𝐬 📉🔥 ⏰ Swipe for timezones 📊 Livescores & results on the official Premier Padel app on iOS and Android #PremierPadel #RotterdamPr…",
+      "time": "02 Oct",
+      "url": "https://www.instagram.com/premierpadel/p/DeAwl6YirAt/",
       "image": "assets/images/instagram-premierpadel-1.jpg",
-      "alt": "Cover image from @premierpadel, published 17 Sept."
+      "alt": "Cover image from @premierpadel, published 02 Oct."
     },
     {
       "category": "OH! Padel · Reel",
@@ -23,12 +23,12 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 12 Sept."
     },
     {
-      "category": "Premier Padel · Carousel",
-      "caption": "A quick recap of two weeks to remember 🇪🇸❤️‍🔥🇫🇷 #PremierPadel #MadridPremierPadelP1 #AlpineParisMajor",
-      "time": "16 Sept",
-      "url": "https://www.instagram.com/premierpadel/p/DdWQJJGDr9w/",
+      "category": "Premier Padel · Post",
+      "caption": "The official men and women's #RotterdamPremierPadelP2 main draws are out! 🔥 #PremierPadel",
+      "time": "28 Sept",
+      "url": "https://www.instagram.com/premierpadel/p/Dd07kf-DrmX/",
       "image": "assets/images/instagram-premierpadel-2.jpg",
-      "alt": "Cover image from @premierpadel, published 16 Sept."
+      "alt": "Cover image from @premierpadel, published 28 Sept."
     },
     {
       "category": "OH! Padel · Carousel",
@@ -39,12 +39,12 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 12 Sept."
     },
     {
-      "category": "Premier Padel · Reel",
-      "caption": "sábado. 19 de septiembre. @redbull TV. lo que no vieron, como nunca me vieron 🥹",
-      "time": "15 Sept",
-      "url": "https://www.instagram.com/premierpadel/reel/DdT_eWENhaH/",
+      "category": "Premier Padel · Post",
+      "caption": "Rotterdam, get ready 🔥👀 📺 Slide to see where to watch #PremierPadel #RotterdamPremierPadelP2",
+      "time": "28 Sept",
+      "url": "https://www.instagram.com/premierpadel/p/Dd1tzPzDsQi/",
       "image": "assets/images/instagram-premierpadel-3.jpg",
-      "alt": "Cover image from @premierpadel, published 15 Sept."
+      "alt": "Cover image from @premierpadel, published 28 Sept."
     },
     {
       "category": "OH! Padel · Reel",
@@ -55,12 +55,12 @@ export default {
       "alt": "Cover image from @ohpadel_club, published 11 Sept."
     },
     {
-      "category": "Premier Padel · Reel",
-      "caption": "A little 𝙍𝙀𝙈inder from Paris 😴 #PremierPadel #TheSleepShot #WHOOP",
-      "time": "15 Sept",
-      "url": "https://www.instagram.com/premierpadel/reel/DdTqPizBESF/",
+      "category": "Premier Padel · Post",
+      "caption": "Semi-finals secured 🔒🥥🐍 📲 Did you get it right? Vote now on Premier Predict in our official app for iOS and Android. #PremierPadel #RotterdamPremierPadelP2",
+      "time": "02 Oct",
+      "url": "https://www.instagram.com/premierpadel/p/DeAwKzIik5o/",
       "image": "assets/images/instagram-premierpadel-4.jpg",
-      "alt": "Cover image from @premierpadel, published 15 Sept."
+      "alt": "Cover image from @premierpadel, published 02 Oct."
     },
     {
       "category": "OH! Padel · Post",
@@ -72,11 +72,11 @@ export default {
     },
     {
       "category": "Premier Padel · Post",
-      "caption": "¿Me lo cambias? 😄 #PremierPadel #AlpineParisMajor",
-      "time": "15 Sept",
-      "url": "https://www.instagram.com/premierpadel/p/DdPcEL1uJHx/",
+      "caption": "Big bark, soft bite 🐺🤫 @juanlebronc #PremierPadel #RotterdamPremierPadelP2",
+      "time": "02 Oct",
+      "url": "https://www.instagram.com/premierpadel/p/DeAt9lzKf_f/",
       "image": "assets/images/instagram-premierpadel-5.jpg",
-      "alt": "Cover image from @premierpadel, published 15 Sept."
+      "alt": "Cover image from @premierpadel, published 02 Oct."
     },
     {
       "category": "OH! Padel · Post",
