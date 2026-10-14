@@ -4,7 +4,7 @@ export default {
     "https://www.instagram.com/premierpadel/",
     "https://www.instagram.com/ohpadel_club/"
   ],
-  "generatedAt": "2026-10-13T11:46:07.621Z",
+  "generatedAt": "2026-10-14T01:56:59.810Z",
   "posts": [
     {
       "category": "Premier Padel · Post",
@@ -16,11 +16,11 @@ export default {
     },
     {
       "category": "OH! Padel · Post",
-      "caption": "We had a fun, action-packed first Oh!Padel tournament yesterday! 🎾 There were some incredible rallies, lots of laughs and fantastic energy. Thank you to everyone who played, and…",
-      "time": "11 Oct",
-      "url": "https://www.instagram.com/ohpadel_club/p/DeWLXYTs7Q3/",
+      "caption": "Swapped rackets for airsoft rifles 🎯 Huge thanks to Extreme Tactical Airsoft for hosting the OH! Padel crew for some fun tactical and competitive games. Bragging rights were won…",
+      "time": "13 Oct",
+      "url": "https://www.instagram.com/ohpadel_club/p/DecRp_Ps79g/",
       "image": "assets/images/instagram-ohpadel-club-1.jpg",
-      "alt": "Cover image from @ohpadel_club, published 11 Oct."
+      "alt": "Cover image from @ohpadel_club, published 13 Oct."
     },
     {
       "category": "Premier Padel · Post",
@@ -32,11 +32,11 @@ export default {
     },
     {
       "category": "OH! Padel · Post",
-      "caption": "We can’t quite believe that it’s already been 1 whole since we opened our doors and our courts. 🎾 One year of building our team, one year of building our community, and one year…",
-      "time": "03 Oct",
-      "url": "https://www.instagram.com/ohpadel_club/p/DeBl4CDMR9n/",
+      "caption": "We had a fun, action-packed first Oh!Padel tournament yesterday! 🎾 There were some incredible rallies, lots of laughs and fantastic energy. Thank you to everyone who played, and…",
+      "time": "11 Oct",
+      "url": "https://www.instagram.com/ohpadel_club/p/DeWLXYTs7Q3/",
       "image": "assets/images/instagram-ohpadel-club-2.jpg",
-      "alt": "Cover image from @ohpadel_club, published 03 Oct."
+      "alt": "Cover image from @ohpadel_club, published 11 Oct."
     },
     {
       "category": "Premier Padel · Post",
@@ -48,11 +48,11 @@ export default {
     },
     {
       "category": "OH! Padel · Post",
-      "caption": "How did we do it? 😉 🌸 FUN FACTS 🌸 Our Giant Protea Pavilion took 84 hours ⏰, 2 teams (one working days ☀️ and one working nights 😴!!) and roughly 5900 recycled balls! ♻️🎾. That’…",
-      "time": "31 Aug",
-      "url": "https://www.instagram.com/ohpadel_club/p/Dd4BInhO59f/",
+      "caption": "We can’t quite believe that it’s already been 1 whole since we opened our doors and our courts. 🎾 One year of building our team, one year of building our community, and one year…",
+      "time": "03 Oct",
+      "url": "https://www.instagram.com/ohpadel_club/p/DeBl4CDMR9n/",
       "image": "assets/images/instagram-ohpadel-club-3.jpg",
-      "alt": "Cover image from @ohpadel_club, published 31 Aug."
+      "alt": "Cover image from @ohpadel_club, published 03 Oct."
     },
     {
       "category": "Premier Padel · Post",
@@ -64,11 +64,11 @@ export default {
     },
     {
       "category": "OH! Padel · Post",
-      "caption": "We had so much FUN! Thank you for visiting our Giant Protea for #StanfordInBloom and for supporting our Raffle for #Amazeballs 🥳🤗🎾🙌🏻🥇. Still want a selfie with our Giant Protea?…",
-      "time": "28 Sept",
-      "url": "https://www.instagram.com/ohpadel_club/p/Dd1Ur7FBPun/",
+      "caption": "How did we do it? 😉 🌸 FUN FACTS 🌸 Our Giant Protea Pavilion took 84 hours ⏰, 2 teams (one working days ☀️ and one working nights 😴!!) and roughly 5900 recycled balls! ♻️🎾. That’…",
+      "time": "31 Aug",
+      "url": "https://www.instagram.com/ohpadel_club/p/Dd4BInhO59f/",
       "image": "assets/images/instagram-ohpadel-club-4.jpg",
-      "alt": "Cover image from @ohpadel_club, published 28 Sept."
+      "alt": "Cover image from @ohpadel_club, published 31 Aug."
     },
     {
       "category": "Premier Padel · Post",
@@ -80,11 +80,11 @@ export default {
     },
     {
       "category": "OH! Padel · Post",
-      "caption": "Due to the rain starting, our raffle draw happened a little earlier than planned, but it was still AMAZEBALLS! 🎾🎾🎾📦 THANK YOU to everyone that bought tickets and supported the i…",
-      "time": "26 Sept",
-      "url": "https://www.instagram.com/ohpadel_club/p/DdwX2CIsssA/",
+      "caption": "We had so much FUN! Thank you for visiting our Giant Protea for #StanfordInBloom and for supporting our Raffle for #Amazeballs 🥳🤗🎾🙌🏻🥇. Still want a selfie with our Giant Protea?…",
+      "time": "28 Sept",
+      "url": "https://www.instagram.com/ohpadel_club/p/Dd1Ur7FBPun/",
       "image": "assets/images/instagram-ohpadel-club-5.jpg",
-      "alt": "Cover image from @ohpadel_club, published 26 Sept."
+      "alt": "Cover image from @ohpadel_club, published 28 Sept."
     }
   ]
 };
